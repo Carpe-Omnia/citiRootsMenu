@@ -1,0 +1,275 @@
+/* Citi Roots in-store TV slideshow
+   Designed on a fixed 1080x1920 portrait canvas (#stage) that display.js
+   scales to fit the screen, so it looks the same on any TV resolution. */
+
+:root {
+  --bg-1: #0b2218;
+  --bg-2: #123426;
+  --cream: #f6f1e4;
+  --muted: rgba(246, 241, 228, 0.62);
+  --accent: #c8f169;        /* overridden per theme */
+  --accent-2: #8fd14f;
+  --fade: 1.6s;
+}
+
+body[data-theme="new"]   { --accent: #c8f169; --accent-2: #7fcf5a; }
+body[data-theme="staff"] { --accent: #f4c96b; --accent-2: #e9965a; }
+body[data-theme="top"]   { --accent: #ff9b7a; --accent-2: #f2648a; }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #06140e;
+  cursor: none;
+}
+
+body {
+  font-family: "Outfit", "Helvetica Neue", Arial, sans-serif;
+  color: var(--cream);
+  -webkit-font-smoothing: antialiased;
+}
+
+#stage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1080px;
+  height: 1920px;
+  margin: -960px 0 0 -540px;
+  overflow: hidden;
+  background:
+    radial-gradient(1200px 900px at 15% 0%, rgba(255, 255, 255, 0.07), transparent 60%),
+    linear-gradient(170deg, var(--bg-2), var(--bg-1) 55%, #071a12);
+}
+
+/* Slow drifting glow so nothing on screen stays perfectly still all day */
+.glow {
+  position: absolute;
+  width: 1400px;
+  height: 1400px;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--accent) 0%, transparent 62%);
+  opacity: 0.13;
+  filter: blur(40px);
+  animation: drift 90s ease-in-out infinite alternate;
+  pointer-events: none;
+}
+.glow.one { top: -500px; right: -600px; }
+.glow.two {
+  bottom: -700px; left: -700px;
+  background: radial-gradient(circle, var(--accent-2) 0%, transparent 62%);
+  animation-duration: 120s;
+  animation-direction: alternate-reverse;
+}
+@keyframes drift {
+  0%   { transform: translate(0, 0) scale(1); }
+  50%  { transform: translate(-160px, 220px) scale(1.12); }
+  100% { transform: translate(120px, 420px) scale(0.95); }
+}
+
+/* ---------- Header ---------- */
+header {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 480px;
+  padding: 76px 80px 0;
+  z-index: 2;
+}
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: 0.42em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.eyebrow svg { width: 38px; height: 38px; color: var(--accent); flex: none; }
+.eyebrow .rule { flex: 1; height: 2px; background: linear-gradient(90deg, rgba(246,241,228,0.35), transparent); }
+.eyebrow .count { letter-spacing: 0.12em; font-variant-numeric: tabular-nums; }
+
+h1 {
+  margin-top: 22px;
+  font-family: "Fraunces", Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  font-size: 132px;
+  line-height: 0.94;
+  letter-spacing: -0.02em;
+  background: linear-gradient(100deg, var(--cream) 10%, var(--accent) 95%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.tagline {
+  margin-top: 18px;
+  font-family: "Fraunces", Georgia, serif;
+  font-style: italic;
+  font-size: 38px;
+  color: var(--muted);
+}
+
+/* ---------- Slides ---------- */
+#slides {
+  position: absolute;
+  top: 500px; left: 0; right: 0;
+  height: 1280px;
+  z-index: 1;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  padding: 0 80px;
+  opacity: 0;
+  transition: opacity var(--fade) ease-in-out;
+}
+.slide.active { opacity: 1; }
+
+.photo {
+  position: relative;
+  height: 700px;
+  border-radius: 48px;
+  background: #fff;
+  overflow: hidden;
+  box-shadow: 0 40px 80px rgba(0, 0, 0, 0.35), 0 0 0 6px rgba(255, 255, 255, 0.06);
+}
+.photo img {
+  position: absolute;
+  inset: 50px;
+  width: calc(100% - 100px);
+  height: calc(100% - 100px);
+  object-fit: contain;
+  transform: scale(1);
+}
+/* Slow push-in while a slide is up */
+.slide.active .photo img { animation: pushin 20s ease-out forwards; }
+@keyframes pushin { from { transform: scale(1); } to { transform: scale(1.07); } }
+
+.photo .strain {
+  position: absolute;
+  top: 36px; left: 36px;
+  padding: 12px 26px;
+  border-radius: 999px;
+  background: var(--bg-1);
+  color: var(--accent);
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.photo .strain:empty { display: none; }
+
+.info {
+  height: 310px;
+  padding-top: 36px;
+  display: flex;
+  flex-direction: column;
+}
+.brand {
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.name {
+  margin-top: 14px;
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 72px;          /* display.js shrinks this to fit */
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  max-height: 160px;        /* two lines */
+  overflow: hidden;
+}
+.details {
+  margin-top: 10px;
+  font-size: 34px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.details:empty { display: none; }
+
+.bottom {
+  height: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  border-top: 2px solid rgba(246, 241, 228, 0.14);
+}
+.price-block { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.price {
+  font-size: 136px;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--cream);
+  font-variant-numeric: tabular-nums;
+}
+.thc {
+  align-self: flex-start;
+  padding: 10px 24px;
+  border: 2px solid var(--accent);
+  border-radius: 999px;
+  font-size: 32px;
+  font-weight: 600;
+  color: var(--accent);
+}
+.thc:empty { display: none; }
+
+.qr-block { display: flex; flex-direction: column; align-items: center; gap: 12px; flex: none; }
+.qr-label {
+  white-space: nowrap;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--cream);
+}
+.qr {
+  width: 206px;
+  height: 206px;
+  padding: 14px;
+  border-radius: 28px;
+  background: #fff;
+  flex: none;
+}
+.qr svg { display: block; width: 100%; height: 100%; }
+
+/* ---------- Footer progress ---------- */
+footer {
+  position: absolute;
+  left: 80px; right: 80px; bottom: 64px;
+  z-index: 2;
+}
+.dots { display: flex; gap: 14px; justify-content: center; margin-bottom: 26px; }
+.dots span {
+  width: 14px; height: 14px; border-radius: 50%;
+  background: rgba(246, 241, 228, 0.25);
+  transition: background 0.8s, transform 0.8s;
+}
+.dots span.on { background: var(--accent); transform: scale(1.35); }
+.bar { height: 6px; border-radius: 3px; background: rgba(246, 241, 228, 0.12); overflow: hidden; }
+.bar i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--accent-2), var(--accent)); }
+
+/* ---------- Empty / loading state ---------- */
+.empty {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 24px;
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 64px;
+  color: var(--muted);
+}
+.empty small { font-family: "Outfit", Arial, sans-serif; font-size: 32px; }
