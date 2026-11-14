@@ -1,0 +1,13 @@
+{
+  "name": "citi-roots-menu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape.js",
+    "scrape:headed": "node scrape.js --headed",
+    "check-link": "node scrape.js --headed --check-link"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
