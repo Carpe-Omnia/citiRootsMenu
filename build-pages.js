@@ -102,3 +102,31 @@ for (const store of stores) {
   console.log(`${store.name}: ${store.sections.map(s => `${store.id}/${s.id}.html`).join(', ')}`);
 }
 console.log(`Live data is read from github.com/${repo}`);
+
+// ---- Store index for the mobile feed (index.html): data/stores.json ----
+// Each store config points at its entry in data/nj-dispensaries.json via "listing",
+// which supplies the address and map position used for "miles away".
+const listingFile = path.join(ROOT, 'data', 'nj-dispensaries.json');
+const listings = fs.existsSync(listingFile)
+  ? Object.fromEntries(JSON.parse(fs.readFileSync(listingFile, 'utf8')).dispensaries.map(d => [d.id, d]))
+  : {};
+const manifest = stores.map(store => {
+  const l = listings[store.listing];
+  if (!l) console.warn(`! ${store.id}: "listing" ${JSON.stringify(store.listing)} not found in data/nj-dispensaries.json (no distance shown)`);
+  return {
+    id: store.id,
+    name: store.name,
+    listing: store.listing || null,
+    address: l ? l.address : null,
+    city: l ? l.city : null,
+    lat: l ? l.lat : null,
+    lng: l ? l.lng : null,
+    website: l ? l.website : null,
+    phone: l ? l.phone : null,
+    display: store.display,
+    sections: store.sections.map(s => ({ id: s.id, title: s.title, accent: s.accent })),
+    products: `data/${store.id}/products.json`,
+  };
+});
+fs.writeFileSync(path.join(ROOT, 'data', 'stores.json'), JSON.stringify({ stores: manifest }, null, 2) + '\n');
+console.log(`data/stores.json: ${manifest.length} stores (${manifest.filter(m => m.lat != null).length} with a location)`);

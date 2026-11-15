@@ -1,0 +1,6528 @@
+{
+  "source": "NJ Cannabis Regulatory Commission dispensary map (nj.gov/cannabis/dispensaries/find)",
+  "retrieved": "2026-11-14",
+  "count": 334,
+  "dispensaries": [
+    {
+      "id": "1634-funk-jersey-city",
+      "name": "1634 Funk",
+      "website": "https://1634funk.com/",
+      "phone": "(201) 862-8877",
+      "address": "394 Communipaw Ave, Jersey City, NJ 07304",
+      "street": "394 Communipaw Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07304",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.718,
+      "lng": -74.0754,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "24-dispensary-west-milford",
+      "name": "24 Dispensary",
+      "website": "https://www.canabhang.com/",
+      "phone": "(862) 384-6501",
+      "address": "24 Marshall Hill Rd, West Milford, NJ 07480",
+      "street": "24 Marshall Hill Rd",
+      "city": "West Milford",
+      "state": "NJ",
+      "zip": "07480",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.0915,
+      "lng": -74.375,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "4twenty-somewhere-hewitt",
+      "name": "4Twenty Somewhere",
+      "website": "https://4twentysomewhere.com/",
+      "phone": "(973) 506-4503",
+      "address": "1938 Union Valley Rd, Hewitt, NJ 07421",
+      "street": "1938 Union Valley Rd",
+      "city": "Hewitt",
+      "state": "NJ",
+      "zip": "07421",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 41.1709,
+      "lng": -74.3686,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "a-z-supply-bloomfield",
+      "name": "A-Z Supply",
+      "website": "https://azsupplynj.com/",
+      "phone": "(201) 254-4277",
+      "address": "1283 Broad St, Bloomfield, NJ 07003",
+      "street": "1283 Broad St",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "zip": "07003",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8035,
+      "lng": -74.1891,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "a21-wellness-scotch-plains",
+      "name": "A21 Wellness",
+      "website": "https://a21dispensary.com/",
+      "phone": "(908) 228-2619",
+      "address": "2507 US-22, Scotch Plains, NJ 07076",
+      "street": "2507 US-22",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "zip": "07076",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.6379,
+      "lng": -74.3682,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ac-leef-atlantic-city",
+      "name": "AC Leef",
+      "website": "https://acleef.com/",
+      "phone": "(609) 464-1568",
+      "address": "470 N Albany Ave, Atlantic City, NJ 08401",
+      "street": "470 N Albany Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "altitude-cannabis-toms-river",
+      "name": "Altitude Cannabis",
+      "website": "https://www.altitudecannanj.com/",
+      "phone": "(848) 223-7265",
+      "address": "225 Atlantic City Blvd, Toms River, NJ 08757",
+      "street": "225 Atlantic City Blvd",
+      "city": "Toms River",
+      "state": "NJ",
+      "zip": "08757",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9715,
+      "lng": -74.2512,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "altius-nj-glassboro",
+      "name": "Altius NJ",
+      "website": "https://altiusdispensary.com/location/glassboro/",
+      "phone": null,
+      "address": "60 Delsea Dr N, Glassboro, NJ 08028",
+      "street": "60 Delsea Dr N",
+      "city": "Glassboro",
+      "state": "NJ",
+      "zip": "08028",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7068,
+      "lng": -75.1172,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "andover-cannabis-andover",
+      "name": "Andover Cannabis",
+      "website": "https://andovercannabis.llc/",
+      "phone": "(973) 437-3040",
+      "address": "144-146 Main St, Andover, NJ 07821",
+      "street": "144-146 Main St",
+      "city": "Andover",
+      "state": "NJ",
+      "zip": "07821",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9614,
+      "lng": -74.7524,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "anja-life-highland-park",
+      "name": "Anja Life",
+      "website": "https://www.getanja.com/",
+      "phone": "(732) 995-9390",
+      "address": "225 Woodbridge Ave, Highland Park, NJ 08904",
+      "street": "225 Woodbridge Ave",
+      "city": "Highland Park",
+      "state": "NJ",
+      "zip": "08904",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.4991,
+      "lng": -74.4266,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "apothecarium-dispensary-lodi",
+      "name": "Apothecarium Dispensary",
+      "website": "https://apothecariumnj.com/lodi/",
+      "phone": "(862) 910-2420",
+      "address": "200 NJ-17, Lodi, NJ 07644",
+      "street": "200 NJ-17",
+      "city": "Lodi",
+      "state": "NJ",
+      "zip": "07644",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8764,
+      "lng": -74.0838,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "apothecarium-dispensary-maplewood",
+      "name": "Apothecarium Dispensary",
+      "website": "https://apothecariumnj.com/maplewood/",
+      "phone": "(973) 996-1420",
+      "address": "1865 Springfield Ave, Maplewood, NJ 07040",
+      "street": "1865 Springfield Ave",
+      "city": "Maplewood",
+      "state": "NJ",
+      "zip": "07040",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7279,
+      "lng": -74.2656,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "apothecarium-dispensary-phillipsburg",
+      "name": "Apothecarium Dispensary",
+      "website": "https://apothecariumnj.com/phillipsburg/",
+      "phone": "(908) 777-7420",
+      "address": "55 S Main St, Phillipsburg, NJ 08865",
+      "street": "55 S Main St",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "zip": "08865",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7079,
+      "lng": -75.1507,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ascend-fort-lee",
+      "name": "Ascend",
+      "website": "https://letsascend.com/locations/new-jersey/fort-lee/",
+      "phone": "(973) 200-7696",
+      "address": "461-469 West St, Fort Lee, NJ 07024",
+      "street": "461-469 West St",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "zip": "07024",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.8503,
+      "lng": -73.9745,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ascend-rochelle-park",
+      "name": "Ascend",
+      "website": "https://letsascend.com/menu/nj-rochelle-park-menu/",
+      "phone": "(973) 370-3150",
+      "address": "174 NJ-17, Rochelle Park, NJ 07662",
+      "street": "174 NJ-17",
+      "city": "Rochelle Park",
+      "state": "NJ",
+      "zip": "07662",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.9057,
+      "lng": -74.079,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ascend-wharton",
+      "name": "Ascend",
+      "website": "https://letsascend.com/menu/nj-montclair-menu/",
+      "phone": "(862) 339-6770",
+      "address": "325 NJ-15, Wharton, NJ 07885",
+      "street": "325 NJ-15",
+      "city": "Wharton",
+      "state": "NJ",
+      "zip": "07885",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9139,
+      "lng": -74.5863,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "atlantic-flower-egg-harbor-city",
+      "name": "Atlantic Flower",
+      "website": "https://atlanticflowerdispensary.com/",
+      "phone": "(609) 833-6760",
+      "address": "118 White Horse Pike, Egg Harbor City, NJ 08215",
+      "street": "118 White Horse Pike",
+      "city": "Egg Harbor City",
+      "state": "NJ",
+      "zip": "08215",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.5331,
+      "lng": -74.6177,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "aunt-marys-dispensary-flemington",
+      "name": "Aunt Mary's Dispensary",
+      "website": "http://www.auntmarysnj.co/",
+      "phone": "(908) 257-0421",
+      "address": "100 Reaville Ave, Flemington, NJ 08822",
+      "street": "100 Reaville Ave",
+      "city": "Flemington",
+      "state": "NJ",
+      "zip": "08822",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.518,
+      "lng": -74.8453,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "aurum-botanics-pemberton",
+      "name": "Aurum Botanics",
+      "website": "https://aurumbotanics.com/",
+      "phone": "(609) 726-5025",
+      "address": "6 Fort Dix Rd, Pemberton, NJ 08068",
+      "street": "6 Fort Dix Rd",
+      "city": "Pemberton",
+      "state": "NJ",
+      "zip": "08068",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9712,
+      "lng": -74.6676,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "authorized-dealer-dispensary-north-bergen",
+      "name": "Authorized Dealer Dispensary",
+      "website": "https://yourdealer.co/locations/",
+      "phone": null,
+      "address": "2600 Tonnelle Ave, North Bergen, NJ 07047",
+      "street": "2600 Tonnelle Ave",
+      "city": "North Bergen",
+      "state": "NJ",
+      "zip": "07047",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7939,
+      "lng": -74.0258,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "authorized-dealer-dispensary-iii-jersey-city",
+      "name": "Authorized Dealer Dispensary III",
+      "website": "http://baystgreenery.com/",
+      "phone": "(201) 482-9675",
+      "address": "150 Bay St, Jersey City, NJ 07302",
+      "street": "150 Bay St",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7221,
+      "lng": -74.0469,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "authorized-dealer-dispensary-iv-willingboro",
+      "name": "Authorized Dealer Dispensary IV",
+      "website": "https://yourdealer.co/",
+      "phone": null,
+      "address": "4306 US-130, Willingboro, NJ 08046",
+      "street": "4306 US-130",
+      "city": "Willingboro",
+      "state": "NJ",
+      "zip": "08046",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.029,
+      "lng": -74.8835,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ayr-wellness-eatontown",
+      "name": "Ayr Wellness",
+      "website": "https://gardenstatedispensary.com/locations/eatontown/",
+      "phone": "(848) 999-2005",
+      "address": "59 NJ-35, Eatontown, NJ 07724",
+      "street": "59 NJ-35",
+      "city": "Eatontown",
+      "state": "NJ",
+      "zip": "07724",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3028,
+      "lng": -74.0698,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ayr-wellness-union",
+      "name": "Ayr Wellness",
+      "website": "https://gardenstatedispensary.com/locations/union/",
+      "phone": "(848) 999-2005",
+      "address": "2536 US-22, Union, NJ 07083",
+      "street": "2536 US-22",
+      "city": "Union",
+      "state": "NJ",
+      "zip": "07083",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6952,
+      "lng": -74.2677,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ayr-wellness-woodbridge",
+      "name": "Ayr Wellness",
+      "website": "https://gardenstatedispensary.com/locations/woodbridge/",
+      "phone": "(848) 999-2005",
+      "address": "950 US-1, Woodbridge, NJ 07095",
+      "street": "950 US-1",
+      "city": "Woodbridge",
+      "state": "NJ",
+      "zip": "07095",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.556,
+      "lng": -74.2845,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "b-caf-dispensary-scotch-plains",
+      "name": "B Caf Dispensary",
+      "website": "https://www.bcafdispensary.com/",
+      "phone": "(908) 936-2838",
+      "address": "2600 US-22, Scotch Plains, NJ 07076",
+      "street": "2600 US-22",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "zip": "07076",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6379,
+      "lng": -74.3682,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "baked-by-the-river-lambertville",
+      "name": "Baked by the River",
+      "website": "http://www.bakedbytheriver.com/",
+      "phone": "(609) 669-0501",
+      "address": "8 Church St, Lambertville, NJ 08530",
+      "street": "8 Church St",
+      "city": "Lambertville",
+      "state": "NJ",
+      "zip": "08530",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3731,
+      "lng": -74.9266,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "baked-goodz-east-orange",
+      "name": "Baked Goodz",
+      "website": "https://bakedgoodz6.com/home",
+      "phone": null,
+      "address": "484 Main St, East Orange, NJ 07018",
+      "street": "484 Main St",
+      "city": "East Orange",
+      "state": "NJ",
+      "zip": "07018",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7558,
+      "lng": -74.2198,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bakin-bad-atlantic-city",
+      "name": "Bakin’ Bad",
+      "website": "http://bakinbadac.com/",
+      "phone": "(609) 246-6415",
+      "address": "2834 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "2834 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "benedicts-supply-jersey-city",
+      "name": "Benedict's Supply",
+      "website": "https://benedictssupply.com/",
+      "phone": "(201) 721-5434",
+      "address": "3523 John F. Kennedy Blvd, Jersey City, NJ 07307",
+      "street": "3523 John F. Kennedy Blvd",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7482,
+      "lng": -74.0498,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "best-budz-nj-dispensary-saddle-brook",
+      "name": "Best Budz NJ Dispensary",
+      "website": "https://www.bestbudznj.com/",
+      "phone": "(201) 540-2032",
+      "address": "249 US-46, Saddle Brook, NJ 07663",
+      "street": "249 US-46",
+      "city": "Saddle Brook",
+      "state": "NJ",
+      "zip": "07663",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9031,
+      "lng": -74.0955,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bestbuds-woodbury",
+      "name": "BestBuds",
+      "website": "https://bestbudsnj.com/",
+      "phone": "(856) 443-7740",
+      "address": "135 S Broad St, Woodbury, NJ 08096",
+      "street": "135 S Broad St",
+      "city": "Woodbury",
+      "state": "NJ",
+      "zip": "08096",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.7539,
+      "lng": -74.996,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "beyond-hello-little-ferry-dispensary-little-ferry",
+      "name": "Beyond Hello Little Ferry Dispensary",
+      "website": "https://beyond-hello.com/new-jersey-dispensaries/little-ferry/",
+      "phone": "(551) 340-4202",
+      "address": "415 US-46, Little Ferry, NJ 07643",
+      "street": "415 US-46",
+      "city": "Little Ferry",
+      "state": "NJ",
+      "zip": "07643",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8493,
+      "lng": -74.0405,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "blaze-green-paterson",
+      "name": "Blaze Green",
+      "website": null,
+      "phone": null,
+      "address": "27 E 33rd St, Paterson, NJ 07514",
+      "street": "27 E 33rd St",
+      "city": "Paterson",
+      "state": "NJ",
+      "zip": "07514",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9248,
+      "lng": -74.1467,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "blazin-buddiez-bridgeton",
+      "name": "Blazin Buddiez",
+      "website": "https://blazinbuddiez.com/",
+      "phone": "(856) 459-5006",
+      "address": "991 E Commerce St, Bridgeton, NJ 08302",
+      "street": "991 E Commerce St",
+      "city": "Bridgeton",
+      "state": "NJ",
+      "zip": "08302",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3762,
+      "lng": -75.1617,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "blkbrn-cannabis-dispensary-highland-park",
+      "name": "BLKBRN Cannabis Dispensary",
+      "website": "https://www.blkbrndispensary.com/",
+      "phone": "(848) 202-1963",
+      "address": "176 Woodbridge Ave, Highland Park, NJ 08904",
+      "street": "176 Woodbridge Ave",
+      "city": "Highland Park",
+      "state": "NJ",
+      "zip": "08904",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4991,
+      "lng": -74.4266,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bloc-ewing-township",
+      "name": "BLOC",
+      "website": "https://www.blocdispensary.com/",
+      "phone": "(973) 494-8499",
+      "address": "1761 N Olden Ave, Ewing Township, NJ 08638",
+      "street": "1761 N Olden Ave",
+      "city": "Ewing Township",
+      "state": "NJ",
+      "zip": "08638",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.251,
+      "lng": -74.7627,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bloc-somerset",
+      "name": "BLOC",
+      "website": "https://www.blocdispensary.com/",
+      "phone": "(732) 790-5899",
+      "address": "1075 Easton Ave, Somerset, NJ 08873",
+      "street": "1075 Easton Ave",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bloc-waretown",
+      "name": "BLOC",
+      "website": "https://www.blocdispensary.com/",
+      "phone": "(973) 494-8550",
+      "address": "501 US-9, Waretown, NJ 08758",
+      "street": "501 US-9",
+      "city": "Waretown",
+      "state": "NJ",
+      "zip": "08758",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7896,
+      "lng": -74.1954,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "blue-oak-nj-1-bloomfield",
+      "name": "Blue Oak NJ 1",
+      "website": "http://blueoaknj.com/",
+      "phone": "(973) 893-8111",
+      "address": "1025 Broad St suite 2, Bloomfield, NJ 07003",
+      "street": "1025 Broad St suite 2",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "zip": "07003",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.8035,
+      "lng": -74.1891,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "blue-violets-hoboken",
+      "name": "Blue Violets",
+      "website": "http://blueviolets.co/",
+      "phone": "(201) 771-0323",
+      "address": "628 Washington St, Hoboken, NJ 07030",
+      "street": "628 Washington St",
+      "city": "Hoboken",
+      "state": "NJ",
+      "zip": "07030",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7445,
+      "lng": -74.0329,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "blulight-cannabis-woodbury-heights",
+      "name": "BluLight Cannabis",
+      "website": "https://blulight.com/",
+      "phone": "(856) 221-4000",
+      "address": "890 Mantua Pike, Woodbury Heights, NJ 08097",
+      "street": "890 Mantua Pike",
+      "city": "Woodbury Heights",
+      "state": "NJ",
+      "zip": "08097",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.8142,
+      "lng": -75.153,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "blulight-cannabis-dispensary-gloucester-city-gloucester-city",
+      "name": "BluLight Cannabis Dispensary - Gloucester City",
+      "website": "https://blulight.com/gloucester",
+      "phone": "(856) 432-6114",
+      "address": "401 N Broadway, Gloucester City, NJ 08030",
+      "street": "401 N Broadway",
+      "city": "Gloucester City",
+      "state": "NJ",
+      "zip": "08030",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8911,
+      "lng": -75.117,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "boone-town-provisions-boonton",
+      "name": "Boone Town Provisions",
+      "website": "http://boonetownnj.com/",
+      "phone": "(973) 404-1026",
+      "address": "677 Myrtle Ave, Boonton, NJ 07005",
+      "street": "677 Myrtle Ave",
+      "city": "Boonton",
+      "state": "NJ",
+      "zip": "07005",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9115,
+      "lng": -74.414,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "botera-harrison-harrison",
+      "name": "Botera Harrison",
+      "website": "https://boteranj.com/",
+      "phone": "(973) 982-6391",
+      "address": "701 Frank E Rodgers Blvd N, Harrison, NJ 07029",
+      "street": "701 Frank E Rodgers Blvd N",
+      "city": "Harrison",
+      "state": "NJ",
+      "zip": "07029",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7445,
+      "lng": -74.1508,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "botera-union-union",
+      "name": "Botera Union",
+      "website": "http://boteranj.com/",
+      "phone": "(908) 481-0001",
+      "address": "2290 US-22, Union, NJ 07083",
+      "street": "2290 US-22",
+      "city": "Union",
+      "state": "NJ",
+      "zip": "07083",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6952,
+      "lng": -74.2677,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "breakwater-east-windsor",
+      "name": "Breakwater",
+      "website": "https://www.breakwateratc.com/",
+      "phone": "(732) 703-7300",
+      "address": "2 Corporate Dr, East Windsor, NJ 08512",
+      "street": "2 Corporate Dr",
+      "city": "East Windsor",
+      "state": "NJ",
+      "zip": "08512",
+      "license_types": [
+        "Medicinal"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3039,
+      "lng": -74.5065,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "breakwater-roselle-park",
+      "name": "Breakwater",
+      "website": "http://www.breakwateratc.com/",
+      "phone": "(732) 703-7300",
+      "address": "154 Westfield Ave W, Roselle Park, NJ 07204",
+      "street": "154 Westfield Ave W",
+      "city": "Roselle Park",
+      "state": "NJ",
+      "zip": "07204",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6651,
+      "lng": -74.267,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "breakwater-dispensary-cranbury-cranbury",
+      "name": "Breakwater Dispensary Cranbury",
+      "website": "https://www.breakwateratc.com/",
+      "phone": "(732) 703-7300",
+      "address": "2 Corporate Dr Ste E, Cranbury, NJ 08512",
+      "street": "2 Corporate Dr Ste E",
+      "city": "Cranbury",
+      "state": "NJ",
+      "zip": "08512",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3039,
+      "lng": -74.5065,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bridge-city-collective-dispensary-somerset",
+      "name": "Bridge City Collective Dispensary",
+      "website": "https://bridgecitycollective.com/new-brunswick-dispensary/",
+      "phone": "(732) 220-8411",
+      "address": "665 Hamilton St, Somerset, NJ 08873",
+      "street": "665 Hamilton St",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "broad-street-buds-phillipsburg",
+      "name": "Broad Street Buds",
+      "website": null,
+      "phone": null,
+      "address": "51 Broad St #2, Phillipsburg, NJ 08865",
+      "street": "51 Broad St #2",
+      "city": "Phillipsburg",
+      "state": "NJ",
+      "zip": "08865",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7079,
+      "lng": -75.1507,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "brotherly-bud-dispensary-mt-ephraim",
+      "name": "Brotherly Bud Dispensary",
+      "website": "https://brotherlybud.com/",
+      "phone": "(908) 936-3739",
+      "address": "500 N Black Horse Pike, Mt Ephraim, NJ 08059",
+      "street": "500 N Black Horse Pike",
+      "city": "Mt Ephraim",
+      "state": "NJ",
+      "zip": "08059",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.8827,
+      "lng": -75.0929,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "brutes-roots-egg-harbor-township",
+      "name": "Brute's Roots",
+      "website": "https://brutesroots.com/",
+      "phone": "(609) 867-6112",
+      "address": "6206 Black Horse Pike, Egg Harbor Township, NJ 08234",
+      "street": "6206 Black Horse Pike",
+      "city": "Egg Harbor Township",
+      "state": "NJ",
+      "zip": "08234",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.3741,
+      "lng": -74.6118,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "brutes-roots-paulsboro-paulsboro",
+      "name": "Brute's Roots-Paulsboro",
+      "website": null,
+      "phone": "(856) 599-0059",
+      "address": "2001 S Delaware St, Paulsboro, NJ 08066",
+      "street": "2001 S Delaware St",
+      "city": "Paulsboro",
+      "state": "NJ",
+      "zip": "08066",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8312,
+      "lng": -75.2242,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bud-2-bloom-netcong",
+      "name": "Bud 2 Bloom",
+      "website": "https://bud2bloomdispensary.com/",
+      "phone": "(862) 746-0420",
+      "address": "123 Ledgewood Ave #1a, Netcong, NJ 07857",
+      "street": "123 Ledgewood Ave #1a",
+      "city": "Netcong",
+      "state": "NJ",
+      "zip": "07857",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8985,
+      "lng": -74.6985,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bud-city-nj-newton",
+      "name": "Bud City NJ",
+      "website": "https://budcitynj.com/",
+      "phone": "(973) 440-5945",
+      "address": "117 Water St, Newton, NJ 07860",
+      "street": "117 Water St",
+      "city": "Newton",
+      "state": "NJ",
+      "zip": "07860",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.0695,
+      "lng": -74.8069,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "bud-it-up-englishtown",
+      "name": "Bud It Up",
+      "website": "https://www.buditupnj.com/",
+      "phone": "(848) 233-9344",
+      "address": "34 Main St FL 2, Englishtown, NJ 07726",
+      "street": "34 Main St FL 2",
+      "city": "Englishtown",
+      "state": "NJ",
+      "zip": "07726",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2825,
+      "lng": -74.3424,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "buddys-dispensary-andover",
+      "name": "Buddy's Dispensary",
+      "website": "https://buddysnj.com/",
+      "phone": "(973) 440-5577",
+      "address": "203 Main St 1st Floor, Andover, NJ 07821",
+      "street": "203 Main St 1st Floor",
+      "city": "Andover",
+      "state": "NJ",
+      "zip": "07821",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9614,
+      "lng": -74.7524,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "budzooka-weed-dispensary-elizabeth",
+      "name": "Budzooka Weed Dispensary",
+      "website": "https://budzookanj.com/",
+      "phone": "(908) 380-2414",
+      "address": "142 Broad St, Elizabeth, NJ 07201",
+      "street": "142 Broad St",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "07201",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6717,
+      "lng": -74.2043,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "camden-apothecary-camden",
+      "name": "Camden Apothecary",
+      "website": "https://camdenapothecary.com/",
+      "phone": "(856) 931-6310",
+      "address": "1205 Haddon Ave, Camden, NJ 08103",
+      "street": "1205 Haddon Ave",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08103",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.9351,
+      "lng": -75.1117,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "candid-dispensary-jersey-city",
+      "name": "Candid Dispensary",
+      "website": "https://candiddispensary.com/",
+      "phone": "(201) 377-7022",
+      "address": "3662 John F. Kennedy Blvd, Jersey City, NJ 07307",
+      "street": "3662 John F. Kennedy Blvd",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7482,
+      "lng": -74.0498,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "canna-bar-matawan",
+      "name": "Canna Bar",
+      "website": "https://thecannabar.com/",
+      "phone": "(732) 629-8278",
+      "address": "58 Main St, Matawan, NJ 07747",
+      "street": "58 Main St",
+      "city": "Matawan",
+      "state": "NJ",
+      "zip": "07747",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4109,
+      "lng": -74.238,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "canna-remedies-trenton",
+      "name": "Canna Remedies",
+      "website": "https://cannaremediesnj.com/",
+      "phone": "(609) 307-9150",
+      "address": "2175 Spruce St, Trenton, NJ 08638",
+      "street": "2175 Spruce St",
+      "city": "Trenton",
+      "state": "NJ",
+      "zip": "08638",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.251,
+      "lng": -74.7627,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cannabis-city-dispensary-137-roselle",
+      "name": "Cannabis City Dispensary 137",
+      "website": "https://shop.dispensary137.com/cannabiscity",
+      "phone": "(908) 445-4725",
+      "address": "471 W 1st Ave, Roselle, NJ 07203",
+      "street": "471 W 1st Ave",
+      "city": "Roselle",
+      "state": "NJ",
+      "zip": "07203",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.653,
+      "lng": -74.261,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cannabis-clubhouse-sussex",
+      "name": "Cannabis Clubhouse",
+      "website": "https://www.cannabisclubhousenj.com/",
+      "phone": "(862) 351-6021",
+      "address": "70-72 E Main St, Sussex, NJ 07461",
+      "street": "70-72 E Main St",
+      "city": "Sussex",
+      "state": "NJ",
+      "zip": "07461",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 41.2292,
+      "lng": -74.5992,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cannaboy-treehouse-south-orange-village",
+      "name": "CannaBoy Treehouse",
+      "website": "http://cannaboytreehouse.com/",
+      "phone": "(973) 302-9020",
+      "address": "57 W South Orange Ave, South Orange Village, NJ 07079",
+      "street": "57 W South Orange Ave",
+      "city": "South Orange Village",
+      "state": "NJ",
+      "zip": "07079",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7465,
+      "lng": -74.2575,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cannaverde-dispensary-plainfield",
+      "name": "CannaVerde Dispensary",
+      "website": "https://cannaverdenj.com/shop",
+      "phone": "(908) 941-4649",
+      "address": "102a E Front St, Plainfield, NJ 07060",
+      "street": "102a E Front St",
+      "city": "Plainfield",
+      "state": "NJ",
+      "zip": "07060",
+      "license_types": [],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6152,
+      "lng": -74.415,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cannavibes-elmwood-park",
+      "name": "Cannavibes",
+      "website": "https://www.cannavibesnj.com/",
+      "phone": "(201) 292-4489",
+      "address": "1 US-46, Elmwood Park, NJ 07407",
+      "street": "1 US-46",
+      "city": "Elmwood Park",
+      "state": "NJ",
+      "zip": "07407",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9069,
+      "lng": -74.1209,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "canopy-crossroad-red-bank",
+      "name": "Canopy Crossroad",
+      "website": "https://canopycrossroad.com/",
+      "phone": "(732) 438-5880",
+      "address": "9 West St, Red Bank, NJ 07701",
+      "street": "9 West St",
+      "city": "Red Bank",
+      "state": "NJ",
+      "zip": "07701",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3584,
+      "lng": -74.0681,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "carry-on-cannabis-williamstown",
+      "name": "Carry-On Cannabis",
+      "website": "https://gocarryon.com/",
+      "phone": null,
+      "address": "2379 S Black Horse Pike, Williamstown, NJ 08094",
+      "street": "2379 S Black Horse Pike",
+      "city": "Williamstown",
+      "state": "NJ",
+      "zip": "08094",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.665,
+      "lng": -74.971,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "casa-verde-wellness-dover",
+      "name": "Casa Verde Wellness",
+      "website": "https://casaverdenj.com/",
+      "phone": "(973) 343-2322",
+      "address": "315 US-46, Dover, NJ 07801",
+      "street": "315 US-46",
+      "city": "Dover",
+      "state": "NJ",
+      "zip": "07801",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9176,
+      "lng": -74.5467,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "castaway-cannabis-delran",
+      "name": "Castaway Cannabis",
+      "website": "http://castawaycanna.com/",
+      "phone": "(856) 544-3029",
+      "address": "6006 US-130, Delran, NJ 08075",
+      "street": "6006 US-130",
+      "city": "Delran",
+      "state": "NJ",
+      "zip": "08075",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0293,
+      "lng": -74.9497,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "central-jersey-dispensary-somerset",
+      "name": "Central Jersey Dispensary",
+      "website": "https://centraljerseydispensary.com/",
+      "phone": "(732) 579-4347",
+      "address": "2 John F Kennedy Blvd, Somerset, NJ 08873",
+      "street": "2 John F Kennedy Blvd",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "citi-roots-kingston",
+      "name": "Citi Roots",
+      "website": "https://citirootsdispensarynj.com/",
+      "phone": "(609) 924-4585",
+      "address": "4585 NJ-27, Kingston, NJ 08528",
+      "street": "4585 NJ-27",
+      "city": "Kingston",
+      "state": "NJ",
+      "zip": "08528",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3828,
+      "lng": -74.6096,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "city-leaves-egg-harbor-township",
+      "name": "City Leaves",
+      "website": "http://cityleaves.com/",
+      "phone": "(609) 288-8574",
+      "address": "2516 Fire Rd, Egg Harbor Township, NJ 08234",
+      "street": "2516 Fire Rd",
+      "city": "Egg Harbor Township",
+      "state": "NJ",
+      "zip": "08234",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3741,
+      "lng": -74.6118,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cityleaf-dispensary-newark",
+      "name": "CityLeaf Dispensary",
+      "website": "https://cityleafnj.com/",
+      "phone": "(973) 333-3399",
+      "address": "519 Broadway, Newark, NJ 07104",
+      "street": "519 Broadway",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07104",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7664,
+      "lng": -74.1695,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "clone-canabiss-jersey-city",
+      "name": "Clone Canabiss",
+      "website": "http://goldendoordispensary.com/",
+      "phone": "(973) 735-0950",
+      "address": "638 Newark Ave, Jersey City, NJ 07306",
+      "street": "638 Newark Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07306",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7321,
+      "lng": -74.066,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cloud-nine-dispensary-north-plainfield",
+      "name": "Cloud Nine Dispensary",
+      "website": "https://www.c9dispensarynj.com/",
+      "phone": "(908) 588-2874",
+      "address": "513-27 US-22, North Plainfield, NJ 07060",
+      "street": "513-27 US-22",
+      "city": "North Plainfield",
+      "state": "NJ",
+      "zip": "07060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.6152,
+      "lng": -74.415,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "collective-beleaf-dispensary-lambertville",
+      "name": "Collective Beleaf Dispensary",
+      "website": "https://www.collectivebeleaf.com/",
+      "phone": null,
+      "address": "201 S Main St Bldg A, Lambertville, NJ 08530",
+      "street": "201 S Main St Bldg A",
+      "city": "Lambertville",
+      "state": "NJ",
+      "zip": "08530",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3731,
+      "lng": -74.9266,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "conservatory-cannabis-company-egg-harbor-township",
+      "name": "Conservatory Cannabis Company",
+      "website": "http://www.conservatorycannabis.com/",
+      "phone": "(609) 904-9409",
+      "address": "2516 Fire Rd, Egg Harbor Township, NJ 08234",
+      "street": "2516 Fire Rd",
+      "city": "Egg Harbor Township",
+      "state": "NJ",
+      "zip": "08234",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3741,
+      "lng": -74.6118,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cookies-harrison-harrison",
+      "name": "Cookies Harrison",
+      "website": "https://harrison.cookies.co/",
+      "phone": "(973) 266-5437",
+      "address": "335 Angelo Cifelli Dr, Harrison, NJ 07029",
+      "street": "335 Angelo Cifelli Dr",
+      "city": "Harrison",
+      "state": "NJ",
+      "zip": "07029",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7445,
+      "lng": -74.1508,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cottonmouth-dispensary-runnemede",
+      "name": "Cottonmouth Dispensary",
+      "website": "http://www.getcottonmouth.com/",
+      "phone": "(856) 312-3877",
+      "address": "10 E Clements Bridge Rd, Runnemede, NJ 08078",
+      "street": "10 E Clements Bridge Rd",
+      "city": "Runnemede",
+      "state": "NJ",
+      "zip": "08078",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8508,
+      "lng": -75.0742,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cre8-balance-bloomfield",
+      "name": "Cre8 Balance",
+      "website": "https://cre8-balance.com/",
+      "phone": "(973) 200-2179",
+      "address": "289 Glenwood Ave, Bloomfield, NJ 07003",
+      "street": "289 Glenwood Ave",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "zip": "07003",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8035,
+      "lng": -74.1891,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cream-cannabis-dispensary-jersey-city",
+      "name": "CREAM Cannabis Dispensary",
+      "website": "http://cream.online/",
+      "phone": "(848) 500-9333",
+      "address": "284 1st St, Jersey City, NJ 07302",
+      "street": "284 1st St",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7221,
+      "lng": -74.0469,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "curaleaf-bellmawr",
+      "name": "Curaleaf",
+      "website": "https://curaleaf.com/shop/new-jersey/curaleaf-nj-bellmawr",
+      "phone": "(856) 933-8700",
+      "address": "640 Creek Rd, Bellmawr, NJ 08031",
+      "street": "640 Creek Rd",
+      "city": "Bellmawr",
+      "state": "NJ",
+      "zip": "08031",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8689,
+      "lng": -75.0944,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "curaleaf-bordentown",
+      "name": "Curaleaf",
+      "website": "https://curaleaf.com/shop/new-jersey/curaleaf-nj-bordentown",
+      "phone": "(609) 400-2455",
+      "address": "191 US-130, Bordentown, NJ 08505",
+      "street": "191 US-130",
+      "city": "Bordentown",
+      "state": "NJ",
+      "zip": "08505",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.1431,
+      "lng": -74.7032,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "curaleaf-edgewater-park",
+      "name": "Curaleaf",
+      "website": "https://curaleaf.com/shop/new-jersey/curaleaf-nj-edgewater-park",
+      "phone": "(609) 232-7690",
+      "address": "4237 US-130, Edgewater Park, NJ 08010",
+      "street": "4237 US-130",
+      "city": "Edgewater Park",
+      "state": "NJ",
+      "zip": "08010",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.0565,
+      "lng": -74.9114,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "cuzzies-camden",
+      "name": "Cuzzie's",
+      "website": "https://dutchie.com/dispensary/cuzzies-retail",
+      "phone": "(856) 438-0205",
+      "address": "2750 Mt Ephraim Ave, Camden, NJ 08104",
+      "street": "2750 Mt Ephraim Ave",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08104",
+      "license_types": [
+        "Recreational",
+        "Microbusiness"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.9186,
+      "lng": -75.1078,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "dank-poet-dispensary-washington",
+      "name": "Dank Poet Dispensary",
+      "website": "https://dankpoet.com/",
+      "phone": "(908) 450-9900",
+      "address": "245 E Washington Ave, Washington, NJ 07882",
+      "street": "245 E Washington Ave",
+      "city": "Washington",
+      "state": "NJ",
+      "zip": "07882",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7582,
+      "lng": -74.9914,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "daylite-cannabis-mt-laurel-township",
+      "name": "Daylite Cannabis",
+      "website": "http://daylitecannabis.com/",
+      "phone": "(856) 355-5768",
+      "address": "1136 NJ-73, Mt Laurel Township, NJ 08054",
+      "street": "1136 NJ-73",
+      "city": "Mt Laurel Township",
+      "state": "NJ",
+      "zip": "08054",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9478,
+      "lng": -74.9036,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "dazed-cannabis-somerset-somerset",
+      "name": "Dazed Cannabis - Somerset",
+      "website": null,
+      "phone": null,
+      "address": "785 Somerset St, Somerset, NJ 08873",
+      "street": "785 Somerset St",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "design-710-atlantic-city",
+      "name": "Design 710",
+      "website": "https://design710.com/",
+      "phone": "(609) 964-7420",
+      "address": "112 Park Pl, Atlantic City, NJ 08401",
+      "street": "112 Park Pl",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "dispensary-of-somerset-somerset",
+      "name": "Dispensary of Somerset",
+      "website": "http://thedispensariesofnj.com/",
+      "phone": "(732) 997-4799",
+      "address": "920 Hamilton St, Somerset, NJ 08873",
+      "street": "920 Hamilton St",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "dispensary-of-union-union",
+      "name": "Dispensary of Union",
+      "website": "http://thedispensariesofnj.com/",
+      "phone": "(908) 688-0808",
+      "address": "1603 US-22, Union, NJ 07083",
+      "street": "1603 US-22",
+      "city": "Union",
+      "state": "NJ",
+      "zip": "07083",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6952,
+      "lng": -74.2677,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "docanna-maplewood",
+      "name": "Docanna",
+      "website": "https://sweetspotfarms.com/store/nj002/menu/rec",
+      "phone": "(973) 327-2027",
+      "address": "751 Irvington Ave, Maplewood, NJ 07040",
+      "street": "751 Irvington Ave",
+      "city": "Maplewood",
+      "state": "NJ",
+      "zip": "07040",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7279,
+      "lng": -74.2656,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "dogwood-green-west-orange",
+      "name": "Dogwood Green",
+      "website": "https://www.dogwoodgreen.com/",
+      "phone": "(862) 704-2820",
+      "address": "5 Central Ave, West Orange, NJ 07052",
+      "street": "5 Central Ave",
+      "city": "West Orange",
+      "state": "NJ",
+      "zip": "07052",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7859,
+      "lng": -74.2568,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "doobiez-west-milford",
+      "name": "Doobiez",
+      "website": "http://doobiez.com/",
+      "phone": "(973) 513-0514",
+      "address": "1612 Union Valley Rd, West Milford, NJ 07480",
+      "street": "1612 Union Valley Rd",
+      "city": "West Milford",
+      "state": "NJ",
+      "zip": "07480",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 41.0915,
+      "lng": -74.375,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "downtown-flwr-jersey-city",
+      "name": "Downtown FLWR",
+      "website": "https://downtownflwr.com/",
+      "phone": "(201) 351-4048",
+      "address": "141 Newark Ave, Jersey City, NJ 07302",
+      "street": "141 Newark Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7221,
+      "lng": -74.0469,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "earth-ivy-new-brunswick",
+      "name": "Earth & Ivy",
+      "website": "http://earthandivy.co/",
+      "phone": "(732) 317-2992",
+      "address": "355 George St, New Brunswick, NJ 08901",
+      "street": "355 George St",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "zip": "08901",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.4891,
+      "lng": -74.4482,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "earth-ivy-lakehurst-lakehurst",
+      "name": "Earth & Ivy Lakehurst",
+      "website": "https://earthandivy.co/lakehurst-nj-dispensary/",
+      "phone": "(848) 227-3260",
+      "address": "29 Union Ave, Lakehurst, NJ 08733",
+      "street": "29 Union Ave",
+      "city": "Lakehurst",
+      "state": "NJ",
+      "zip": "08733",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.0263,
+      "lng": -74.3254,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "eastern-green-voorhees-township",
+      "name": "Eastern Green",
+      "website": "https://easterngreendispensary.com/",
+      "phone": "(856) 205-3257",
+      "address": "78 NJ-73, Voorhees Township, NJ 08043",
+      "street": "78 NJ-73",
+      "city": "Voorhees Township",
+      "state": "NJ",
+      "zip": "08043",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8504,
+      "lng": -74.9646,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "elevated-by-thecannabosslady-maplewood",
+      "name": "Elevated by TheCannaBossLady",
+      "website": "http://thecannabosslady.com/",
+      "phone": "(973) 609-9435",
+      "address": "9 Highland Pl, Maplewood, NJ 07040",
+      "street": "9 Highland Pl",
+      "city": "Maplewood",
+      "state": "NJ",
+      "zip": "07040",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7279,
+      "lng": -74.2656,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "elevated-herb-west-milford",
+      "name": "Elevated Herb",
+      "website": "https://elevated-herb.com/",
+      "phone": "(973) 291-6840",
+      "address": "1846 NJ-23, West Milford, NJ 07480",
+      "street": "1846 NJ-23",
+      "city": "West Milford",
+      "state": "NJ",
+      "zip": "07480",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.0915,
+      "lng": -74.375,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "emerald-tea-supply-co-bloomfield",
+      "name": "Emerald Tea Supply Co.",
+      "website": "http://etsc.store/",
+      "phone": "(862) 395-8464",
+      "address": "368b Broad St, Bloomfield, NJ 07003",
+      "street": "368b Broad St",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "zip": "07003",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.8035,
+      "lng": -74.1891,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "enlighten-dispensary-marlton",
+      "name": "Enlighten Dispensary",
+      "website": "http://enlightendispensary.com/",
+      "phone": "(856) 702-4420",
+      "address": "781 Rte 70 W, Marlton, NJ 08053",
+      "street": "781 Rte 70 W",
+      "city": "Marlton",
+      "state": "NJ",
+      "zip": "08053",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8845,
+      "lng": -74.9067,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "everest-dispensary-atlantic-city",
+      "name": "Everest Dispensary",
+      "website": "https://everestdispensary.com/",
+      "phone": "(609) 783-9333",
+      "address": "1226 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "1226 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "evergreen-natures-remedy-butler",
+      "name": "Evergreen Nature's Remedy",
+      "website": "https://evergreen23.com/",
+      "phone": "(973) 291-2500",
+      "address": "1242 NJ-23, Butler, NJ 07405",
+      "street": "1242 NJ-23",
+      "city": "Butler",
+      "state": "NJ",
+      "zip": "07405",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9988,
+      "lng": -74.4261,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "evolve-cannabis-bordentown",
+      "name": "Evolve Cannabis",
+      "website": "https://www.evolvecannanj.com/store",
+      "phone": "(609) 400-5590",
+      "address": "186 US-130, Bordentown, NJ 08505",
+      "street": "186 US-130",
+      "city": "Bordentown",
+      "state": "NJ",
+      "zip": "08505",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.1431,
+      "lng": -74.7032,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "far-dotter-browns-mills",
+      "name": "Far & Dotter",
+      "website": "https://fardotter.com/dispensaries/pemberton/",
+      "phone": "(609) 621-3130",
+      "address": "348 Lakehurst Rd, Browns Mills, NJ 08015",
+      "street": "348 Lakehurst Rd",
+      "city": "Browns Mills",
+      "state": "NJ",
+      "zip": "08015",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9597,
+      "lng": -74.5655,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "feels-of-green-newton",
+      "name": "Feels of Green",
+      "website": "https://feelsofgreendispensary.com/",
+      "phone": "(973) 291-2404",
+      "address": "474 US-206, Newton, NJ 07860",
+      "street": "474 US-206",
+      "city": "Newton",
+      "state": "NJ",
+      "zip": "07860",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.0695,
+      "lng": -74.8069,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "fire-and-oak-mt-holly",
+      "name": "Fire and Oak",
+      "website": "https://faomtholly.com/",
+      "phone": "(609) 901-0698",
+      "address": "5 Washington St, Mt Holly, NJ 08060",
+      "street": "5 Washington St",
+      "city": "Mt Holly",
+      "state": "NJ",
+      "zip": "08060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0086,
+      "lng": -74.7896,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "flower-flame-dispensary-blackwood",
+      "name": "Flower & Flame Dispensary",
+      "website": "http://njflowerandflame.com/",
+      "phone": "(856) 302-1235",
+      "address": "601 College Dr, Blackwood, NJ 08012",
+      "street": "601 College Dr",
+      "city": "Blackwood",
+      "state": "NJ",
+      "zip": "08012",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7901,
+      "lng": -75.0367,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "flowerbomb-dispensary-irvington",
+      "name": "Flowerbomb Dispensary",
+      "website": "https://flowerbombdispensarynj.com/",
+      "phone": "(973) 302-6404",
+      "address": "1108 Clinton Ave, Irvington, NJ 07111",
+      "street": "1108 Clinton Ave",
+      "city": "Irvington",
+      "state": "NJ",
+      "zip": "07111",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7261,
+      "lng": -74.2313,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "fresh-dispensary-eatontown-eatontown",
+      "name": "Fresh Dispensary Eatontown",
+      "website": "https://freshcannabis.co/location/eatontown/",
+      "phone": "(732) 440-7702",
+      "address": "315 NJ-35 #5, Eatontown, NJ 07724",
+      "street": "315 NJ-35 #5",
+      "city": "Eatontown",
+      "state": "NJ",
+      "zip": "07724",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3028,
+      "lng": -74.0698,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "fresh-elizabeth-elizabeth",
+      "name": "Fresh Elizabeth",
+      "website": "https://freshcannabis.co/",
+      "phone": "(908) 316-8786",
+      "address": "460 Maple Ave, Elizabeth, NJ 07202",
+      "street": "460 Maple Ave",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "07202",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6565,
+      "lng": -74.2215,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "g2-dispensary-rockaway",
+      "name": "G2 Dispensary",
+      "website": "http://g2dispensary.com/",
+      "phone": "(973) 620-9088",
+      "address": "350 US-46, Rockaway, NJ 07866",
+      "street": "350 US-46",
+      "city": "Rockaway",
+      "state": "NJ",
+      "zip": "07866",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9229,
+      "lng": -74.5094,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "garden-greenz-jersey-city",
+      "name": "Garden Greenz",
+      "website": "https://gardengreenz201.com/",
+      "phone": "(201) 963-4500",
+      "address": "190 Newark Ave, Jersey City, NJ 07302",
+      "street": "190 Newark Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07302",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7221,
+      "lng": -74.0469,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "garden-state-natural-green-kingston",
+      "name": "Garden State Natural Green",
+      "website": "https://gstate.co/",
+      "phone": "(609) 580-8522",
+      "address": "4597 NJ-27, Kingston, NJ 08528",
+      "street": "4597 NJ-27",
+      "city": "Kingston",
+      "state": "NJ",
+      "zip": "08528",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3828,
+      "lng": -74.6096,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "garfield-gardens-dispensary-garfield",
+      "name": "Garfield Gardens Dispensary",
+      "website": "https://yumaway.com/locations/yumawaynj",
+      "phone": "(973) 755-5420",
+      "address": "517 River Dr, Garfield, NJ 07026",
+      "street": "517 River Dr",
+      "city": "Garfield",
+      "state": "NJ",
+      "zip": "07026",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8789,
+      "lng": -74.1081,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "gas-grass-cannabis-recreational-dispensary-lake-hopatcong",
+      "name": "Gas & Grass Cannabis Recreational Dispensary",
+      "website": "https://gasandgrassnj.com/",
+      "phone": "(551) 370-6514",
+      "address": "778 NJ-15 N, Lake Hopatcong, NJ 07849",
+      "street": "778 NJ-15 N",
+      "city": "Lake Hopatcong",
+      "state": "NJ",
+      "zip": "07849",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9506,
+      "lng": -74.6129,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ginger-hale-oaklyn",
+      "name": "Ginger Hale",
+      "website": "http://www.gingerhaledispensary.com/",
+      "phone": "(856) 856-4253",
+      "address": "814 White Horse Pike, Oaklyn, NJ 08107",
+      "street": "814 White Horse Pike",
+      "city": "Oaklyn",
+      "state": "NJ",
+      "zip": "08107",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.908,
+      "lng": -75.0849,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "good-karma-dispensary-north-plainfield",
+      "name": "Good Karma Dispensary",
+      "website": "https://goodkarmadispensary.com/",
+      "phone": "(908) 462-0339",
+      "address": "579 US-22, North Plainfield, NJ 07060",
+      "street": "579 US-22",
+      "city": "North Plainfield",
+      "state": "NJ",
+      "zip": "07060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6152,
+      "lng": -74.415,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "got-your-six-dispensary-of-new-jersey-princeton",
+      "name": "Got Your Six Dispensary of New Jersey",
+      "website": "https://gotyoursixdispensary.com/",
+      "phone": "(732) 444-2060",
+      "address": "4437 NJ-27, Princeton, NJ 08540",
+      "street": "4437 NJ-27",
+      "city": "Princeton",
+      "state": "NJ",
+      "zip": "08540",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3666,
+      "lng": -74.6408,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "green-haven-industries-elizabeth",
+      "name": "Green Haven Industries",
+      "website": "http://greenhaven-nj.com/",
+      "phone": "(908) 242-5119",
+      "address": "402 Elizabeth Ave, Elizabeth, NJ 07206",
+      "street": "402 Elizabeth Ave",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "07206",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6501,
+      "lng": -74.1871,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "green-knight-cannabis-somerset",
+      "name": "Green Knight Cannabis",
+      "website": "https://greenknightdispensary.com/",
+      "phone": "(732) 444-2080",
+      "address": "831 Hamilton St, Somerset, NJ 08873",
+      "street": "831 Hamilton St",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "green-lightning-cannabis-cinnaminson",
+      "name": "Green Lightning Cannabis",
+      "website": "https://greenlightningcannabis.com/",
+      "phone": null,
+      "address": "1503 Taylors Ln, Cinnaminson, NJ 08077",
+      "street": "1503 Taylors Ln",
+      "city": "Cinnaminson",
+      "state": "NJ",
+      "zip": "08077",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.002,
+      "lng": -74.9952,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "green-oasis-dispensary-atco",
+      "name": "Green Oasis Dispensary",
+      "website": "http://greenoasisnj.com/",
+      "phone": "(856) 388-4126",
+      "address": "632 White Horse Pike, Atco, NJ 08004",
+      "street": "632 White Horse Pike",
+      "city": "Atco",
+      "state": "NJ",
+      "zip": "08004",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.76,
+      "lng": -74.8665,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "green-wellness-haven-pleasantville",
+      "name": "Green Wellness Haven",
+      "website": "http://www.learngreenhaven.com/",
+      "phone": "(609) 382-5553",
+      "address": "1110 N New Rd, Pleasantville, NJ 08232",
+      "street": "1110 N New Rd",
+      "city": "Pleasantville",
+      "state": "NJ",
+      "zip": "08232",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3876,
+      "lng": -74.5149,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "greenlight-apothecary-lake-hopatcong",
+      "name": "Greenlight Apothecary",
+      "website": "https://www.greenlightnj.com/location/greenlightnj",
+      "phone": "(973) 409-6650",
+      "address": "15 Bowling Green Pkwy, Lake Hopatcong, NJ 07849",
+      "street": "15 Bowling Green Pkwy",
+      "city": "Lake Hopatcong",
+      "state": "NJ",
+      "zip": "07849",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9506,
+      "lng": -74.6129,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "greenstop-dispensary-jersey-city",
+      "name": "Greenstop Dispensary",
+      "website": "https://greenstopwellnessjc.com/",
+      "phone": "(201) 604-1281",
+      "address": "516 Tonnelle Ave, Jersey City, NJ 07307",
+      "street": "516 Tonnelle Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7482,
+      "lng": -74.0498,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "gynsyng-merchantville",
+      "name": "Gynsyng",
+      "website": "http://gynsyng.com/",
+      "phone": "(908) 275-0385",
+      "address": "14 S Center St, Merchantville, NJ 08109",
+      "street": "14 S Center St",
+      "city": "Merchantville",
+      "state": "NJ",
+      "zip": "08109",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": true,
+      "lat": 39.9519,
+      "lng": -75.0482,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hackettstown-dispensary-hackettstown",
+      "name": "Hackettstown Dispensary",
+      "website": "https://www.hackettstowndispensarynj.com/",
+      "phone": "(908) 651-5542",
+      "address": "321 Mountain Ave, Hackettstown, NJ 07840",
+      "street": "321 Mountain Ave",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "zip": "07840",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8529,
+      "lng": -74.8343,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hamm-chaz-cannabis-dispensary-jersey-city",
+      "name": "Hamm & Chaz Cannabis Dispensary",
+      "website": "http://hammchaz.com/",
+      "phone": "(201) 721-5507",
+      "address": "747 West Side Ave, Jersey City, NJ 07306",
+      "street": "747 West Side Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07306",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7321,
+      "lng": -74.066,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "happy-leaf-somerdale",
+      "name": "Happy Leaf",
+      "website": "https://happyleafdispensarynj.com/",
+      "phone": "(856) 545-7024",
+      "address": "200 N White Horse Pike, Somerdale, NJ 08083",
+      "street": "200 N White Horse Pike",
+      "city": "Somerdale",
+      "state": "NJ",
+      "zip": "08083",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.84,
+      "lng": -75.0309,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hashery-hackensack",
+      "name": "Hashery",
+      "website": "https://hasherynj.com/",
+      "phone": "(201) 606-0002",
+      "address": "409 NJ-17, Hackensack, NJ 07601",
+      "street": "409 NJ-17",
+      "city": "Hackensack",
+      "state": "NJ",
+      "zip": "07601",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.8882,
+      "lng": -74.0503,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hazy-harvest-dispensary-jersey-city",
+      "name": "Hazy Harvest Dispensary",
+      "website": "https://hazyharvest.com/",
+      "phone": "(551) 359-9161",
+      "address": "398 Pacific Ave Unit 1, Jersey City, NJ 07304",
+      "street": "398 Pacific Ave Unit 1",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07304",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.718,
+      "lng": -74.0754,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hello-high-hammonton",
+      "name": "Hello High",
+      "website": "http://www.hellohigh.com/",
+      "phone": "(609) 567-4444",
+      "address": "7685 Black Horse Pike, Hammonton, NJ 08037",
+      "street": "7685 Black Horse Pike",
+      "city": "Hammonton",
+      "state": "NJ",
+      "zip": "08037",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.638,
+      "lng": -74.7728,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "herb-haus-carlstadt",
+      "name": "Herb Haus",
+      "website": "https://herbhaus.com/",
+      "phone": "(877) 420-1420",
+      "address": "300 Washington Ave, Carlstadt, NJ 07072",
+      "street": "300 Washington Ave",
+      "city": "Carlstadt",
+      "state": "NJ",
+      "zip": "07072",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8403,
+      "lng": -74.0925,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "herbs-premium-dispensary-somerset",
+      "name": "Herb's Premium Dispensary",
+      "website": "https://herbspremiumdispensary.com/",
+      "phone": "(908) 936-4973",
+      "address": "757 Franklin Blvd, Somerset, NJ 08873",
+      "street": "757 Franklin Blvd",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "herbalicity-highland-park",
+      "name": "Herbalicity",
+      "website": "http://herbalicity.com/",
+      "phone": "(732) 325-9077",
+      "address": "246 Raritan Ave, Highland Park, NJ 08904",
+      "street": "246 Raritan Ave",
+      "city": "Highland Park",
+      "state": "NJ",
+      "zip": "08904",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4991,
+      "lng": -74.4266,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "high-end-dispensary-south-river",
+      "name": "High End Dispensary",
+      "website": "https://www.highendnj.com/",
+      "phone": "(732) 353-6443",
+      "address": "109 Water St, South River, NJ 08882",
+      "street": "109 Water St",
+      "city": "South River",
+      "state": "NJ",
+      "zip": "08882",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4444,
+      "lng": -74.3801,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "high-end-gardens-sussex",
+      "name": "High End Gardens",
+      "website": null,
+      "phone": null,
+      "address": "25 Brookside Ave, Sussex, NJ 07461",
+      "street": "25 Brookside Ave",
+      "city": "Sussex",
+      "state": "NJ",
+      "zip": "07461",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.2292,
+      "lng": -74.5992,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "high-life-cannabis-dispensary-brooklawn",
+      "name": "High Life Cannabis Dispensary",
+      "website": "https://njhighlife.com/",
+      "phone": "(856) 320-9991",
+      "address": "700 Crescent Blvd, Brooklawn, NJ 08030",
+      "street": "700 Crescent Blvd",
+      "city": "Brooklawn",
+      "state": "NJ",
+      "zip": "08030",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8911,
+      "lng": -75.117,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "high-profile-lakehurst-lakehurst",
+      "name": "High Profile Lakehurst",
+      "website": "http://highprofilecannabis.com/",
+      "phone": "(732) 408-3208",
+      "address": "145 NJ-70, Lakehurst, NJ 08733",
+      "street": "145 NJ-70",
+      "city": "Lakehurst",
+      "state": "NJ",
+      "zip": "08733",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0263,
+      "lng": -74.3254,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "high-profile-of-somerdale-dispensary-somerdale",
+      "name": "High Profile of Somerdale Dispensary",
+      "website": "https://highprofilecannabis.com/nj/somerdale-dispensary",
+      "phone": "(856) 312-9828",
+      "address": "4 N White Horse Pike, Somerdale, NJ 08083",
+      "street": "4 N White Horse Pike",
+      "city": "Somerdale",
+      "state": "NJ",
+      "zip": "08083",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.84,
+      "lng": -75.0309,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "high-rollers-dispensary-atlantic-city",
+      "name": "High Rollers Dispensary",
+      "website": "http://highrollersdispensary.com/",
+      "phone": "(609) 246-6823",
+      "address": "120 S Indiana Ave, Atlantic City, NJ 08401",
+      "street": "120 S Indiana Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": true,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "high-street-dispensary-hackettstown",
+      "name": "High Street Dispensary",
+      "website": "https://www.njhighstreet.com/",
+      "phone": "(833) 865-5924",
+      "address": "811 High St, Hackettstown, NJ 07840",
+      "street": "811 High St",
+      "city": "Hackettstown",
+      "state": "NJ",
+      "zip": "07840",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.8529,
+      "lng": -74.8343,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "highway-90-evesham",
+      "name": "Highway 90",
+      "website": "http://www.thehighway90.com/",
+      "phone": "(856) 607-3473",
+      "address": "90 Old Marlton Pike, Evesham, NJ 08053",
+      "street": "90 Old Marlton Pike",
+      "city": "Evesham",
+      "state": "NJ",
+      "zip": "08053",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8845,
+      "lng": -74.9067,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "holistic-re-leaf-rockaway",
+      "name": "Holistic Re-Leaf",
+      "website": "http://holisticreleafnj.com/",
+      "phone": "(973) 453-6645",
+      "address": "321 Mt Hope Ave, Rockaway, NJ 07866",
+      "street": "321 Mt Hope Ave",
+      "city": "Rockaway",
+      "state": "NJ",
+      "zip": "07866",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9229,
+      "lng": -74.5094,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "holistic-solutions-atco",
+      "name": "Holistic Solutions",
+      "website": "https://myholisticsolutions.com/",
+      "phone": "(856) 270-7067",
+      "address": "451 White Horse Pike, Atco, NJ 08004",
+      "street": "451 White Horse Pike",
+      "city": "Atco",
+      "state": "NJ",
+      "zip": "08004",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.76,
+      "lng": -74.8665,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "honey-buzz-farms-atlantic-city",
+      "name": "Honey Buzz Farms",
+      "website": "http://honeybuzzfarms.com/",
+      "phone": "(609) 957-5658",
+      "address": "1724 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "1724 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "honeygrove-clementon",
+      "name": "HoneyGrove",
+      "website": "https://www.honeygrovedispensary.com/",
+      "phone": "(856) 504-3138",
+      "address": "1337 Blackwood-Clementon Rd, Clementon, NJ 08021",
+      "street": "1337 Blackwood-Clementon Rd",
+      "city": "Clementon",
+      "state": "NJ",
+      "zip": "08021",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8036,
+      "lng": -75.0058,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "honeystash-dispensary-metuchen",
+      "name": "HoneyStash Dispensary",
+      "website": "https://honeygrovedispensary.com/location/metuchen/",
+      "phone": "(732) 395-2444",
+      "address": "700 Middlesex Ave, Metuchen, NJ 08840",
+      "street": "700 Middlesex Ave",
+      "city": "Metuchen",
+      "state": "NJ",
+      "zip": "08840",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5449,
+      "lng": -74.3517,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hudhaus-north-bergen",
+      "name": "HudHaus",
+      "website": "http://hudhaus.co/",
+      "phone": "(667) 380-2500",
+      "address": "9001 River Rd, North Bergen, NJ 07047",
+      "street": "9001 River Rd",
+      "city": "North Bergen",
+      "state": "NJ",
+      "zip": "07047",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7939,
+      "lng": -74.0258,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hudsonica-inc-hoboken",
+      "name": "Hudsonica Inc.",
+      "website": "https://hudsonicadispensary.com/",
+      "phone": "(201) 420-4372",
+      "address": "1427 Grand St, Hoboken, NJ 07030",
+      "street": "1427 Grand St",
+      "city": "Hoboken",
+      "state": "NJ",
+      "zip": "07030",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7445,
+      "lng": -74.0329,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "hzy-goods-east-orange",
+      "name": "HZY Goods",
+      "website": "https://www.hzygoods.com/",
+      "phone": "(973) 200-3030",
+      "address": "19 Prospect St, East Orange, NJ 07017",
+      "street": "19 Prospect St",
+      "city": "East Orange",
+      "state": "NJ",
+      "zip": "07017",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7696,
+      "lng": -74.2077,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "illicit-gardens-dispensary-secaucus-secaucus",
+      "name": "Illicit Gardens Dispensary Secaucus",
+      "website": "https://illicitgardens.com/",
+      "phone": "(732) 714-4037",
+      "address": "30 Wood Ave, Secaucus, NJ 07094",
+      "street": "30 Wood Ave",
+      "city": "Secaucus",
+      "state": "NJ",
+      "zip": "07094",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.791,
+      "lng": -74.0634,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "indigo-brooklawn",
+      "name": "Indigo",
+      "website": "https://www.indigodispensary.com/",
+      "phone": "(609) 920-1818",
+      "address": "302 Crescent Blvd, Brooklawn, NJ 08030",
+      "street": "302 Crescent Blvd",
+      "city": "Brooklawn",
+      "state": "NJ",
+      "zip": "08030",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.8911,
+      "lng": -75.117,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "indoor-treez-fort-lee",
+      "name": "Indoor Treez",
+      "website": "https://gwleaf.com/",
+      "phone": "(201) 429-2284",
+      "address": "2143 Rte 4, Fort Lee, NJ 07024",
+      "street": "2143 Rte 4",
+      "city": "Fort Lee",
+      "state": "NJ",
+      "zip": "07024",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8503,
+      "lng": -73.9745,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "insa-coastline-dispensary-cape-may-court-house",
+      "name": "INSA Coastline Dispensary",
+      "website": "https://coastlinedispensary.com/",
+      "phone": "(609) 445-4420",
+      "address": "1580 US-9, Cape May Court House, NJ 08210",
+      "street": "1580 US-9",
+      "city": "Cape May Court House",
+      "state": "NJ",
+      "zip": "08210",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.1378,
+      "lng": -74.7806,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "island-vibez-plainfield",
+      "name": "Island Vibez",
+      "website": "http://islandvibezdispensary.com/",
+      "phone": "(908) 941-4875",
+      "address": "18 Roosevelt Ave, Plainfield, NJ 07060",
+      "street": "18 Roosevelt Ave",
+      "city": "Plainfield",
+      "state": "NJ",
+      "zip": "07060",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6152,
+      "lng": -74.415,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "j-j-cannabis-dispensary-oak-ridge",
+      "name": "J & J Cannabis Dispensary",
+      "website": "https://www.jjdispensary.com/",
+      "phone": "(973) 200-0705",
+      "address": "3055 NJ-23 Unit A, Oak Ridge, NJ 07438",
+      "street": "3055 NJ-23 Unit A",
+      "city": "Oak Ridge",
+      "state": "NJ",
+      "zip": "07438",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 41.0302,
+      "lng": -74.5198,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "janes-joint-boutique-dispensary-gibbsboro",
+      "name": "Jane’s Joint Boutique Dispensary",
+      "website": "https://myjanesjoint.com/",
+      "phone": "(856) 433-4482",
+      "address": "142 Lakeview Dr S, Gibbsboro, NJ 08026",
+      "street": "142 Lakeview Dr S",
+      "city": "Gibbsboro",
+      "state": "NJ",
+      "zip": "08026",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8365,
+      "lng": -74.971,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "jersey-dispensary-jersey-city",
+      "name": "Jersey Dispensary",
+      "website": "https://jerseydispensary.com/",
+      "phone": "(201) 721-5037",
+      "address": "638 Communipaw Ave, Jersey City, NJ 07304",
+      "street": "638 Communipaw Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07304",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.718,
+      "lng": -74.0754,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "jersey-leaf-jersey-city",
+      "name": "Jersey Leaf",
+      "website": "https://jerseyleaf.net/",
+      "phone": "(201) 951-5380",
+      "address": "554 West Side Ave, Jersey City, NJ 07304",
+      "street": "554 West Side Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07304",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.718,
+      "lng": -74.0754,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "jersey-meds-pennington",
+      "name": "Jersey Meds",
+      "website": "http://jerseymeds.com/",
+      "phone": "(609) 365-3002",
+      "address": "7 NJ-31, Pennington, NJ 08534",
+      "street": "7 NJ-31",
+      "city": "Pennington",
+      "state": "NJ",
+      "zip": "08534",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.3339,
+      "lng": -74.7944,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "jersey-roots-west-milford",
+      "name": "Jersey Roots",
+      "website": "http://jerseyrootsdispensary.com/",
+      "phone": "(973) 506-4853",
+      "address": "1433 Union Valley Rd, West Milford, NJ 07480",
+      "street": "1433 Union Valley Rd",
+      "city": "West Milford",
+      "state": "NJ",
+      "zip": "07480",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 41.0915,
+      "lng": -74.375,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "jesters-joint-new-brunswick",
+      "name": "Jester's Joint",
+      "website": "https://jestersdispensary.com/",
+      "phone": "(848) 800-2700",
+      "address": "70 Easton Ave, New Brunswick, NJ 08901",
+      "street": "70 Easton Ave",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "zip": "08901",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4891,
+      "lng": -74.4482,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "joy-leaf-roselle-park",
+      "name": "Joy Leaf",
+      "website": "https://www.joyleaf.com/",
+      "phone": "(908) 287-5414",
+      "address": "711 E 1st Ave, Roselle Park, NJ 07204",
+      "street": "711 E 1st Ave",
+      "city": "Roselle Park",
+      "state": "NJ",
+      "zip": "07204",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.6651,
+      "lng": -74.267,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "juniper-lane-atlantic-city",
+      "name": "Juniper Lane",
+      "website": "https://www.juniperlanecannabis.com/",
+      "phone": null,
+      "address": "2305 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "2305 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "kind-kush-rockaway",
+      "name": "Kind Kush",
+      "website": "https://kindkushdispensary.com/",
+      "phone": "(973) 586-9333",
+      "address": "279 US-46, Rockaway, NJ 07866",
+      "street": "279 US-46",
+      "city": "Rockaway",
+      "state": "NJ",
+      "zip": "07866",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.9229,
+      "lng": -74.5094,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "kine-buds-maywood-maywood",
+      "name": "Kine Buds Maywood",
+      "website": "https://kinebudsdispensary.com/",
+      "phone": "(201) 956-8800",
+      "address": "113 E Passaic St, Maywood, NJ 07607",
+      "street": "113 E Passaic St",
+      "city": "Maywood",
+      "state": "NJ",
+      "zip": "07607",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9024,
+      "lng": -74.0629,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "kota-canna-plainfield",
+      "name": "Kota Canna",
+      "website": null,
+      "phone": "(908) 941-4565",
+      "address": "206 Watchung Ave, Plainfield, NJ 07060",
+      "street": "206 Watchung Ave",
+      "city": "Plainfield",
+      "state": "NJ",
+      "zip": "07060",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6152,
+      "lng": -74.415,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "la-vida-gardens-belleville",
+      "name": "La Vida Gardens",
+      "website": "https://www.lavidagardens.com/",
+      "phone": "(973) 259-6736",
+      "address": "523 Washington Ave, Belleville, NJ 07109",
+      "street": "523 Washington Ave",
+      "city": "Belleville",
+      "state": "NJ",
+      "zip": "07109",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7946,
+      "lng": -74.1631,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "lady-l-cannabis-jersey-city",
+      "name": "Lady L Cannabis",
+      "website": "https://ladyljerseycity.com/",
+      "phone": null,
+      "address": "547 West Side Ave, Jersey City, NJ 07304",
+      "street": "547 West Side Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07304",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.718,
+      "lng": -74.0754,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "leaf-haus-somerset",
+      "name": "Leaf Haus",
+      "website": "https://leafhaus.com/",
+      "phone": "(908) 908-9333",
+      "address": "900 Easton Ave, Somerset, NJ 08873",
+      "street": "900 Easton Ave",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "leaf-joint-jersey-city",
+      "name": "Leaf Joint",
+      "website": "https://www.theleafjoint.net/",
+      "phone": "(201) 630-4356",
+      "address": "391 Central Ave, Jersey City, NJ 07307",
+      "street": "391 Central Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7482,
+      "lng": -74.0498,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "legacy-to-lifted-jersey-city",
+      "name": "Legacy to Lifted",
+      "website": "https://liftednj.com/",
+      "phone": "(201) 492-8431",
+      "address": "490 West Side Ave, Jersey City, NJ 07304",
+      "street": "490 West Side Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07304",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.718,
+      "lng": -74.0754,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "legal-distribution-atlantic-city",
+      "name": "Legal Distribution",
+      "website": "http://legaldistributionnj.com/",
+      "phone": "(609) 604-4444",
+      "address": "3112 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "3112 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "lemon-22-scotch-plains",
+      "name": "Lemon 22",
+      "website": "https://lemon22nj.com/",
+      "phone": "(908) 490-0039",
+      "address": "2006 US-22, Scotch Plains, NJ 07076",
+      "street": "2006 US-22",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "zip": "07076",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.6379,
+      "lng": -74.3682,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "liberty-cannabis-dispensary-north-brunswick-north-brunswick-township",
+      "name": "Liberty Cannabis Dispensary North Brunswick",
+      "website": "https://libertycannabis.com/locations/new-jersey/north-brunswick/",
+      "phone": "(848) 800-4795",
+      "address": "602 Grand Ave, North Brunswick Township, NJ 08902",
+      "street": "602 Grand Ave",
+      "city": "North Brunswick Township",
+      "state": "NJ",
+      "zip": "08902",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4538,
+      "lng": -74.4823,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "lilac-dispensary-newark",
+      "name": "Lilac Dispensary",
+      "website": "https://lilacdispensary.com/about-us/",
+      "phone": "(973) 370-0420",
+      "address": "79 Halsey St, Newark, NJ 07102",
+      "street": "79 Halsey St",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07102",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.732,
+      "lng": -74.1765,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "loud-house-camden",
+      "name": "Loud House",
+      "website": null,
+      "phone": null,
+      "address": "112 N 3rd St, Camden, NJ 08102",
+      "street": "112 N 3rd St",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08102",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9512,
+      "lng": -75.1186,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mad-hatter-dispensary-avenel",
+      "name": "Mad Hatter Dispensary",
+      "website": "https://www.madhatterdispensary.com/",
+      "phone": "(732) 636-5070",
+      "address": "845 US-1, Avenel, NJ 07001",
+      "street": "845 US-1",
+      "city": "Avenel",
+      "state": "NJ",
+      "zip": "07001",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5826,
+      "lng": -74.2785,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "main-street-dispensary-highland-park",
+      "name": "Main Street Dispensary",
+      "website": "https://www.mainstreetdispensarynj.com/",
+      "phone": "(732) 253-0095",
+      "address": "311 Raritan Ave, Highland Park, NJ 08904",
+      "street": "311 Raritan Ave",
+      "city": "Highland Park",
+      "state": "NJ",
+      "zip": "08904",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4991,
+      "lng": -74.4266,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "marvins-gardens-atlantic-city",
+      "name": "Marvins Gardens",
+      "website": "https://www.marvinsgardennj.com/",
+      "phone": null,
+      "address": "1723 Pacific Ave, Atlantic City, NJ 08401",
+      "street": "1723 Pacific Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mass-grown-mt-holly",
+      "name": "Mass Grown",
+      "website": "http://massgrownnj.com/",
+      "phone": "(609) 518-9333",
+      "address": "34 Mill St, Mt Holly, NJ 08060",
+      "street": "34 Mill St",
+      "city": "Mt Holly",
+      "state": "NJ",
+      "zip": "08060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0086,
+      "lng": -74.7896,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "med-leaf-egg-harbor-city",
+      "name": "Med Leaf",
+      "website": "https://www.medleafdispensary.com/",
+      "phone": "(609) 616-0420",
+      "address": "201 Philadelphia Ave, Egg Harbor City, NJ 08215",
+      "street": "201 Philadelphia Ave",
+      "city": "Egg Harbor City",
+      "state": "NJ",
+      "zip": "08215",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.5331,
+      "lng": -74.6177,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "memes-danckk-world-jersey-city",
+      "name": "Memes Danckk World",
+      "website": null,
+      "phone": null,
+      "address": "1704 John F. Kennedy Blvd, Jersey City, NJ 07305",
+      "street": "1704 John F. Kennedy Blvd",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07305",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.702,
+      "lng": -74.089,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "midnight-greens-blackwood",
+      "name": "Midnight Greens",
+      "website": "http://midnightgreensnj.com/",
+      "phone": "(856) 818-5335",
+      "address": "5100 NJ-42, Blackwood, NJ 08012",
+      "street": "5100 NJ-42",
+      "city": "Blackwood",
+      "state": "NJ",
+      "zip": "08012",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7901,
+      "lng": -75.0367,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "milligrams-mt-laurel-township",
+      "name": "Milligrams",
+      "website": "https://milligrams.co/locations/mt-laurel-nj/",
+      "phone": null,
+      "address": "813 E Gate Dr, Mt Laurel Township, NJ 08054",
+      "street": "813 E Gate Dr",
+      "city": "Mt Laurel Township",
+      "state": "NJ",
+      "zip": "08054",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9478,
+      "lng": -74.9036,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mindlift-dispensary-plainfield",
+      "name": "MindLift Dispensary",
+      "website": "https://mindliftdispensary.com/",
+      "phone": "(908) 588-2322",
+      "address": "517 Park Ave, Plainfield, NJ 07060",
+      "street": "517 Park Ave",
+      "city": "Plainfield",
+      "state": "NJ",
+      "zip": "07060",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6152,
+      "lng": -74.415,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mister-jones-little-falls-township",
+      "name": "Mister Jones",
+      "website": "https://misterjones.com/",
+      "phone": "(973) 638-2454",
+      "address": "655 US-46, Little Falls Township, NJ 07424",
+      "street": "655 US-46",
+      "city": "Little Falls Township",
+      "state": "NJ",
+      "zip": "07424",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8835,
+      "lng": -74.2144,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mmd-nj-jersey-city",
+      "name": "MMD NJ",
+      "website": "https://mmdshops.com/location/jersey-city/",
+      "phone": "(201) 721-5614",
+      "address": "655 Newark Ave, Jersey City, NJ 07306",
+      "street": "655 Newark Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07306",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7321,
+      "lng": -74.066,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "moja-life-trenton",
+      "name": "Moja Life",
+      "website": "http://moja-life.com/",
+      "phone": "(609) 228-0060",
+      "address": "28 S Warren St, Trenton, NJ 08608",
+      "street": "28 S Warren St",
+      "city": "Trenton",
+      "state": "NJ",
+      "zip": "08608",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2204,
+      "lng": -74.7622,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "molly-ann-farms-haledon",
+      "name": "Molly Ann Farms",
+      "website": "https://www.mollyannfarms.com/",
+      "phone": "(973) 315-4900",
+      "address": "256 Belmont Ave, Haledon, NJ 07508",
+      "street": "256 Belmont Ave",
+      "city": "Haledon",
+      "state": "NJ",
+      "zip": "07508",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9457,
+      "lng": -74.1826,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "monteverde-nj-red-bank",
+      "name": "Monteverde NJ",
+      "website": "https://monteverdenj.com/",
+      "phone": "(732) 704-4575",
+      "address": "45 Bridge Ave, Red Bank, NJ 07701",
+      "street": "45 Bridge Ave",
+      "city": "Red Bank",
+      "state": "NJ",
+      "zip": "07701",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3584,
+      "lng": -74.0681,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mountain-dispensary-vernon-township",
+      "name": "Mountain Dispensary",
+      "website": "https://mountaindispensarynj.com/",
+      "phone": "(973) 287-7034",
+      "address": "46 NJ-94, Vernon Township, NJ 07462",
+      "street": "46 NJ-94",
+      "city": "Vernon Township",
+      "state": "NJ",
+      "zip": "07462",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 41.185,
+      "lng": -74.5332,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mountain-view-farmacy-oak-ridge",
+      "name": "Mountain View Farmacy",
+      "website": "http://www.mvf.earth/",
+      "phone": "(973) 319-6420",
+      "address": "74 Oak Ridge Rd, Oak Ridge, NJ 07438",
+      "street": "74 Oak Ridge Rd",
+      "city": "Oak Ridge",
+      "state": "NJ",
+      "zip": "07438",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.0302,
+      "lng": -74.5198,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mpx-nj-atlantic-city",
+      "name": "MPX NJ",
+      "website": "https://mpxnj.com/cannabis-dispensary-atlantic-city/",
+      "phone": "(609) 616-7770",
+      "address": "153 S New York Ave, Atlantic City, NJ 08401",
+      "street": "153 S New York Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mpx-nj-pennsauken-township",
+      "name": "MPX NJ",
+      "website": "https://mpxnj.com/",
+      "phone": "(848) 206-5060",
+      "address": "5035 Central Hwy, Pennsauken Township, NJ 08109",
+      "street": "5035 Central Hwy",
+      "city": "Pennsauken Township",
+      "state": "NJ",
+      "zip": "08109",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9519,
+      "lng": -75.0482,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "mpx-nj-sicklerville",
+      "name": "MPX NJ",
+      "website": "https://mpxnj.com/gloucester-township/",
+      "phone": "(848) 292-2764",
+      "address": "581 Berlin - Cross Keys Rd, Sicklerville, NJ 08081",
+      "street": "581 Berlin - Cross Keys Rd",
+      "city": "Sicklerville",
+      "state": "NJ",
+      "zip": "08081",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7354,
+      "lng": -74.9864,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nar-cannabis-mt-laurel-township",
+      "name": "NAR Cannabis",
+      "website": "https://narcannabis.com/",
+      "phone": "(856) 209-6565",
+      "address": "4004 Church Rd, Mt Laurel Township, NJ 08054",
+      "street": "4004 Church Rd",
+      "city": "Mt Laurel Township",
+      "state": "NJ",
+      "zip": "08054",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9478,
+      "lng": -74.9036,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "natural-apothecary-belleville",
+      "name": "Natural Apothecary",
+      "website": "http://natural-apothecary.com/",
+      "phone": "(973) 755-2918",
+      "address": "27 Washington Ave, Belleville, NJ 07109",
+      "street": "27 Washington Ave",
+      "city": "Belleville",
+      "state": "NJ",
+      "zip": "07109",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7946,
+      "lng": -74.1631,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "natures-motivation-irvington",
+      "name": "Nature’s Motivation",
+      "website": "http://natmotive.com/",
+      "phone": "(201) 604-1111",
+      "address": "1095 Clinton Ave, Irvington, NJ 07111",
+      "street": "1095 Clinton Ave",
+      "city": "Irvington",
+      "state": "NJ",
+      "zip": "07111",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7261,
+      "lng": -74.2313,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nevaeh-verde-dispensary-belleville",
+      "name": "Nevaeh Verde Dispensary",
+      "website": "https://nevaehverde.com/",
+      "phone": "(973) 758-6011",
+      "address": "176 Belmont Ave, Belleville, NJ 07109",
+      "street": "176 Belmont Ave",
+      "city": "Belleville",
+      "state": "NJ",
+      "zip": "07109",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7946,
+      "lng": -74.1631,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "new-era-dispensary-south-bound-brook",
+      "name": "New Era Dispensary",
+      "website": "https://neweradispensary.com/",
+      "phone": "(732) 709-9842",
+      "address": "80-88 Main St, South Bound Brook, NJ 08880",
+      "street": "80-88 Main St",
+      "city": "South Bound Brook",
+      "state": "NJ",
+      "zip": "08880",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5523,
+      "lng": -74.5311,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "new-frontier-solutions-salem",
+      "name": "New Frontier Solutions",
+      "website": "https://www.newfrontiersolutions.org/",
+      "phone": "(856) 279-2194",
+      "address": "473 E Broadway, Salem, NJ 08079",
+      "street": "473 E Broadway",
+      "city": "Salem",
+      "state": "NJ",
+      "zip": "08079",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.5591,
+      "lng": -75.4521,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nightjar-bloomfield",
+      "name": "Nightjar",
+      "website": "http://www.nightjarcannabis.com/",
+      "phone": "(973) 707-2915",
+      "address": "549 Bloomfield Ave, Bloomfield, NJ 07003",
+      "street": "549 Bloomfield Ave",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "zip": "07003",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.8035,
+      "lng": -74.1891,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nile-of-nj-west-new-york",
+      "name": "Nile of NJ",
+      "website": "https://www.nile-cannabis.com/",
+      "phone": "(201) 866-6473",
+      "address": "5409 Bergenline Ave, West New York, NJ 07093",
+      "street": "5409 Bergenline Ave",
+      "city": "West New York",
+      "state": "NJ",
+      "zip": "07093",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7888,
+      "lng": -74.0115,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nirvana-mt-laurel-township",
+      "name": "Nirvana",
+      "website": "http://explorenirvana.com/",
+      "phone": "(732) 431-3137",
+      "address": "1134 NJ-73, Mt Laurel Township, NJ 08054",
+      "street": "1134 NJ-73",
+      "city": "Mt Laurel Township",
+      "state": "NJ",
+      "zip": "08054",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9478,
+      "lng": -74.9036,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nirvana-dispensary-saddle-brook-saddle-brook",
+      "name": "Nirvana Dispensary Saddle Brook",
+      "website": "https://thedispensariesofnj.com/",
+      "phone": "(201) 250-8282",
+      "address": "225 US-46, Saddle Brook, NJ 07663",
+      "street": "225 US-46",
+      "city": "Saddle Brook",
+      "state": "NJ",
+      "zip": "07663",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9031,
+      "lng": -74.0955,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nj-leaf-aberdeen-cliffwood",
+      "name": "NJ LEAF Aberdeen",
+      "website": "https://njleaf.com/",
+      "phone": null,
+      "address": "369 NJ-35 S, Cliffwood, NJ 07721",
+      "street": "369 NJ-35 S",
+      "city": "Cliffwood",
+      "state": "NJ",
+      "zip": "07721",
+      "license_types": [],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4353,
+      "lng": -74.2358,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nj-leaf-aberdeen-cliffwood-2",
+      "name": "NJ Leaf Aberdeen",
+      "website": "https://njleaf.com/",
+      "phone": null,
+      "address": "369 NJ-35, Cliffwood, NJ 07721",
+      "street": "369 NJ-35",
+      "city": "Cliffwood",
+      "state": "NJ",
+      "zip": "07721",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4353,
+      "lng": -74.2358,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nj-leaf-freehold-freehold",
+      "name": "NJ Leaf Freehold",
+      "website": "https://njleaf.com/",
+      "phone": "(732) 204-7172",
+      "address": "546 Park Ave, Freehold, NJ 07728",
+      "street": "546 Park Ave",
+      "city": "Freehold",
+      "state": "NJ",
+      "zip": "07728",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2458,
+      "lng": -74.2768,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nj-leaf-keansburg-keansburg",
+      "name": "NJ Leaf Keansburg",
+      "website": "https://njleaf.com/",
+      "phone": "(908) 936-7930",
+      "address": "77 NJ-36, Keansburg, NJ 07734",
+      "street": "77 NJ-36",
+      "city": "Keansburg",
+      "state": "NJ",
+      "zip": "07734",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4414,
+      "lng": -74.1306,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nj-leaf-north-brunswick-north-brunswick-township",
+      "name": "NJ Leaf North Brunswick",
+      "website": "https://dutchie.com/stores/garden-state-botanicals",
+      "phone": "(201) 574-8060",
+      "address": "1345 US-1, North Brunswick Township, NJ 08902",
+      "street": "1345 US-1",
+      "city": "North Brunswick Township",
+      "state": "NJ",
+      "zip": "08902",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4538,
+      "lng": -74.4823,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nj-pure-edgewater-park",
+      "name": "NJ Pure",
+      "website": "http://njpure.net/",
+      "phone": "(234) 565-7873",
+      "address": "A-10, 4313 US-130, Edgewater Park, NJ 08010",
+      "street": "A-10, 4313 US-130",
+      "city": "Edgewater Park",
+      "state": "NJ",
+      "zip": "08010",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.0565,
+      "lng": -74.9114,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "noire-dispensary-maplewood",
+      "name": "Noire Dispensary",
+      "website": "https://noiredispensary.com/",
+      "phone": "(973) 922-1622",
+      "address": "171 Maplewood Ave, Maplewood, NJ 07040",
+      "street": "171 Maplewood Ave",
+      "city": "Maplewood",
+      "state": "NJ",
+      "zip": "07040",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7279,
+      "lng": -74.2656,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "northeast-alternatives-dispensary-hamilton-township",
+      "name": "Northeast Alternatives Dispensary",
+      "website": "https://nealternatives.com/hamilton-nj/",
+      "phone": "(609) 262-2262",
+      "address": "780 US-130, Hamilton Township, NJ 08691",
+      "street": "780 US-130",
+      "city": "Hamilton Township",
+      "state": "NJ",
+      "zip": "08691",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2197,
+      "lng": -74.5939,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "nova-farms-woodbury",
+      "name": "Nova Farms",
+      "website": "http://www.novafarms.com/",
+      "phone": "(856) 202-7273",
+      "address": "642 Mantua Pike, Woodbury, NJ 08096",
+      "street": "642 Mantua Pike",
+      "city": "Woodbury",
+      "state": "NJ",
+      "zip": "08096",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7539,
+      "lng": -74.996,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ohm-theory-elmwood-park",
+      "name": "Ohm Theory",
+      "website": "http://ohmtheory.com/",
+      "phone": "(201) 420-0004",
+      "address": "213 US-46, Elmwood Park, NJ 07407",
+      "street": "213 US-46",
+      "city": "Elmwood Park",
+      "state": "NJ",
+      "zip": "07407",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9069,
+      "lng": -74.1209,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "one-green-leaf-gibbsboro",
+      "name": "One Green Leaf",
+      "website": "http://onegreenleafdispensary.com/",
+      "phone": "(856) 344-2879",
+      "address": "95 Lakeview Dr N, Gibbsboro, NJ 08026",
+      "street": "95 Lakeview Dr N",
+      "city": "Gibbsboro",
+      "state": "NJ",
+      "zip": "08026",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8365,
+      "lng": -74.971,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "organic-farms-camden",
+      "name": "Organic Farms",
+      "website": "https://www.organicfarms21.com/",
+      "phone": "(856) 407-7100",
+      "address": "2895 Mt Ephraim Ave, Camden, NJ 08104",
+      "street": "2895 Mt Ephraim Ave",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08104",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9186,
+      "lng": -75.1078,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "organic-fusion-dispensary-irvington",
+      "name": "Organic Fusion Dispensary",
+      "website": "https://organicfusion.net/",
+      "phone": "(908) 209-8708",
+      "address": "1114 Springfield Ave, Irvington, NJ 07111",
+      "street": "1114 Springfield Ave",
+      "city": "Irvington",
+      "state": "NJ",
+      "zip": "07111",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7261,
+      "lng": -74.2313,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "otc-jersey-absecon",
+      "name": "OTC Jersey",
+      "website": "https://www.offthechartsshop.com/absecon",
+      "phone": "(609) 867-9140",
+      "address": "167 New Jersey Ave, Absecon, NJ 08201",
+      "street": "167 New Jersey Ave",
+      "city": "Absecon",
+      "state": "NJ",
+      "zip": "08201",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.4218,
+      "lng": -74.4949,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "phasal-runnemede",
+      "name": "Phasal",
+      "website": "https://phasaldispensary.com/",
+      "phone": "(856) 540-9333",
+      "address": "1100 N Black Horse Pike, Runnemede, NJ 08078",
+      "street": "1100 N Black Horse Pike",
+      "city": "Runnemede",
+      "state": "NJ",
+      "zip": "08078",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8508,
+      "lng": -75.0742,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "phula-mt-holly",
+      "name": "Phula",
+      "website": "http://www.phulaweed.com/",
+      "phone": "(609) 667-7343",
+      "address": "60-62 High St, Mt Holly, NJ 08060",
+      "street": "60-62 High St",
+      "city": "Mt Holly",
+      "state": "NJ",
+      "zip": "08060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0086,
+      "lng": -74.7896,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "plant-base-plainfield",
+      "name": "Plant Base",
+      "website": "https://plantbasellc.com/",
+      "phone": "(908) 727-3735",
+      "address": "148 E 2nd St, Plainfield, NJ 07060",
+      "street": "148 E 2nd St",
+      "city": "Plainfield",
+      "state": "NJ",
+      "zip": "07060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6152,
+      "lng": -74.415,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "plantabis-rahway",
+      "name": "Plantabis",
+      "website": "http://plantabis.com/",
+      "phone": "(732) 481-0002",
+      "address": "2077 US-1, Rahway, NJ 07065",
+      "street": "2077 US-1",
+      "city": "Rahway",
+      "state": "NJ",
+      "zip": "07065",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6087,
+      "lng": -74.2819,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "plantopia-englishtown",
+      "name": "Plantopia",
+      "website": "https://plantopiadispensaries.com/",
+      "phone": "(732) 446-4891",
+      "address": "37 Main St, Englishtown, NJ 07726",
+      "street": "37 Main St",
+      "city": "Englishtown",
+      "state": "NJ",
+      "zip": "07726",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2825,
+      "lng": -74.3424,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ppp-dispensary-atlantic-city",
+      "name": "PPP Dispensary",
+      "website": "https://pppdispensaryllc.com/",
+      "phone": "(609) 541-4098",
+      "address": "3001 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "3001 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "premo-keyport",
+      "name": "Premo",
+      "website": "http://premocannabis.co/",
+      "phone": "(908) 676-7320",
+      "address": "2 E Front St, Keyport, NJ 07735",
+      "street": "2 E Front St",
+      "city": "Keyport",
+      "state": "NJ",
+      "zip": "07735",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.4332,
+      "lng": -74.1996,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "premo-dover-dover",
+      "name": "Premo Dover",
+      "website": "https://thegoodssupply.co/",
+      "phone": "(908) 936-5077",
+      "address": "330 S Salem St, Dover, NJ 07801",
+      "street": "330 S Salem St",
+      "city": "Dover",
+      "state": "NJ",
+      "zip": "07801",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9176,
+      "lng": -74.5467,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "public-absecon-absecon",
+      "name": "Public Absecon",
+      "website": null,
+      "phone": "(609) 241-0447",
+      "address": "792a White Horse Pike, Absecon, NJ 08201",
+      "street": "792a White Horse Pike",
+      "city": "Absecon",
+      "state": "NJ",
+      "zip": "08201",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.4218,
+      "lng": -74.4949,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "puffin-store-new-brunswick",
+      "name": "Puffin Store",
+      "website": "https://puffinstorenj.com/",
+      "phone": "(732) 378-3346",
+      "address": "382 George St, New Brunswick, NJ 08901",
+      "street": "382 George St",
+      "city": "New Brunswick",
+      "state": "NJ",
+      "zip": "08901",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.4891,
+      "lng": -74.4482,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "pure-blossom-pennington",
+      "name": "Pure Blossom",
+      "website": "https://www.pureblossom.com/",
+      "phone": "(609) 928-3644",
+      "address": "2554 Pennington Rd, Pennington, NJ 08534",
+      "street": "2554 Pennington Rd",
+      "city": "Pennington",
+      "state": "NJ",
+      "zip": "08534",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.3339,
+      "lng": -74.7944,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "pure-natural-vibes-west-orange",
+      "name": "Pure Natural Vibes",
+      "website": "https://www.purenaturalvibes.com/",
+      "phone": "(888) 429-2010",
+      "address": "470 Prospect Ave, West Orange, NJ 07052",
+      "street": "470 Prospect Ave",
+      "city": "West Orange",
+      "state": "NJ",
+      "zip": "07052",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7859,
+      "lng": -74.2568,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "quality-cannabliss-blackwood",
+      "name": "Quality Cannabliss",
+      "website": "https://www.qualitycannabliss.com/",
+      "phone": "(856) 295-2547",
+      "address": "1610 N Black Horse Pike, Blackwood, NJ 08012",
+      "street": "1610 N Black Horse Pike",
+      "city": "Blackwood",
+      "state": "NJ",
+      "zip": "08012",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7901,
+      "lng": -75.0367,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "quality-roots-marlton",
+      "name": "Quality Roots",
+      "website": "https://getqualityroots.com/locations/marlton/",
+      "phone": "(856) 702-1800",
+      "address": "850 Rte 70 W, Marlton, NJ 08053",
+      "street": "850 Rte 70 W",
+      "city": "Marlton",
+      "state": "NJ",
+      "zip": "08053",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8845,
+      "lng": -74.9067,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "queen-city-remedies-plainfield",
+      "name": "Queen City Remedies",
+      "website": "https://queencitynj.com/",
+      "phone": "(908) 941-7909",
+      "address": "1353 South Ave, Plainfield, NJ 07062",
+      "street": "1353 South Ave",
+      "city": "Plainfield",
+      "state": "NJ",
+      "zip": "07062",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6323,
+      "lng": -74.3997,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "red-oak-dispensary-absecon",
+      "name": "Red Oak Dispensary",
+      "website": "https://redoakdispensary.com/",
+      "phone": "(609) 241-0702",
+      "address": "401 White Horse Pike, Absecon, NJ 08201",
+      "street": "401 White Horse Pike",
+      "city": "Absecon",
+      "state": "NJ",
+      "zip": "08201",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.4218,
+      "lng": -74.4949,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "releaf-cannabis-williamstown",
+      "name": "Releaf Cannabis",
+      "website": "https://releafcanna.biz/",
+      "phone": "(856) 516-8187",
+      "address": "1024 S Black Horse Pike, Williamstown, NJ 08094",
+      "street": "1024 S Black Horse Pike",
+      "city": "Williamstown",
+      "state": "NJ",
+      "zip": "08094",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.665,
+      "lng": -74.971,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "releaf-newton-newton",
+      "name": "Releaf Newton",
+      "website": "https://www.releafnewton.com/location/releafnewton",
+      "phone": "(973) 440-5552",
+      "address": "78 Mill St, Newton, NJ 07860",
+      "street": "78 Mill St",
+      "city": "Newton",
+      "state": "NJ",
+      "zip": "07860",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.0695,
+      "lng": -74.8069,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "restore-nj-glassboro",
+      "name": "Restore NJ",
+      "website": "https://restoredispensaries.com/locations/glassboro/",
+      "phone": "(856) 652-8001",
+      "address": "300 William Dalton Dr, Glassboro, NJ 08028",
+      "street": "300 William Dalton Dr",
+      "city": "Glassboro",
+      "state": "NJ",
+      "zip": "08028",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7068,
+      "lng": -75.1172,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ript-jersey-city",
+      "name": "RIPT",
+      "website": "http://www.riptdispensary.com/",
+      "phone": "(201) 267-0701",
+      "address": "220 Broadway, Jersey City, NJ 07306",
+      "street": "220 Broadway",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07306",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7321,
+      "lng": -74.066,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "rise-bloomfield",
+      "name": "RISE",
+      "website": "https://risecannabis.com/dispensaries/new-jersey/bloomfield/",
+      "phone": "(973) 327-3442",
+      "address": "26-48 Bloomfield Ave, Bloomfield, NJ 07003",
+      "street": "26-48 Bloomfield Ave",
+      "city": "Bloomfield",
+      "state": "NJ",
+      "zip": "07003",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.8035,
+      "lng": -74.1891,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "rise-paramus",
+      "name": "RISE",
+      "website": "https://risecannabis.com/dispensary-menu/new-jersey/paramus-medical-menu/",
+      "phone": "(973) 996-4570",
+      "address": "145 Rte 4, Paramus, NJ 07652",
+      "street": "145 Rte 4",
+      "city": "Paramus",
+      "state": "NJ",
+      "zip": "07652",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.9477,
+      "lng": -74.0672,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "rise-paterson",
+      "name": "RISE",
+      "website": "https://risecannabis.com/dispensaries/new-jersey/paterson/",
+      "phone": "(973) 440-2717",
+      "address": "196 3rd Ave 3 c, Paterson, NJ 07514",
+      "street": "196 3rd Ave 3 c",
+      "city": "Paterson",
+      "state": "NJ",
+      "zip": "07514",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.9248,
+      "lng": -74.1467,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "roll-models-roselle",
+      "name": "Roll Models",
+      "website": null,
+      "phone": null,
+      "address": "731 E St Georges Ave, Roselle, NJ 07203",
+      "street": "731 E St Georges Ave",
+      "city": "Roselle",
+      "state": "NJ",
+      "zip": "07203",
+      "license_types": [],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.653,
+      "lng": -74.261,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "rollin-green-atlantic-city",
+      "name": "Rollin' Green",
+      "website": "https://rollingnj.com/",
+      "phone": "(609) 350-6041",
+      "address": "1011 Arctic Ave, Atlantic City, NJ 08401",
+      "street": "1011 Arctic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "roots-dispensary-willingboro",
+      "name": "Roots Dispensary",
+      "website": "http://rootsnj.com/",
+      "phone": "(609) 232-2722",
+      "address": "4402 US-130, Willingboro, NJ 08046",
+      "street": "4402 US-130",
+      "city": "Willingboro",
+      "state": "NJ",
+      "zip": "08046",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.029,
+      "lng": -74.8835,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "rushbudz-dispensary-south-bound-brook",
+      "name": "RushBudz Dispensary",
+      "website": "https://www.rushbudz.com/new-jersey",
+      "phone": "(732) 314-0099",
+      "address": "77 Main St, South Bound Brook, NJ 08880",
+      "street": "77 Main St",
+      "city": "South Bound Brook",
+      "state": "NJ",
+      "zip": "08880",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.5523,
+      "lng": -74.5311,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "ruuted-englishtown",
+      "name": "Ruuted",
+      "website": "http://ruuteddispensary.com/",
+      "phone": "(732) 584-2209",
+      "address": "14 Main St, Englishtown, NJ 07726",
+      "street": "14 Main St",
+      "city": "Englishtown",
+      "state": "NJ",
+      "zip": "07726",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.2825,
+      "lng": -74.3424,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sage-dispensary-mt-laurel-township",
+      "name": "Sage Dispensary",
+      "website": "https://sagedispensary.com/",
+      "phone": "(856) 780-6232",
+      "address": "1170 NJ-73, Mt Laurel Township, NJ 08054",
+      "street": "1170 NJ-73",
+      "city": "Mt Laurel Township",
+      "state": "NJ",
+      "zip": "08054",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9478,
+      "lng": -74.9036,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "salt-air-botanicals-atlantic-city",
+      "name": "Salt Air Botanicals",
+      "website": "https://www.saltairbotanicals.com/",
+      "phone": "(609) 200-1584",
+      "address": "1127 Arctic Ave, Atlantic City, NJ 08401",
+      "street": "1127 Arctic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sanctuary-cannabis-scotch-plains",
+      "name": "Sanctuary Cannabis",
+      "website": "https://sanctuarymed.com/scotchplains/",
+      "phone": "(201) 326-0174",
+      "address": "2581 US-22, Scotch Plains, NJ 07076",
+      "street": "2581 US-22",
+      "city": "Scotch Plains",
+      "state": "NJ",
+      "zip": "07076",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.6379,
+      "lng": -74.3682,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "scarlet-reserve-room-englishtown",
+      "name": "Scarlet Reserve Room",
+      "website": "http://scarletreserveroom.com/",
+      "phone": "(856) 537-9300",
+      "address": "5 Hamilton Rd, Englishtown, NJ 07726",
+      "street": "5 Hamilton Rd",
+      "city": "Englishtown",
+      "state": "NJ",
+      "zip": "07726",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.2825,
+      "lng": -74.3424,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sea-leaf-north-cape-may",
+      "name": "Sea & Leaf",
+      "website": "http://www.seaandleaf.com/",
+      "phone": "(609) 582-3166",
+      "address": "3860 Bayshore Rd, North Cape May, NJ 08204",
+      "street": "3860 Bayshore Rd",
+      "city": "North Cape May",
+      "state": "NJ",
+      "zip": "08204",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 38.9711,
+      "lng": -74.9214,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "shipwreckd-neptune-city",
+      "name": "Shipwreck'd",
+      "website": "https://shipwreckd.com/",
+      "phone": "(732) 481-3136",
+      "address": "300 W Sylvania Ave, Neptune City, NJ 07753",
+      "street": "300 W Sylvania Ave",
+      "city": "Neptune City",
+      "state": "NJ",
+      "zip": "07753",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2096,
+      "lng": -74.0714,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "shore-house-canna-cape-may",
+      "name": "Shore House Canna",
+      "website": "https://shorehousecanna.com/",
+      "phone": "(609) 600-3452",
+      "address": "124 Sunset Blvd, Cape May, NJ 08204",
+      "street": "124 Sunset Blvd",
+      "city": "Cape May",
+      "state": "NJ",
+      "zip": "08204",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 38.9711,
+      "lng": -74.9214,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "silverleaf-wellness-somerset",
+      "name": "SilverLeaf Wellness",
+      "website": "https://silverleafnj.com/",
+      "phone": "(732) 655-9842",
+      "address": "1743 NJ-27, Somerset, NJ 08873",
+      "street": "1743 NJ-27",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "simply-pure-trenton-ewing-township",
+      "name": "Simply Pure Trenton",
+      "website": "http://simplypuretrenton.com/",
+      "phone": "(609) 388-7679",
+      "address": "1531 N Olden Ave, Ewing Township, NJ 08638",
+      "street": "1531 N Olden Ave",
+      "city": "Ewing Township",
+      "state": "NJ",
+      "zip": "08638",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.251,
+      "lng": -74.7627,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sky-cannabis-hopewell",
+      "name": "Sky Cannabis",
+      "website": "https://www.skycannanj.com/",
+      "phone": "(609) 309-5005",
+      "address": "52 E Broad St unit 9, Hopewell, NJ 08525",
+      "street": "52 E Broad St unit 9",
+      "city": "Hopewell",
+      "state": "NJ",
+      "zip": "08525",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3902,
+      "lng": -74.771,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "social-dispensary-bridgeton",
+      "name": "Social Dispensary",
+      "website": "https://thesocialcannabis.com/shop/",
+      "phone": "(303) 997-5563",
+      "address": "614 N Pearl St, Bridgeton, NJ 08302",
+      "street": "614 N Pearl St",
+      "city": "Bridgeton",
+      "state": "NJ",
+      "zip": "08302",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3762,
+      "lng": -75.1617,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "somerset-green-somerset",
+      "name": "Somerset Green",
+      "website": "https://www.somersetgreen.co/",
+      "phone": "(732) 354-0003",
+      "address": "729 Somerset St, Somerset, NJ 08873",
+      "street": "729 Somerset St",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "soulflora-newfoundland",
+      "name": "Soulflora",
+      "website": "https://www.soulflora.com/",
+      "phone": "(973) 409-4319",
+      "address": "2713 NJ-23, Newfoundland, NJ 07435",
+      "street": "2713 NJ-23",
+      "city": "Newfoundland",
+      "state": "NJ",
+      "zip": "07435",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 41.0647,
+      "lng": -74.4359,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sparkology-franklin-park",
+      "name": "Sparkology",
+      "website": "https://sparkology.com/",
+      "phone": "(732) 419-3330",
+      "address": "3231 NJ-27, Franklin Park, NJ 08823",
+      "street": "3231 NJ-27",
+      "city": "Franklin Park",
+      "state": "NJ",
+      "zip": "08823",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4421,
+      "lng": -74.5369,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "spot-23-llc-newfoundland",
+      "name": "Spot 23 LLC",
+      "website": "https://spot23llc.com/",
+      "phone": "(973) 409-4757",
+      "address": "2915 NJ-23, Newfoundland, NJ 07435",
+      "street": "2915 NJ-23",
+      "city": "Newfoundland",
+      "state": "NJ",
+      "zip": "07435",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.0647,
+      "lng": -74.4359,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "springfield-ave-dispensary-irvington",
+      "name": "Springfield Ave Dispensary",
+      "website": "https://springfieldavedispensary.com/",
+      "phone": "(973) 757-2055",
+      "address": "1070 Springfield Ave, Irvington, NJ 07111",
+      "street": "1070 Springfield Ave",
+      "city": "Irvington",
+      "state": "NJ",
+      "zip": "07111",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7261,
+      "lng": -74.2313,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "star-leaf-dispensary-wrightstown",
+      "name": "Star Leaf Dispensary",
+      "website": "https://starleafdispensary.com/",
+      "phone": "(609) 316-3130",
+      "address": "401 E Main St, Wrightstown, NJ 08562",
+      "street": "401 E Main St",
+      "city": "Wrightstown",
+      "state": "NJ",
+      "zip": "08562",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.072,
+      "lng": -74.5731,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "story-dispensary-of-springfield-springfield",
+      "name": "Story Dispensary of Springfield",
+      "website": "https://storycannabis.com/shop/new-jersey/story-dispensary-of-springfield/rec-menu/",
+      "phone": "(908) 430-8689",
+      "address": "130 US-22, Springfield, NJ 07081",
+      "street": "130 US-22",
+      "city": "Springfield",
+      "state": "NJ",
+      "zip": "07081",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7015,
+      "lng": -74.3227,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sunnytien-atlantic-city",
+      "name": "SunnyTien",
+      "website": "http://sunnytien.com/",
+      "phone": "(609) 428-6235",
+      "address": "3004 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "3004 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": true,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sussex-pharms-sussex",
+      "name": "Sussex Pharms",
+      "website": "https://www.sussexpharms.com/",
+      "phone": "(973) 440-5044",
+      "address": "54 Main St, Sussex, NJ 07461",
+      "street": "54 Main St",
+      "city": "Sussex",
+      "state": "NJ",
+      "zip": "07461",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 41.2292,
+      "lng": -74.5992,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sweet-leafs-llc-atlantic-city",
+      "name": "Sweet Leaf's LLC",
+      "website": "https://sweetleafsnj.com/",
+      "phone": "(609) 400-3223",
+      "address": "21 S Tennessee Ave, Atlantic City, NJ 08401",
+      "street": "21 S Tennessee Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sweet-spot-voorhees-township",
+      "name": "Sweet Spot",
+      "website": "https://sweetspotfarms.com/store/nj001",
+      "phone": "(856) 882-3481",
+      "address": "903 White Horse Rd, Voorhees Township, NJ 08043",
+      "street": "903 White Horse Rd",
+      "city": "Voorhees Township",
+      "state": "NJ",
+      "zip": "08043",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8504,
+      "lng": -74.9646,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sweetspot-dispensary-hamilton-hamilton-township",
+      "name": "Sweetspot Dispensary Hamilton",
+      "website": "https://sweetspotfarms.com/",
+      "phone": "(609) 689-4899",
+      "address": "147 Sloan Ave, Hamilton Township, NJ 08619",
+      "street": "147 Sloan Ave",
+      "city": "Hamilton Township",
+      "state": "NJ",
+      "zip": "08619",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2418,
+      "lng": -74.6962,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "sweetspot-river-edge-river-edge",
+      "name": "Sweetspot River Edge",
+      "website": "https://sweetspotfarms.com/",
+      "phone": "(201) 331-0140",
+      "address": "75 Rte 4, River Edge, NJ 07661",
+      "street": "75 Rte 4",
+      "city": "River Edge",
+      "state": "NJ",
+      "zip": "07661",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9265,
+      "lng": -74.0392,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "taste-of-earth-buena",
+      "name": "Taste of Earth",
+      "website": "https://tasteofearth.co/",
+      "phone": "(856) 300-8783",
+      "address": "108 Wheat Rd, Buena, NJ 08310",
+      "street": "108 Wheat Rd",
+      "city": "Buena",
+      "state": "NJ",
+      "zip": "08310",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.537,
+      "lng": -74.8895,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-botanist-collingswood",
+      "name": "The Botanist",
+      "website": "https://shopbotanist.com/locations/collingswood/",
+      "phone": "(856) 477-0012",
+      "address": "35 W Crescent Blvd, Collingswood, NJ 08108",
+      "street": "35 W Crescent Blvd",
+      "city": "Collingswood",
+      "state": "NJ",
+      "zip": "08108",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9157,
+      "lng": -75.0634,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-botanist-egg-harbor-township",
+      "name": "The Botanist",
+      "website": "https://www.shopbotanist.com/locations/egg-harbor-township/",
+      "phone": "(609) 277-7547",
+      "address": "100 Century Dr, Egg Harbor Township, NJ 08234",
+      "street": "100 Century Dr",
+      "city": "Egg Harbor Township",
+      "state": "NJ",
+      "zip": "08234",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3741,
+      "lng": -74.6118,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-botanist-williamstown",
+      "name": "The Botanist",
+      "website": "https://www.shopbotanist.com/locations/williamstown/",
+      "phone": "(856) 478-3530",
+      "address": "2090 N Black Horse Pike, Williamstown, NJ 08094",
+      "street": "2090 N Black Horse Pike",
+      "city": "Williamstown",
+      "state": "NJ",
+      "zip": "08094",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.665,
+      "lng": -74.971,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-cannabis-place-jersey-city",
+      "name": "The Cannabis Place",
+      "website": "https://thecannabisplace.org/",
+      "phone": "(844) 420-1542",
+      "address": "1544 John F. Kennedy Blvd, Jersey City, NJ 07305",
+      "street": "1544 John F. Kennedy Blvd",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07305",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.702,
+      "lng": -74.089,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-cannabist-deptford",
+      "name": "The Cannabist",
+      "website": "https://gocannabist.com/location/deptford/",
+      "phone": "(856) 322-2829",
+      "address": "1692 Clements Bridge Rd, Deptford, NJ 08096",
+      "street": "1692 Clements Bridge Rd",
+      "city": "Deptford",
+      "state": "NJ",
+      "zip": "08096",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7539,
+      "lng": -74.996,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-cannabist-mays-landing",
+      "name": "The Cannabist",
+      "website": "https://www.gocannabist.com/stores/new-jersey/mays-landing",
+      "phone": "(609) 837-9695",
+      "address": "4476 Black Horse Pike Suite 2, Mays Landing, NJ 08330",
+      "street": "4476 Black Horse Pike Suite 2",
+      "city": "Mays Landing",
+      "state": "NJ",
+      "zip": "08330",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.432,
+      "lng": -74.6962,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-cannabist-vineland",
+      "name": "The Cannabist",
+      "website": "https://col-care.com/location/vineland/",
+      "phone": "(856) 213-9445",
+      "address": "1062 N Delsea Dr, Vineland, NJ 08360",
+      "street": "1062 N Delsea Dr",
+      "city": "Vineland",
+      "state": "NJ",
+      "zip": "08360",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.4818,
+      "lng": -75.0091,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-frosted-nug-at-red-bank-red-bank",
+      "name": "The Frosted Nug at Red Bank",
+      "website": "https://frostednug.com/",
+      "phone": "(848) 878-1110",
+      "address": "22 Bridge Ave, Red Bank, NJ 07701",
+      "street": "22 Bridge Ave",
+      "city": "Red Bank",
+      "state": "NJ",
+      "zip": "07701",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3584,
+      "lng": -74.0681,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-g-factory-recreational-dispensary-camden",
+      "name": "The G Factory - Recreational Dispensary",
+      "website": "https://gfactorynj.com/",
+      "phone": "(856) 831-0040",
+      "address": "1848 White Horse Pike, Camden, NJ 08103",
+      "street": "1848 White Horse Pike",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08103",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9351,
+      "lng": -75.1117,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-grass-cab-maywood",
+      "name": "The Grass Cab",
+      "website": "https://thegrasscab.com/",
+      "phone": "(201) 674-0901",
+      "address": "949 Spring Valley Rd, Maywood, NJ 07607",
+      "street": "949 Spring Valley Rd",
+      "city": "Maywood",
+      "state": "NJ",
+      "zip": "07607",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9024,
+      "lng": -74.0629,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-green-initiative-wenonah",
+      "name": "The Green Initiative",
+      "website": "https://tginj.com/",
+      "phone": "(856) 539-5900",
+      "address": "1062 Mantua Pike, Wenonah, NJ 08090",
+      "street": "1062 Mantua Pike",
+      "city": "Wenonah",
+      "state": "NJ",
+      "zip": "08090",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7993,
+      "lng": -75.1536,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-happy-farmer-lumberton-township",
+      "name": "The Happy Farmer",
+      "website": "https://happyfarmernj.com/",
+      "phone": "(609) 901-3555",
+      "address": "106 Ark Rd, Lumberton Township, NJ 08048",
+      "street": "106 Ark Rd",
+      "city": "Lumberton Township",
+      "state": "NJ",
+      "zip": "08048",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.9651,
+      "lng": -74.8067,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-healing-side-atlantic-city",
+      "name": "The Healing Side",
+      "website": "http://thehealingside.com/",
+      "phone": "(609) 727-0280",
+      "address": "2415 Pacific Ave, Atlantic City, NJ 08401",
+      "street": "2415 Pacific Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-honorable-plant-highlands",
+      "name": "The Honorable Plant",
+      "website": "https://honorableplant.com/",
+      "phone": "(732) 334-6545",
+      "address": "123 Bay Ave, Highlands, NJ 07732",
+      "street": "123 Bay Ave",
+      "city": "Highlands",
+      "state": "NJ",
+      "zip": "07732",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.4037,
+      "lng": -73.9915,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-jersey-joint-dispensary-glassboro",
+      "name": "The Jersey Joint Dispensary",
+      "website": "https://www.jerseyjointdispensary.com/",
+      "phone": "(856) 200-3227",
+      "address": "7-11 State St, Glassboro, NJ 08028",
+      "street": "7-11 State St",
+      "city": "Glassboro",
+      "state": "NJ",
+      "zip": "08028",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7068,
+      "lng": -75.1172,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-leaf-and-seed-dispensary-clementon",
+      "name": "The Leaf and Seed Dispensary",
+      "website": "https://www.theleafandseednj.com/",
+      "phone": "(609) 682-3510",
+      "address": "328 White Horse Pike Unit L, Clementon, NJ 08021",
+      "street": "328 White Horse Pike Unit L",
+      "city": "Clementon",
+      "state": "NJ",
+      "zip": "08021",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8036,
+      "lng": -75.0058,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-library-of-new-jersey-west-orange",
+      "name": "The Library of New Jersey",
+      "website": null,
+      "phone": null,
+      "address": "1-3 Washington St, West Orange, NJ 07052",
+      "street": "1-3 Washington St",
+      "city": "West Orange",
+      "state": "NJ",
+      "zip": "07052",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7859,
+      "lng": -74.2568,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-medicine-woman-jersey-city",
+      "name": "The Medicine Woman",
+      "website": "https://www.themedicinewoman.com/",
+      "phone": "(855) 869-6337",
+      "address": "660 Tonnelle Ave, Jersey City, NJ 07307",
+      "street": "660 Tonnelle Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7482,
+      "lng": -74.0498,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-next-chapter-market-ocean-township",
+      "name": "The Next Chapter Market",
+      "website": null,
+      "phone": null,
+      "address": "1808 Brielle Ave, Ocean Township, NJ 07712",
+      "street": "1808 Brielle Ave",
+      "city": "Ocean Township",
+      "state": "NJ",
+      "zip": "07712",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2507,
+      "lng": -74.0486,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-other-side-dispensary-jersey-city",
+      "name": "The Other Side Dispensary",
+      "website": "http://tos-dispensary-prod.vercel.app/",
+      "phone": "(201) 604-0640",
+      "address": "36 Congress St, Jersey City, NJ 07307",
+      "street": "36 Congress St",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7482,
+      "lng": -74.0498,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-retreat-jersey-city-dispensary-jersey-city",
+      "name": "The Retreat - Jersey City Dispensary",
+      "website": "https://www.retreatnj.com/",
+      "phone": null,
+      "address": "656 Grand St, Jersey City, NJ 07304",
+      "street": "656 Grand St",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07304",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.718,
+      "lng": -74.0754,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-social-leaf-toms-river",
+      "name": "The Social Leaf",
+      "website": "https://thesocialleaf.com/",
+      "phone": "(732) 358-6800",
+      "address": "334 Atlantic City Blvd, Toms River, NJ 08757",
+      "street": "334 Atlantic City Blvd",
+      "city": "Toms River",
+      "state": "NJ",
+      "zip": "08757",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 39.9715,
+      "lng": -74.2512,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-station-hoboken",
+      "name": "The Station",
+      "website": "https://shop.thestationhoboken.com/",
+      "phone": "(201) 876-2950",
+      "address": "86 River St, Hoboken, NJ 07030",
+      "street": "86 River St",
+      "city": "Hoboken",
+      "state": "NJ",
+      "zip": "07030",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7445,
+      "lng": -74.0329,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-station-dispensary-newark",
+      "name": "The Station Dispensary",
+      "website": "https://thestationnewark.org/",
+      "phone": "(973) 536-2808",
+      "address": "201 Wright St, Newark, NJ 07114",
+      "street": "201 Wright St",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07114",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7082,
+      "lng": -74.1891,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-thc-shop-atlantic-city",
+      "name": "The THC Shop",
+      "website": "https://ourthcshop.com/",
+      "phone": "(640) 232-7467",
+      "address": "1740 Atlantic Ave, Atlantic City, NJ 08401",
+      "street": "1740 Atlantic Ave",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "zip": "08401",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.3664,
+      "lng": -74.4317,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "the-wildflower-market-eatontown",
+      "name": "The Wildflower Market",
+      "website": "https://thewildflowernj.com/shop/",
+      "phone": "(732) 705-7550",
+      "address": "1810 Wayside Rd suite a, Eatontown, NJ 07724",
+      "street": "1810 Wayside Rd suite a",
+      "city": "Eatontown",
+      "state": "NJ",
+      "zip": "07724",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3028,
+      "lng": -74.0698,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "theo-a-cannabis-franklin-park",
+      "name": "Theo A. Cannabis",
+      "website": "http://njtheo.com/",
+      "phone": "(732) 835-4345",
+      "address": "3059 NJ-27 unit 104, Franklin Park, NJ 08823",
+      "street": "3059 NJ-27 unit 104",
+      "city": "Franklin Park",
+      "state": "NJ",
+      "zip": "08823",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4421,
+      "lng": -74.5369,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "theory-wellness-trenton",
+      "name": "Theory Wellness",
+      "website": "http://theorywellness.org/new-jersey-dispensary",
+      "phone": "(609) 964-4410",
+      "address": "461 New York Ave, Trenton, NJ 08638",
+      "street": "461 New York Ave",
+      "city": "Trenton",
+      "state": "NJ",
+      "zip": "08638",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.251,
+      "lng": -74.7627,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "timber-5-somerset",
+      "name": "Timber 5",
+      "website": "http://timber5.com/",
+      "phone": "(732) 444-2002",
+      "address": "695 Hamilton St, Somerset, NJ 08873",
+      "street": "695 Hamilton St",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "toke-lane-trenton-trenton",
+      "name": "Toke Lane - Trenton",
+      "website": "https://tokelane.com/",
+      "phone": "(855) 668-5843",
+      "address": "226 S Broad St, Trenton, NJ 08608",
+      "street": "226 S Broad St",
+      "city": "Trenton",
+      "state": "NJ",
+      "zip": "08608",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2204,
+      "lng": -74.7622,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "township-green-riverside",
+      "name": "Township Green",
+      "website": "http://townshipgreen.com/",
+      "phone": "(856) 544-3065",
+      "address": "15-17 E Scott St, Riverside, NJ 08075",
+      "street": "15-17 E Scott St",
+      "city": "Riverside",
+      "state": "NJ",
+      "zip": "08075",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0293,
+      "lng": -74.9497,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "tree-house-co-op-dispensary-voorhees-township",
+      "name": "Tree House Co-Op Dispensary",
+      "website": "https://www.thcvoorhees.com/",
+      "phone": "(856) 925-0420",
+      "address": "326 NJ-73, Voorhees Township, NJ 08043",
+      "street": "326 NJ-73",
+      "city": "Voorhees Township",
+      "state": "NJ",
+      "zip": "08043",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.8504,
+      "lng": -74.9646,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "treeotics-newark",
+      "name": "Treeotics",
+      "website": "http://treeotics.com/",
+      "phone": "(862) 229-5657",
+      "address": "467 Lyons Ave, Newark, NJ 07112",
+      "street": "467 Lyons Ave",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07112",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7107,
+      "lng": -74.2131,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "twisted-hat-cannabis-carneys-point",
+      "name": "Twisted Hat Cannabis",
+      "website": "https://twistedhatcannabis.com/",
+      "phone": "(856) 851-2208",
+      "address": "515 Shell Rd, Carneys Point, NJ 08069",
+      "street": "515 Shell Rd",
+      "city": "Carneys Point",
+      "state": "NJ",
+      "zip": "08069",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.6994,
+      "lng": -75.4495,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "uforia-dispensary-jersey-city",
+      "name": "Uforia Dispensary",
+      "website": "http://www.uforiadispensary.com/",
+      "phone": "(201) 420-9333",
+      "address": "138 Griffith St, Jersey City, NJ 07307",
+      "street": "138 Griffith St",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07307",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7482,
+      "lng": -74.0498,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "uma-flowers-morristown",
+      "name": "Uma Flowers",
+      "website": "https://www.umaflowers.co/location/uma-flowers-morristown-nj/",
+      "phone": "(862) 260-4115",
+      "address": "100 Ridgedale Ave, Morristown, NJ 07960",
+      "street": "100 Ridgedale Ave",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7952,
+      "lng": -74.4873,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "uncle-beez-greeneryz-penns-grove",
+      "name": "Uncle Beez Greeneryz",
+      "website": null,
+      "phone": null,
+      "address": "41 S Virginia Ave, Penns Grove, NJ 08069",
+      "street": "41 S Virginia Ave",
+      "city": "Penns Grove",
+      "state": "NJ",
+      "zip": "08069",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.6994,
+      "lng": -75.4495,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "union-chill-lambertville",
+      "name": "Union Chill",
+      "website": "https://unionchillco.com/",
+      "phone": "(609) 483-2350",
+      "address": "204 N Union St, Lambertville, NJ 08530",
+      "street": "204 N Union St",
+      "city": "Lambertville",
+      "state": "NJ",
+      "zip": "08530",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.3731,
+      "lng": -74.9266,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "unity-rd-cannabis-shop-maywood",
+      "name": "Unity Rd. Cannabis Shop",
+      "website": "https://www.unity-rd.com/",
+      "phone": "(201) 250-8459",
+      "address": "105 Essex St, Maywood, NJ 07607",
+      "street": "105 Essex St",
+      "city": "Maywood",
+      "state": "NJ",
+      "zip": "07607",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.9024,
+      "lng": -74.0629,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "unity-rd-cannabis-shop-somerset",
+      "name": "Unity Rd. Cannabis Shop",
+      "website": "https://www.unity-rd.com/",
+      "phone": "(732) 412-7210",
+      "address": "441 Elizabeth Ave, Somerset, NJ 08873",
+      "street": "441 Elizabeth Ave",
+      "city": "Somerset",
+      "state": "NJ",
+      "zip": "08873",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.5007,
+      "lng": -74.5013,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "urbn-dispensary-newark",
+      "name": "URB’N Dispensary",
+      "website": "https://urbndispensary.com/home",
+      "phone": "(973) 200-0618",
+      "address": "378 South St, Newark, NJ 07105",
+      "street": "378 South St",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07105",
+      "license_types": [
+        "Medicinal",
+        "Recreational",
+        "Expanded ATC (medical + recreational)"
+      ],
+      "delivery": true,
+      "consumption_area": true,
+      "lat": 40.7271,
+      "lng": -74.1563,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "urge-elizabeth",
+      "name": "Urge",
+      "website": "http://urgenj.com/",
+      "phone": "(908) 936-1100",
+      "address": "941 Elizabeth Ave, Elizabeth, NJ 07201",
+      "street": "941 Elizabeth Ave",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "07201",
+      "license_types": [
+        "Microbusiness",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.6717,
+      "lng": -74.2043,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "valley-wellness-raritan",
+      "name": "Valley Wellness",
+      "website": "https://valleywellnessnj.com/",
+      "phone": "(908) 429-6680",
+      "address": "407 US-202, Raritan, NJ 08869",
+      "street": "407 US-202",
+      "city": "Raritan",
+      "state": "NJ",
+      "zip": "08869",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.5711,
+      "lng": -74.6377,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "vigor-dispensary-matawan",
+      "name": "Vigor Dispensary",
+      "website": "https://vigordispensary.com/",
+      "phone": "(732) 510-0400",
+      "address": "1082 NJ-34, Matawan, NJ 07747",
+      "street": "1082 NJ-34",
+      "city": "Matawan",
+      "state": "NJ",
+      "zip": "07747",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.4109,
+      "lng": -74.238,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "vigor-dispensary-tinton-falls-tinton-falls",
+      "name": "Vigor Dispensary - Tinton Falls",
+      "website": "https://vigordispensary.com/",
+      "phone": "(732) 440-3030",
+      "address": "3176 Shafto Rd Building A, Suite 7, Tinton Falls, NJ 07753",
+      "street": "3176 Shafto Rd Building A, Suite 7",
+      "city": "Tinton Falls",
+      "state": "NJ",
+      "zip": "07753",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.2096,
+      "lng": -74.0714,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "village-hoboken-hoboken",
+      "name": "Village Hoboken",
+      "website": "https://thevillagebrands.com/",
+      "phone": "(201) 238-2451",
+      "address": "516 Washington St, Hoboken, NJ 07030",
+      "street": "516 Washington St",
+      "city": "Hoboken",
+      "state": "NJ",
+      "zip": "07030",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.7445,
+      "lng": -74.0329,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "voltaire-nj-mt-holly",
+      "name": "Voltaire NJ",
+      "website": "https://www.voltairecannabis.com/",
+      "phone": "(609) 702-5520",
+      "address": "47 Mill St, Mt Holly, NJ 08060",
+      "street": "47 Mill St",
+      "city": "Mt Holly",
+      "state": "NJ",
+      "zip": "08060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0086,
+      "lng": -74.7896,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "west-orange-wellness-west-orange",
+      "name": "West Orange Wellness",
+      "website": "https://wowdispensary.com/",
+      "phone": "(862) 420-0420",
+      "address": "26 S Valley Rd, West Orange, NJ 07052",
+      "street": "26 S Valley Rd",
+      "city": "West Orange",
+      "state": "NJ",
+      "zip": "07052",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.7859,
+      "lng": -74.2568,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "woodbury-wellness-woodbury",
+      "name": "Woodbury Wellness",
+      "website": "https://www.woodburywellnessdispensary.com/",
+      "phone": "(609) 228-0243",
+      "address": "818 N Broad St, Woodbury, NJ 08096",
+      "street": "818 N Broad St",
+      "city": "Woodbury",
+      "state": "NJ",
+      "zip": "08096",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 39.7539,
+      "lng": -74.996,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "xena-nj-jersey-city",
+      "name": "Xena NJ",
+      "website": "https://www.xenanj.com/",
+      "phone": "(201) 721-5000",
+      "address": "759a Bergen Ave, Jersey City, NJ 07305",
+      "street": "759a Bergen Ave",
+      "city": "Jersey City",
+      "state": "NJ",
+      "zip": "07305",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": true,
+      "lat": 40.702,
+      "lng": -74.089,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "zacate-delran",
+      "name": "Zacate",
+      "website": "http://www.zacate.co/",
+      "phone": "(856) 200-3225",
+      "address": "Millside Shopping Center II, 4037 US-130, Delran, NJ 08075",
+      "street": "Millside Shopping Center II, 4037 US-130",
+      "city": "Delran",
+      "state": "NJ",
+      "zip": "08075",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": false,
+      "consumption_area": false,
+      "lat": 40.0293,
+      "lng": -74.9497,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "zen-leaf-elizabeth",
+      "name": "Zen Leaf",
+      "website": "https://zenleafdispensaries.com/locations/elizabeth/",
+      "phone": "(908) 676-5936",
+      "address": "117 Spring St, Elizabeth, NJ 07201",
+      "street": "117 Spring St",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "07201",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.6717,
+      "lng": -74.2043,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "zen-leaf-lawrence-township",
+      "name": "Zen Leaf",
+      "website": "https://zenleafdispensaries.com/locations/lawrence/",
+      "phone": "(908) 676-5936",
+      "address": "3256 Brunswick Pike, Lawrence Township, NJ 08648",
+      "street": "3256 Brunswick Pike",
+      "city": "Lawrence Township",
+      "state": "NJ",
+      "zip": "08648",
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.2171,
+      "lng": -74.7429,
+      "geo_precision": "zip"
+    },
+    {
+      "id": "zen-leaf-neptune-township",
+      "name": "Zen Leaf",
+      "website": "https://zenleafdispensaries.com/locations/neptune/",
+      "phone": "(848) 292-2764",
+      "address": "NJ-66, Neptune Township, NJ",
+      "street": "NJ-66",
+      "city": "Neptune Township",
+      "state": "NJ",
+      "zip": null,
+      "license_types": [
+        "Expanded ATC (medical + recreational)",
+        "Medicinal",
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.2096,
+      "lng": -74.0714,
+      "geo_precision": "city"
+    },
+    {
+      "id": "zen-leaf-mount-holly-mt-holly",
+      "name": "Zen Leaf Mount Holly",
+      "website": "https://zenleafdispensaries.com/locations/mt-holly/",
+      "phone": "(908) 676-5936",
+      "address": "600 High St, Mt Holly, NJ 08060",
+      "street": "600 High St",
+      "city": "Mt Holly",
+      "state": "NJ",
+      "zip": "08060",
+      "license_types": [
+        "Recreational"
+      ],
+      "delivery": true,
+      "consumption_area": false,
+      "lat": 40.0086,
+      "lng": -74.7896,
+      "geo_precision": "zip"
+    }
+  ],
+  "geo_note": "lat/lng are ZIP-code centre points (rough, usually within ~1-2 miles), not exact addresses"
+}

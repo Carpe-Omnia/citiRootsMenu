@@ -1,6 +1,7 @@
 {
   "id": "citi-roots",
   "name": "Citi Roots",
+  "listing": "citi-roots-kingston",
   "platform": "dutchie",
   "menuUrl": "https://dutchie.com/embedded-menu/citi-roots/",
   "productUrl": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2F{slug}",
@@ -11,7 +12,10 @@
       "type": "list",
       "path": "collections/new-items",
       "tagline": "Fresh on the shelves",
-      "accent": ["#9be873", "#2fc0c4"]
+      "accent": [
+        "#9be873",
+        "#2fc0c4"
+      ]
     },
     {
       "id": "staff-picks",
@@ -19,7 +23,10 @@
       "type": "carousel",
       "carousel": "staff-picks",
       "tagline": "Hand-picked by our budtenders",
-      "accent": ["#f4c96b", "#e9965a"]
+      "accent": [
+        "#f4c96b",
+        "#e9965a"
+      ]
     },
     {
       "id": "top-sellers",
@@ -27,7 +34,10 @@
       "type": "carousel",
       "carousel": "top-sellers",
       "tagline": "What everyone's reaching for",
-      "accent": ["#ff9b7a", "#f2648a"]
+      "accent": [
+        "#ff9b7a",
+        "#f2648a"
+      ]
     }
   ],
   "display": {

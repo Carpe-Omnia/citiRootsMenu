@@ -1,0 +1,91 @@
+{
+  "stores": [
+    {
+      "id": "citi-roots",
+      "name": "Citi Roots",
+      "listing": "citi-roots-kingston",
+      "address": "4585 NJ-27, Kingston, NJ 08528",
+      "city": "Kingston",
+      "lat": 40.3828,
+      "lng": -74.6096,
+      "website": "https://citirootsdispensarynj.com/",
+      "phone": "(609) 924-4585",
+      "display": {
+        "theme": "citi-roots",
+        "wordmark": "assets/stores/citi-roots/wordmark.svg",
+        "emblem": "assets/stores/citi-roots/emblem.svg"
+      },
+      "sections": [
+        {
+          "id": "new-arrivals",
+          "title": "New Arrivals",
+          "accent": [
+            "#9be873",
+            "#2fc0c4"
+          ]
+        },
+        {
+          "id": "staff-picks",
+          "title": "Staff Picks",
+          "accent": [
+            "#f4c96b",
+            "#e9965a"
+          ]
+        },
+        {
+          "id": "top-sellers",
+          "title": "Top Sellers",
+          "accent": [
+            "#ff9b7a",
+            "#f2648a"
+          ]
+        }
+      ],
+      "products": "data/citi-roots/products.json"
+    },
+    {
+      "id": "got-your-six",
+      "name": "Got Your Six",
+      "listing": "got-your-six-dispensary-of-new-jersey-princeton",
+      "address": "4437 NJ-27, Princeton, NJ 08540",
+      "city": "Princeton",
+      "lat": 40.3666,
+      "lng": -74.6408,
+      "website": "https://gotyoursixdispensary.com/",
+      "phone": "(732) 444-2060",
+      "display": {
+        "theme": "got-your-six",
+        "wordmark": "assets/stores/got-your-six/wordmark.png",
+        "emblem": "assets/stores/got-your-six/patch-hd.png",
+        "background": "assets/stores/got-your-six/camo-fabric.jpg"
+      },
+      "sections": [
+        {
+          "id": "staff-picks",
+          "title": "Staff Picks",
+          "accent": [
+            "#d9c48a",
+            "#a8915a"
+          ]
+        },
+        {
+          "id": "specials",
+          "title": "Specials",
+          "accent": [
+            "#f08a4b",
+            "#d9573a"
+          ]
+        },
+        {
+          "id": "popular-flower",
+          "title": "Popular Flower",
+          "accent": [
+            "#a9cf6a",
+            "#6f9a45"
+          ]
+        }
+      ],
+      "products": "data/got-your-six/products.json"
+    }
+  ]
+}
