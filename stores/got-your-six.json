@@ -1,0 +1,38 @@
+{
+  "id": "got-your-six",
+  "name": "Got Your Six",
+  "platform": "dutchie",
+  "menuUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc",
+  "productUrl": null,
+  "sections": [
+    {
+      "id": "staff-picks",
+      "title": "Staff Picks",
+      "type": "carousel",
+      "carousel": "staff-picks",
+      "tagline": "Squad-approved favorites",
+      "accent": ["#d9c48a", "#a8915a"]
+    },
+    {
+      "id": "specials",
+      "title": "Specials",
+      "type": "carousel",
+      "carousel": "specials",
+      "tagline": "Deals worth the mission",
+      "accent": ["#f08a4b", "#d9573a"]
+    },
+    {
+      "id": "popular-flower",
+      "title": "Popular Flower",
+      "type": "carousel",
+      "carousel": "popular-flower",
+      "tagline": "The crowd favorites",
+      "accent": ["#a9cf6a", "#6f9a45"]
+    }
+  ],
+  "display": {
+    "theme": "got-your-six",
+    "wordmark": "assets/stores/got-your-six/wordmark.png",
+    "emblem": "assets/stores/got-your-six/emblem.svg"
+  }
+}

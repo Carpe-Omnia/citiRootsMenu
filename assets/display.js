@@ -1,6 +1,6 @@
-/* Citi Roots in-store TV slideshow
+/* Dispensary in-store TV slideshow (shared by every store)
  *
- * Each page sets its category on <body data-category="...">.
+ * Each generated page sets data-store, data-category and data-sources on <body>.
  * Optional URL parameters:
  *   ?seconds=15   seconds each product stays on screen (default 15)
  *   ?refresh=30   minutes between checks for a new products.json (default 30)
@@ -15,15 +15,14 @@
   var REFRESH_MIN = Math.max(1, Number(params.get('refresh')) || 30);
   var RELOAD_HOURS = 12;   // full page reload now and then keeps old TV browsers healthy
 
-  // Live list straight from the repo (updated by the scraper), with the copy
-  // deployed alongside this page as a fallback.
-  var DATA_URLS = [
-    'https://raw.githubusercontent.com/Carpe-Omnia/citiRootsMenu/main/products.json',
-    'products.json'
-  ];
+  // Where to get the product list, set by each generated page: the live file in
+  // the GitHub repo first (updated by the scraper), then the copy deployed with
+  // the site as a fallback.
+  var DATA_URLS = (document.body.getAttribute('data-sources') || 'products.json').split('|');
 
+  var STORE = document.body.getAttribute('data-store') || 'store';
   var CATEGORY = document.body.getAttribute('data-category');
-  var CACHE_KEY = 'citiroots:' + CATEGORY;
+  var CACHE_KEY = 'tvmenu:' + STORE + ':' + CATEGORY;
 
   var slidesEl = document.getElementById('slides');
   var dotsEl = document.querySelector('.dots');
@@ -163,7 +162,9 @@
   function fitName(el) {
     var size = 72;
     el.style.fontSize = size + 'px';
-    while (el.scrollHeight > el.clientHeight + 2 && size > 40) {
+    // Some display fonts (like a stencil) draw a little past their line box,
+    // so allow some slack before deciding the name doesn't fit.
+    while (el.scrollHeight > el.clientHeight + size * 0.3 && size > 40) {
       size -= 4;
       el.style.fontSize = size + 'px';
     }

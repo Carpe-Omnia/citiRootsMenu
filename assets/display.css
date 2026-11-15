@@ -1,22 +1,56 @@
-/* Citi Roots in-store TV slideshow
+/* Dispensary in-store TV slideshow (shared by every store)
    Designed on a fixed 1080x1920 portrait canvas (#stage) that display.js
-   scales to fit the screen, so it looks the same on any TV resolution. */
+   scales to fit the screen, so it looks the same on any TV resolution.
+   Store look: body[data-store-theme]. Section colours: --accent / --accent-2,
+   set on <body> by each generated page from stores/<store>.json. */
+
+/* Fonts are served from this repo so TVs don't depend on Google Fonts */
+@font-face { font-family: "Fraunces"; font-weight: 600; font-style: normal; font-display: swap; src: url(fonts/fraunces-latin-600-normal.woff2) format("woff2"); }
+@font-face { font-family: "Fraunces"; font-weight: 400; font-style: italic; font-display: swap; src: url(fonts/fraunces-latin-400-italic.woff2) format("woff2"); }
+@font-face { font-family: "Outfit"; font-weight: 400; font-display: swap; src: url(fonts/outfit-latin-400-normal.woff2) format("woff2"); }
+@font-face { font-family: "Outfit"; font-weight: 600; font-display: swap; src: url(fonts/outfit-latin-600-normal.woff2) format("woff2"); }
+@font-face { font-family: "Outfit"; font-weight: 700; font-display: swap; src: url(fonts/outfit-latin-700-normal.woff2) format("woff2"); }
+@font-face { font-family: "Stardos Stencil"; font-weight: 400; font-display: swap; src: url(fonts/stardos-stencil-latin-400-normal.woff2) format("woff2"); }
+@font-face { font-family: "Stardos Stencil"; font-weight: 700; font-display: swap; src: url(fonts/stardos-stencil-latin-700-normal.woff2) format("woff2"); }
 
 :root {
   --bg-1: #0b2218;
   --bg-2: #123426;
+  --bg-3: #071a12;
+  --page: #06140e;
   --cream: #f6f1e4;
   --muted: rgba(246, 241, 228, 0.62);
-  --accent: #c8f169;        /* overridden per theme */
+  --rule: rgba(246, 241, 228, 0.14);
+  --accent: #c8f169;        /* set per section by the page */
   --accent-2: #8fd14f;
+  --brand-1: #2fc0c4;       /* store brand colours */
+  --brand-2: #8fe36f;
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-body: "Outfit", "Helvetica Neue", Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.02em;
+  --title-size: 132px;
+  --wordmark-h: 34px;
   --fade: 1.6s;
-  --brand-teal: #2fc0c4;   /* from the Citi Roots badge gradient */
-  --brand-green: #8fe36f;
 }
 
-body[data-theme="new"]   { --accent: #9be873; --accent-2: #2fc0c4; }
-body[data-theme="staff"] { --accent: #f4c96b; --accent-2: #e9965a; }
-body[data-theme="top"]   { --accent: #ff9b7a; --accent-2: #f2648a; }
+/* ----- Store themes ----- */
+body[data-store-theme="got-your-six"] {
+  --bg-1: #161a12;
+  --bg-2: #262d1d;
+  --bg-3: #0f120c;
+  --page: #0b0d09;
+  --cream: #ece3c9;
+  --muted: rgba(236, 227, 201, 0.62);
+  --rule: rgba(236, 227, 201, 0.16);
+  --brand-1: #6f9a45;
+  --brand-2: #d9c48a;
+  --font-display: "Stardos Stencil", "Arial Black", Impact, sans-serif;
+  --display-weight: 700;
+  --display-tracking: 0.01em;
+  --title-size: 128px;
+  --wordmark-h: 64px;
+}
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -24,12 +58,12 @@ html, body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: #06140e;
+  background: var(--page);
 }
 body.idle, body.idle * { cursor: none; }
 
 body {
-  font-family: "Outfit", "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-body);
   color: var(--cream);
   -webkit-font-smoothing: antialiased;
 }
@@ -44,7 +78,7 @@ body {
   overflow: hidden;
   background:
     radial-gradient(1200px 900px at 15% 0%, rgba(255, 255, 255, 0.07), transparent 60%),
-    linear-gradient(170deg, var(--bg-2), var(--bg-1) 55%, #071a12);
+    linear-gradient(170deg, var(--bg-2), var(--bg-1) 55%, var(--bg-3));
 }
 
 /* Slow drifting glow so nothing on screen stays perfectly still all day */
@@ -90,17 +124,17 @@ header {
   text-transform: uppercase;
   color: var(--muted);
 }
-.eyebrow .wordmark { height: 34px; width: auto; flex: none; display: block; }
-.eyebrow .rule { flex: 1; height: 2px; background: linear-gradient(90deg, var(--brand-teal), var(--brand-green) 60%, transparent); opacity: 0.7; }
+.eyebrow .wordmark { height: var(--wordmark-h); width: auto; flex: none; display: block; }
+.eyebrow .rule { flex: 1; height: 2px; background: linear-gradient(90deg, var(--brand-1), var(--brand-2) 60%, transparent); opacity: 0.7; }
 .eyebrow .count { letter-spacing: 0.12em; font-variant-numeric: tabular-nums; }
 
 h1 {
   margin-top: 22px;
-  font-family: "Fraunces", Georgia, "Times New Roman", serif;
-  font-weight: 600;
-  font-size: 132px;
+  font-family: var(--font-display);
+  font-weight: var(--display-weight);
+  font-size: var(--title-size);
   line-height: 0.94;
-  letter-spacing: -0.02em;
+  letter-spacing: var(--display-tracking);
   background: linear-gradient(100deg, var(--cream) 10%, var(--accent) 95%);
   -webkit-background-clip: text;
   background-clip: text;
@@ -127,11 +161,11 @@ h1 {
   position: absolute;
   inset: -40px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(47, 192, 196, 0.28), transparent 65%);
+  background: radial-gradient(circle, var(--brand-1), transparent 65%);
   animation: breathe 12s ease-in-out infinite alternate;
 }
 .emblem img { position: relative; display: block; width: 100%; height: 100%; }
-@keyframes breathe { from { opacity: 0.55; transform: scale(0.96); } to { opacity: 1; transform: scale(1.04); } }
+@keyframes breathe { from { opacity: 0.15; transform: scale(0.96); } to { opacity: 0.3; transform: scale(1.04); } }
 
 /* ---------- Slides ---------- */
 #slides {
@@ -202,8 +236,8 @@ h1 {
 }
 .name {
   margin-top: 14px;
-  font-family: "Fraunces", Georgia, serif;
-  font-weight: 600;
+  font-family: var(--font-display);
+  font-weight: var(--display-weight);
   font-size: 72px;          /* display.js shrinks this to fit */
   line-height: 1.05;
   letter-spacing: -0.01em;
@@ -226,7 +260,7 @@ h1 {
   align-items: center;
   justify-content: space-between;
   gap: 40px;
-  border-top: 2px solid rgba(246, 241, 228, 0.14);
+  border-top: 2px solid var(--rule);
 }
 .price-block { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
 .price {
@@ -292,8 +326,20 @@ footer {
   justify-content: center;
   text-align: center;
   gap: 24px;
-  font-family: "Fraunces", Georgia, serif;
+  font-family: var(--font-display);
   font-size: 64px;
   color: var(--muted);
 }
-.empty small { font-family: "Outfit", Arial, sans-serif; font-size: 32px; }
+.empty small { font-family: var(--font-body); font-size: 32px; }
+
+/* Got Your Six: tagline in caps like a stencilled label */
+body[data-store-theme="got-your-six"] .tagline {
+  font-family: var(--font-body);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+}
+body[data-store-theme="got-your-six"] .brand { color: var(--accent); }
+body[data-store-theme="got-your-six"] .photo { border-radius: 20px; }

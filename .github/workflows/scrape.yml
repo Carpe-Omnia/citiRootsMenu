@@ -1,4 +1,4 @@
-name: Scrape menu
+name: Scrape menus
 
 on:
   schedule:
@@ -8,16 +8,31 @@ on:
   workflow_dispatch:         # adds a "Run workflow" button on the Actions tab
 
 permissions:
-  contents: write            # lets the job commit products.json
+  contents: write            # lets the last job commit the new product data
 
 concurrency:
-  group: scrape-menu
+  group: scrape-menus
   cancel-in-progress: false
 
 jobs:
+  # Every stores/<id>.json becomes one parallel scrape job.
+  list-stores:
+    runs-on: ubuntu-latest
+    outputs:
+      stores: ${{ steps.list.outputs.stores }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: list
+        run: echo "stores=$(ls stores/*.json | xargs -n1 basename | sed 's/\.json$//' | jq -R . | jq -sc .)" >> "$GITHUB_OUTPUT"
+
   scrape:
+    needs: list-stores
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    strategy:
+      fail-fast: false       # one store failing never stops the others
+      matrix:
+        store: ${{ fromJson(needs.list-stores.outputs.stores) }}
     steps:
       - uses: actions/checkout@v4
 
@@ -32,36 +47,64 @@ jobs:
       - name: Install Chromium for Playwright
         run: npx playwright install --with-deps chromium
 
-      - name: Run scraper
-        run: node scrape.js
+      - name: Scrape ${{ matrix.store }}
+        run: node scrape.js ${{ matrix.store }}
 
       - name: Check every section has products
         run: |
           node -e '
-            const p = require("./products.json");
+            const id = process.argv[1];
+            const store = require(`./stores/${id}.json`);
+            const p = require(`./data/${id}/products.json`);
             const counts = {};
             for (const x of p) counts[x.category] = (counts[x.category] || 0) + 1;
             console.log(counts);
-            const missing = ["New Arrivals", "Staff Picks", "Top Sellers"].filter(c => !counts[c]);
+            const missing = store.sections.map(s => s.title).filter(t => !counts[t]);
             if (missing.length) { console.error("No products for: " + missing.join(", ")); process.exit(1); }
-          '
+          ' "${{ matrix.store }}"
 
-      - name: Commit products.json if it changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add products.json
-          if git diff --cached --quiet; then
-            echo "Menu unchanged, nothing to commit."
-          else
-            git commit -m "Update products.json"
-            git push
-          fi
+      - name: Hand the data to the commit job
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-${{ matrix.store }}
+          path: data/${{ matrix.store }}/products.json
 
       - name: Save debug screenshot if something failed
         if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: debug
-          path: debug.png
+          name: debug-${{ matrix.store }}
+          path: debug-*.png
           if-no-files-found: ignore
+
+  # One commit for all stores (parallel jobs pushing separately would collide).
+  # Runs even if some stores failed, and commits whatever succeeded.
+  commit:
+    needs: scrape
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: data-*
+          path: incoming
+
+      - name: Commit updated product data
+        run: |
+          shopt -s nullglob
+          for dir in incoming/data-*; do
+            id="${dir#incoming/data-}"
+            mkdir -p "data/$id"
+            cp "$dir/products.json" "data/$id/products.json"
+          done
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Menus unchanged, nothing to commit."
+          else
+            git commit -m "Update menu data"
+            git push
+          fi

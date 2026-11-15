@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "scrape": "node scrape.js",
-    "scrape:headed": "node scrape.js --headed"
+    "scrape:headed": "node scrape.js --headed",
+    "build": "node build-pages.js"
   },
   "dependencies": {
     "playwright": "^1.48.0"
