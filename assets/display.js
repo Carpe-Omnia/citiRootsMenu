@@ -178,7 +178,12 @@
     layer.querySelector('.details').textContent = n.details;
     layer.querySelector('.price').textContent = p.price || '';
     layer.querySelector('.thc').textContent = p.thc ? 'THC ' + p.thc : '';
-    layer.querySelector('.strain').textContent = p.strain || '';
+    // Strain pill only for Indica / Sativa / Hybrid; hidden for everything else
+    var strainEl = layer.querySelector('.strain');
+    var strain = /indica|sativa|hybrid/i.test(p.strain || '') ? p.strain : '';
+    strainEl.textContent = strain;
+    var kind = /hybrid/i.test(strain) ? 'hybrid' : /indica/i.test(strain) ? 'indica' : /sativa/i.test(strain) ? 'sativa' : '';
+    strainEl.setAttribute('data-strain', kind);
     layer.querySelector('.qr').innerHTML = qrSvg(p.url || p.embeddedUrl);
     layer.querySelector('.qr-block').style.visibility = (p.url || p.embeddedUrl) ? 'visible' : 'hidden';
     fitName(layer.querySelector('.name'));

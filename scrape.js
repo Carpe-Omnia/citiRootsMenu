@@ -88,6 +88,10 @@ function extractCards(cards, ctx) {
     const potencies = [...card.querySelectorAll('[class*="card-potency__PotencyItem"]')]
       .map(el => el.textContent.trim());
     const thc = potencies.find(p => /^THC:/i.test(p));
+    // Strain pill (Indica, Sativa, Hybrid, Indica-Hybrid...). Some products show
+    // other labels there (e.g. "THC", "CBD"), so keep only real strain types.
+    const strainText = text('[data-testid="card-strain"]');
+    const strain = strainText && /indica|sativa|hybrid/i.test(strainText) ? strainText : null;
     // List cards: tile-price__Price. Carousel cards: card-price__ActivePrice,
     // or the first $ amount in card-price__Price when there is no discount.
     let price = text('[class*="tile-price__Price"]') || text('[class*="card-price__ActivePrice"]');
@@ -101,6 +105,7 @@ function extractCards(cards, ctx) {
       img: card.querySelector('img')?.getAttribute('src') || null,
       price,
       thc: thc ? thc.replace(/^THC:\s*/i, '') : null,
+      strain,
       category: ctx.category,
       url: slug ? `${ctx.siteMenu}?dtche%5Bpath%5D=product%2F${slug}` : null,
       embeddedUrl: link ? link.href : null,

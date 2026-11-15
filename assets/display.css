@@ -10,9 +10,11 @@
   --accent: #c8f169;        /* overridden per theme */
   --accent-2: #8fd14f;
   --fade: 1.6s;
+  --brand-teal: #2fc0c4;   /* from the Citi Roots badge gradient */
+  --brand-green: #8fe36f;
 }
 
-body[data-theme="new"]   { --accent: #c8f169; --accent-2: #7fcf5a; }
+body[data-theme="new"]   { --accent: #9be873; --accent-2: #2fc0c4; }
 body[data-theme="staff"] { --accent: #f4c96b; --accent-2: #e9965a; }
 body[data-theme="top"]   { --accent: #ff9b7a; --accent-2: #f2648a; }
 
@@ -88,8 +90,8 @@ header {
   text-transform: uppercase;
   color: var(--muted);
 }
-.eyebrow svg { width: 38px; height: 38px; color: var(--accent); flex: none; }
-.eyebrow .rule { flex: 1; height: 2px; background: linear-gradient(90deg, rgba(246,241,228,0.35), transparent); }
+.eyebrow .wordmark { height: 34px; width: auto; flex: none; display: block; }
+.eyebrow .rule { flex: 1; height: 2px; background: linear-gradient(90deg, var(--brand-teal), var(--brand-green) 60%, transparent); opacity: 0.7; }
 .eyebrow .count { letter-spacing: 0.12em; font-variant-numeric: tabular-nums; }
 
 h1 {
@@ -111,6 +113,25 @@ h1 {
   font-size: 38px;
   color: var(--muted);
 }
+
+/* Citi Roots emblem, right side of the header */
+.emblem {
+  position: absolute;
+  top: 150px;
+  right: 72px;
+  width: 290px;
+  height: 290px;
+}
+.emblem::before {               /* soft brand glow behind it */
+  content: "";
+  position: absolute;
+  inset: -40px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(47, 192, 196, 0.28), transparent 65%);
+  animation: breathe 12s ease-in-out infinite alternate;
+}
+.emblem img { position: relative; display: block; width: 100%; height: 100%; }
+@keyframes breathe { from { opacity: 0.55; transform: scale(0.96); } to { opacity: 1; transform: scale(1.04); } }
 
 /* ---------- Slides ---------- */
 #slides {
@@ -162,6 +183,9 @@ h1 {
   text-transform: uppercase;
 }
 .photo .strain:empty { display: none; }
+.photo .strain[data-strain="indica"] { background: #4b2a7a; color: #e6d6ff; }
+.photo .strain[data-strain="sativa"] { background: #8a4a12; color: #ffe2bf; }
+.photo .strain[data-strain="hybrid"] { background: #145c3a; color: #c9f7d9; }
 
 .info {
   height: 310px;
