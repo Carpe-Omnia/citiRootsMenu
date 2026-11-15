@@ -55,17 +55,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/blue-print-triple-lindy-3-5g"
   },
   {
-    "name": "Onyx | Fruity Snackz 34 | Live Resin Badder 1g",
-    "brand": "ONYX",
-    "img": "https://images.dutchie.com/f1f8bae2b5114c5ec790b7d5323d2c89?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
-    "price": "$52.50",
-    "thc": "74.16%",
-    "strain": "Hybrid",
-    "category": "New Arrivals",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fonyx-fruity-snackz-34-live-resin-badder-1g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/onyx-fruity-snackz-34-live-resin-badder-1g"
-  },
-  {
     "name": "Onyx | Jelly Donutz | Live Resin HTE VC 1g",
     "brand": "ONYX",
     "img": "https://images.dutchie.com/9003662f34f1b18702808473fcaa73b0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
@@ -75,6 +64,17 @@
     "category": "New Arrivals",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fonyx-jelly-donutz-live-resin-hte-vc-1g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/onyx-jelly-donutz-live-resin-hte-vc-1g"
+  },
+  {
+    "name": "Onyx | Fruity Snackz 34 | Live Resin Badder 1g",
+    "brand": "ONYX",
+    "img": "https://images.dutchie.com/f1f8bae2b5114c5ec790b7d5323d2c89?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
+    "price": "$52.50",
+    "thc": "74.16%",
+    "strain": "Hybrid",
+    "category": "New Arrivals",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fonyx-fruity-snackz-34-live-resin-badder-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/onyx-fruity-snackz-34-live-resin-badder-1g"
   },
   {
     "name": "Fernway | Mochi | Live Resin | Traveler Vape | 1g",
@@ -363,17 +363,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ev-watermelon-crush-3-5g"
   },
   {
-    "name": "Fernway | Red Headed Stranger | Cartridge | 1g",
-    "brand": "Fernway",
-    "img": "https://images.dutchie.com/eb5130354e05cdd33156489e2a676e50?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$45.00",
-    "thc": "83.72%",
-    "strain": "Sativa",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-red-headed-stranger-cartridge-1g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-red-headed-stranger-cartridge-1g"
-  },
-  {
     "name": "Good PizzZa | Arancello | 3.5g",
     "brand": "Good PizzZa",
     "img": "https://images.dutchie.com/d15aaa57371c5b65a2215c67f7c43349?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -482,5 +471,16 @@
     "category": "Top Sellers",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-tangiland-3-5g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-tangiland-3-5g"
+  },
+  {
+    "name": "My Dad's Stash | Heir Heads | 3.5g",
+    "brand": "My Dad's Stash",
+    "img": "https://images.dutchie.com/c306ca94a19ca8e7aa00cba50c602c5a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "28.92%",
+    "strain": "Hybrid",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-heir-heads-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-heir-heads-3-5g"
   }
 ]
