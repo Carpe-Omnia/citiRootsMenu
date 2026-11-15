@@ -35,6 +35,9 @@ function page(store, section, repo) {
   const [a1, a2] = section.accent || ['#c8f169', '#8fd14f'];
   const emblem = d.emblem
     ? `\n    <div class="emblem"><img src="../${esc(d.emblem)}" alt=""></div>` : '';
+  // Optional large, faint brand mark behind everything
+  const watermark = d.watermark
+    ? `\n  <div class="watermark"><img src="../${esc(d.watermark)}" alt=""></div>` : '';
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,10 +48,10 @@ function page(store, section, repo) {
 </head>
 <body data-store="${esc(store.id)}" data-store-theme="${esc(d.theme || store.id)}"
       data-category="${esc(section.title)}" data-sources="${esc(sources)}"
-      style="--accent: ${esc(a1)}; --accent-2: ${esc(a2)};">
+      style="--accent: ${esc(a1)}; --accent-2: ${esc(a2)};${d.background ? ` --pattern: url(../${esc(d.background)});` : ''}"${d.background ? ' class="has-pattern"' : ''}>
 <div id="stage">
   <div class="glow one"></div>
-  <div class="glow two"></div>
+  <div class="glow two"></div>${watermark}
   <header>
     <div class="eyebrow"><img class="wordmark" src="../${esc(d.wordmark)}" alt="${esc(store.name)}"><span class="rule"></span><span class="count"></span></div>${emblem}
     <h1>${titleHtml(section.title)}</h1>

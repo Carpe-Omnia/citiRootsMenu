@@ -132,7 +132,9 @@
   //   -> title "1:1:1 Stay Asleep Dreamberry", details "THC:CBN:CBG · 10pk"
   function splitName(p) {
     var parts = String(p.name).split('|').map(function (s) { return s.trim(); }).filter(Boolean);
-    if (parts.length > 1 && p.brand && parts[0].toLowerCase() === String(p.brand).toLowerCase()) parts.shift();
+    // Drop the brand prefix; ignore case and punctuation ("Park's Grove" vs "Parks Grove")
+    var norm = function (t) { return String(t).toLowerCase().replace(/[^a-z0-9]/g, ''); };
+    if (parts.length > 1 && p.brand && norm(parts[0]) === norm(p.brand)) parts.shift();
     return { title: parts[0] || p.name, details: parts.slice(1).join('  ·  ') };
   }
 
@@ -150,10 +152,12 @@
     el.className = 'slide';
     el.innerHTML =
       '<div class="photo"><img alt=""><span class="strain"></span></div>' +
-      '<div class="info"><div class="brand"></div><div class="name"></div><div class="details"></div></div>' +
-      '<div class="bottom">' +
-        '<div class="price-block"><div class="price"></div><div class="thc"></div></div>' +
-        '<div class="qr-block"><div class="qr"></div><div class="qr-label">Scan to shop</div></div>' +
+      '<div class="panel">' +
+        '<div class="info"><div class="brand"></div><div class="name"></div><div class="details"></div></div>' +
+        '<div class="bottom">' +
+          '<div class="price-block"><div class="price"></div><div class="thc"></div></div>' +
+          '<div class="qr-block"><div class="qr"></div><div class="qr-label">Scan to shop</div></div>' +
+        '</div>' +
       '</div>';
     slidesEl.appendChild(el);
     return el;
