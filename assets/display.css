@@ -23,8 +23,8 @@ html, body {
   height: 100%;
   overflow: hidden;
   background: #06140e;
-  cursor: none;
 }
+body.idle, body.idle * { cursor: none; }
 
 body {
   font-family: "Outfit", "Helvetica Neue", Arial, sans-serif;

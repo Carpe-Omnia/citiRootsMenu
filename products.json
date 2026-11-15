@@ -150,14 +150,44 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cookies-small-batch-blackberry-caviar-3-5g"
   },
   {
-    "name": "Harvest Moon Farms | Hawaiin Rain",
-    "brand": "Harvest Moon Farms",
-    "img": "https://images.dutchie.com/21f924a134c1c643186c548b5f173ff4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$75.00",
-    "thc": "25.32%",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fharvest-moon-farms-hawaiin-rain",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/harvest-moon-farms-hawaiin-rain"
+    "name": "Turtle Pie | X Rose | 3.5g",
+    "brand": "Turtle Pie Co.",
+    "img": "https://images.dutchie.com/87e665d43f336231d3ebae7d9c2f3a6e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$38.50",
+    "thc": "30.19%",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fturtle-pie-x-rose-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/turtle-pie-x-rose-3-5g"
+  },
+  {
+    "name": "Lost Farm | Strawberry Lemonade x Hazy Cookies [10pk] (100mg)",
+    "brand": "Lost Farm",
+    "img": "https://dutchie-images.s3.amazonaws.com/6434db01af20b7bebe8246fb7075f2a3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$22.50",
+    "thc": "9.35%",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Flost-farm-strawberry-lemonade-x-hazy-cookies-10pk-100mg",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/lost-farm-strawberry-lemonade-x-hazy-cookies-10pk-100mg"
+  },
+  {
+    "name": "Shnicks Shnacks | Cinnamon Crunch | Cloud Bar 10mg",
+    "brand": "Shnicks Shnacks",
+    "img": "https://images.dutchie.com/02e746fc26057cbaf44f1bfcc509f07c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$5.00",
+    "thc": "10 mg",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fshnicks-shnacks-cinnamon-crunch-cloud-bar-10mg",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/shnicks-shnacks-cinnamon-crunch-cloud-bar-10mg"
+  },
+  {
+    "name": "Clade9 | LA Piff | 3.5g",
+    "brand": "Clade9",
+    "img": "https://images.dutchie.com/5c139f5f987ea95c48670dea4bf6f51d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$45.00",
+    "thc": "28.64%",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-la-piff-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-la-piff-3-5g"
   },
   {
     "name": "Onyx | Jelly Donutz | Live Resin HTE AIO 1g",
@@ -218,5 +248,195 @@
     "category": "Top Sellers",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-mochi-live-resin-traveler-vape-1g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-mochi-live-resin-traveler-vape-1g"
+  },
+  {
+    "name": "Fernway | Blue Dream | Live Resin | Cartridge | 1g",
+    "brand": "Fernway",
+    "img": "https://images.dutchie.com/fd7bff7b89ae13c4f6d91a7099d5fa15?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$48.75",
+    "thc": "77.5%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-blue-dream-live-resin-cartridge-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-blue-dream-live-resin-cartridge-1g"
+  },
+  {
+    "name": "Cookies Small Batch | LPC #75 x That Badu | 14g",
+    "brand": "Cookies Small Batch",
+    "img": "https://images.dutchie.com/21f924a134c1c643186c548b5f173ff4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$71.25",
+    "thc": "20.88%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fcookies-small-batch-lpc-75-x-that-badu-14g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cookies-small-batch-lpc-75-x-that-badu-14g"
+  },
+  {
+    "name": "Clade9 | Blue Dream | 1g AIO",
+    "brand": "Clade9",
+    "img": "https://images.dutchie.com/a55332d04ec38b6f013feb698da2ad42?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$33.75",
+    "thc": "85.2%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-blue-dream-1g-aio",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-blue-dream-1g-aio"
+  },
+  {
+    "name": "Shnicks Shnacks | Lemon Italian Ice | 1g Flavor Chaser Disposable",
+    "brand": "Shnicks Shnacks",
+    "img": "https://images.dutchie.com/376dcdcc94e81adc029cfdabab8c3955?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$25.00",
+    "thc": "82.06%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fshnicks-shnacks-lemon-italian-ice-1g-flavor-chaser-disposable",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/shnicks-shnacks-lemon-italian-ice-1g-flavor-chaser-disposable"
+  },
+  {
+    "name": "Turtle Pie | Sidewalk Sunday | Flower | 3.5g",
+    "brand": "Turtle Pie Co.",
+    "img": "https://images.dutchie.com/ed8ef1d857d77b45d7fb987e7c0d6ad5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$41.25",
+    "thc": "33.93%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fturtle-pie-sidewalk-sunday-flower-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/turtle-pie-sidewalk-sunday-flower-3-5g"
+  },
+  {
+    "name": "Goodies | Chill | 5pk",
+    "brand": "Goodies",
+    "img": "https://images.dutchie.com/45ec12593be309847bd0a9db0689958a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$24.75",
+    "thc": "31.33%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgoodies-chill-5pk",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/goodies-chill-5pk"
+  },
+  {
+    "name": "Cheetah | Chem Dream Live Resin | 1g AIO",
+    "brand": "Cheetah",
+    "img": "https://images.dutchie.com/2a8d23e75026a290c1c05d0b1c6f049f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$52.50",
+    "thc": "76.37%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fcheetah-chem-dream-live-resin-1g-aio",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cheetah-chem-dream-live-resin-1g-aio"
+  },
+  {
+    "name": "Cheetah | Rainbow Belts 3.0 (Infused) | 5pk",
+    "brand": "Cheetah",
+    "img": "https://images.dutchie.com/f519b6ee710291bc03baaea675353934?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$33.75",
+    "thc": "45.66%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fcheetah-rainbow-belts-3-0-infused-5pk",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cheetah-rainbow-belts-3-0-infused-5pk"
+  },
+  {
+    "name": "Wana | Classic Blueberry Acai Pomegranate 5:1 (CBD:THC)  | 10pk",
+    "brand": "Wana",
+    "img": "https://images.dutchie.com/3ec10ecbdd8a532241ba1c9385f936a4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$16.50",
+    "thc": "5 mg",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fwana-classic-blueberry-acai-pomegranate-5-1-cbd-thc-10pk-19153",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/wana-classic-blueberry-acai-pomegranate-5-1-cbd-thc-10pk-19153"
+  },
+  {
+    "name": "EV | Watermelon Crush | 3.5g",
+    "brand": "EV Family Farms",
+    "img": "https://images.dutchie.com/14b24ae65309ba091d90488f0d04e6d5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$41.25",
+    "thc": "30.16%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fev-watermelon-crush-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ev-watermelon-crush-3-5g"
+  },
+  {
+    "name": "Fernway | Red Headed Stranger | Cartridge | 1g",
+    "brand": "Fernway",
+    "img": "https://images.dutchie.com/eb5130354e05cdd33156489e2a676e50?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$45.00",
+    "thc": "83.72%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-red-headed-stranger-cartridge-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-red-headed-stranger-cartridge-1g"
+  },
+  {
+    "name": "Good PizzZa | Arancello | 3.5g",
+    "brand": "Good PizzZa",
+    "img": "https://images.dutchie.com/d15aaa57371c5b65a2215c67f7c43349?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$22.50",
+    "thc": "23.85%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgood-pizzza-arancello-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/good-pizzza-arancello-3-5g"
+  },
+  {
+    "name": "Kind Tree | Nitro Fumez | Live Resin VC 1g",
+    "brand": "Kind Tree",
+    "img": "https://images.dutchie.com/c9c67bd6f5e1ac28627c949db8efb554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$45.00",
+    "thc": "77.54%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fkind-tree-nitro-fumez-live-resin-vc-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/kind-tree-nitro-fumez-live-resin-vc-1g"
+  },
+  {
+    "name": "Fernway | Lava Cake | Cartridge | 1g",
+    "brand": "Fernway",
+    "img": "https://images.dutchie.com/a389bcec95fc2cb11a4707ed843b4c0e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$45.00",
+    "thc": "88.36%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-lava-cake-cartridge-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-lava-cake-cartridge-1g"
+  },
+  {
+    "name": "Made | Gelonade | 3.5g",
+    "brand": "MADE",
+    "img": "https://images.dutchie.com/013626ecd623ce5d128dd3fb48b8caf9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$41.25",
+    "thc": "25.41%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmade-gelonade-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/made-gelonade-3-5g"
+  },
+  {
+    "name": "Cookies Small Batch | Sweet & Sour | 3.5g",
+    "brand": "Cookies Small Batch",
+    "img": "https://images.dutchie.com/09d4e09de33c142e51e167d72a1e55c3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$41.25",
+    "thc": "26.82%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fcookies-small-batch-sweet-sour-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cookies-small-batch-sweet-sour-3-5g"
+  },
+  {
+    "name": "Ivory | Lavender Cookies | Live Resin VC | 1g",
+    "brand": "Ivory",
+    "img": "https://images.dutchie.com/4bb919b16b6ab9b25c5cf4ad81453eb6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$41.25",
+    "thc": "86.9%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fivory-lavender-cookies-live-resin-vc-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ivory-lavender-cookies-live-resin-vc-1g"
+  },
+  {
+    "name": "Goodies | Zen | 5pk",
+    "brand": "Goodies",
+    "img": "https://images.dutchie.com/3c4c1fc488f933c6c05458c9a0635124?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$26.25",
+    "thc": "30.37%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgoodies-zen-5pk",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/goodies-zen-5pk"
+  },
+  {
+    "name": "Locals Only | Diamond Bar Wet Badder | 1g",
+    "brand": "Locals Only",
+    "img": "https://images.dutchie.com/ac25e59d6e675de9ed82f19d7c76b429?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "78.42%",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Flocals-only-diamond-bar-wet-badder-1g-43647",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/locals-only-diamond-bar-wet-badder-1g-43647"
   }
 ]

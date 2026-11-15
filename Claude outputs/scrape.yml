@@ -1,0 +1,67 @@
+name: Scrape menu
+
+on:
+  schedule:
+    # GitHub schedules are in UTC and can start a few minutes late.
+    - cron: '43 13 * * *'   # 8:43 AM Eastern in winter (9:43 AM in summer)
+    - cron: '43 19 * * *'   # 2:43 PM Eastern in winter (3:43 PM in summer)
+  workflow_dispatch:         # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write            # lets the job commit products.json
+
+concurrency:
+  group: scrape-menu
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Chromium for Playwright
+        run: npx playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: node scrape.js
+
+      - name: Check every section has products
+        run: |
+          node -e '
+            const p = require("./products.json");
+            const counts = {};
+            for (const x of p) counts[x.category] = (counts[x.category] || 0) + 1;
+            console.log(counts);
+            const missing = ["New Arrivals", "Staff Picks", "Top Sellers"].filter(c => !counts[c]);
+            if (missing.length) { console.error("No products for: " + missing.join(", ")); process.exit(1); }
+          '
+
+      - name: Commit products.json if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add products.json
+          if git diff --cached --quiet; then
+            echo "Menu unchanged, nothing to commit."
+          else
+            git commit -m "Update products.json"
+            git push
+          fi
+
+      - name: Save debug screenshot if something failed
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: debug.png
+          if-no-files-found: ignore

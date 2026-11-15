@@ -2,12 +2,15 @@
 //   - New Arrivals   (the "new-items" collection page)
 //   - Staff Picks    (carousel on the menu home page)
 //   - Top Sellers    (carousel on the menu home page)
-// Usage: node scrape.js [--headed] [--check-link]
+// Usage: node scrape.js [--headed]
 const { chromium } = require('playwright');
 const fs = require('fs');
 
 const SITE_MENU = 'https://citirootsdispensarynj.com/menu/';
-const NEW_ITEMS_URL = `${SITE_MENU}?dtche%5Bpath%5D=collections%2Fnew-items`;
+// Pages are read straight from Dutchie (the menu the Citi Roots site embeds in an
+// iframe), which avoids the iframe failing to load or never scrolling into view.
+const EMBED_MENU = 'https://dutchie.com/embedded-menu/citi-roots/';
+const NEW_ITEMS_URL = `${EMBED_MENU}collections/new-items`;
 const OUT = 'products.json';
 const HEADED = process.argv.includes('--headed');
 
@@ -37,7 +40,7 @@ async function passAgeGate(page) {
 
 // Find whichever frame contains `selector` (the menu lives in a Dutchie iframe).
 async function findFrameWith(page, selector) {
-  for (let attempt = 0; attempt < 30; attempt++) {
+  for (let attempt = 0; attempt < 20; attempt++) {
     for (const frame of page.frames()) {
       const count = await frame.locator(selector).count().catch(() => 0);
       if (count > 0) return frame;
@@ -45,6 +48,23 @@ async function findFrameWith(page, selector) {
     await page.waitForTimeout(1000);
   }
   return null;
+}
+
+// Open a page, pass the age gate and wait for `selector`; retry if it doesn't show up.
+async function openWithRetry(page, browser, url, selector, label) {
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await passAgeGate(page);
+      const frame = await findFrameWith(page, selector);
+      if (frame) return frame;
+      console.warn(`${label}: page didn't load (attempt ${attempt}/3)`);
+    } catch (e) {
+      console.warn(`${label}: ${e.message.split('\n')[0]} (attempt ${attempt}/3)`);
+    }
+    await page.waitForTimeout(5000 * attempt);
+  }
+  await failWithDebug(page, browser, `${label}: gave up after 3 attempts.`);
 }
 
 async function failWithDebug(page, browser, msg) {
@@ -90,11 +110,7 @@ function extractCards(cards, ctx) {
 
 async function scrapeNewArrivals(page, browser) {
   const CARD = '[data-testid="product-list-item"]';
-  await page.goto(NEW_ITEMS_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
-  await passAgeGate(page);
-
-  const frame = await findFrameWith(page, CARD);
-  if (!frame) await failWithDebug(page, browser, 'No New Arrivals products found.');
+  const frame = await openWithRetry(page, browser, NEW_ITEMS_URL, CARD, 'New Arrivals');
 
   // Scroll until no new cards appear (lazy loading).
   let prev = -1;
@@ -112,16 +128,16 @@ async function scrapeNewArrivals(page, browser) {
   return { items, frame };
 }
 
+// The homepage carousels are scraped from Dutchie's menu page directly (the same
+// menu the Citi Roots site embeds). Inside the embedded iframe the carousels never
+// scroll into view in a headless browser, so they don't load past the first 7 cards.
 async function scrapeCarousels(page, browser) {
-  await page.goto(SITE_MENU, { waitUntil: 'domcontentloaded', timeout: 60000 });
-  await passAgeGate(page);
-
-  const frame = await findFrameWith(page, '[data-testid="homepage-carousel-sections"]');
-  if (!frame) await failWithDebug(page, browser, 'Menu homepage carousels not found.');
+  const frame = await openWithRetry(page, browser, EMBED_MENU,
+    '[data-testid="homepage-carousel-sections"]', 'Homepage carousels');
 
   // Carousel sections are deferred: scroll down so they all render.
+  await page.mouse.move(640, 450);
   for (let i = 0; i < 15; i++) {
-    await frame.evaluate(() => window.scrollBy(0, 800));
     await page.mouse.wheel(0, 800);
     await page.waitForTimeout(600);
   }
@@ -129,37 +145,44 @@ async function scrapeCarousels(page, browser) {
   const all = [];
   for (const [id, category] of Object.entries(CAROUSELS)) {
     const heading = `[data-testid="${id}-carousel-heading"]`;
-    await frame.locator(heading).waitFor({ timeout: 20000 }).catch(() => {});
-
-    // Click "Next" until the carousel stops loading new cards.
-    const count = await frame.evaluate(async (heading) => {
-      let sec = document.querySelector(heading);
-      if (!sec) return -1;
-      while (sec && !sec.querySelector('[data-testid="carousel-product-card"]')) sec = sec.parentElement;
-      if (!sec) return 0;
-      sec.setAttribute('data-scrape-section', heading); // tag it so we can find it again
-      const next = sec.querySelector('[class*="carousel-v2__NextButton"]');
-      const n = () => sec.querySelectorAll('[data-testid="carousel-product-card"]').length;
-      let stable = 0, last = n();
-      for (let i = 0; i < 40 && next && stable < 3; i++) {
-        next.click();
-        await new Promise(r => setTimeout(r, 900));
-        const now = n();
-        stable = now === last ? stable + 1 : 0;
-        last = now;
-      }
-      return last;
-    }, heading);
-
-    if (count <= 0) {
-      console.warn(`${category}: carousel not found or empty (skipped)`);
+    const headingLoc = frame.locator(heading).first();
+    const found = await headingLoc.waitFor({ timeout: 20000 }).then(() => true, () => false);
+    if (!found) {
+      console.warn(`${category}: carousel not found (skipped)`);
       continue;
     }
-    const items = await frame.$$eval(
-      `[data-scrape-section='${heading}'] [data-testid="carousel-product-card"]`,
-      extractCards,
-      { category, siteMenu: SITE_MENU }
-    );
+    await headingLoc.scrollIntoViewIfNeeded();
+
+    // Tag the carousel's section so we can target it.
+    const tagged = await frame.evaluate((heading) => {
+      let sec = document.querySelector(heading);
+      while (sec && !sec.querySelector('[data-testid="carousel-product-card"]')) sec = sec.parentElement;
+      if (!sec) return false;
+      sec.setAttribute('data-scrape-section', heading);
+      return true;
+    }, heading);
+    if (!tagged) {
+      console.warn(`${category}: carousel is empty (skipped)`);
+      continue;
+    }
+
+    const section = frame.locator(`[data-scrape-section='${heading}']`);
+    const cards = section.locator('[data-testid="carousel-product-card"]');
+    const next = section.locator('[class*="carousel-v2__NextButton"]').first();
+
+    // Click "Next" (a real click, with the carousel on screen) until no new cards load.
+    let last = await cards.count();
+    let stable = 0;
+    for (let i = 0; i < 40 && stable < 3; i++) {
+      const clicked = await next.click({ timeout: 5000 }).then(() => true, () => false);
+      if (!clicked) break;
+      await page.waitForTimeout(1200);
+      const now = await cards.count();
+      stable = now === last ? stable + 1 : 0;
+      last = now;
+    }
+
+    const items = await cards.evaluateAll(extractCards, { category, siteMenu: SITE_MENU });
     console.log(`${category}: ${items.length}`);
     all.push(...items);
   }
@@ -168,21 +191,24 @@ async function scrapeCarousels(page, browser) {
 
 (async () => {
   const browser = await chromium.launch({ headless: !HEADED });
-  const page = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+  
+  // Create a browser context with a standard desktop User-Agent and viewport
+  const context = await browser.newContext({
+    viewport: { width: 1280, height: 900 },
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+  });
+  const page = await context.newPage();
 
-  const { items: newArrivals, frame: newItemsFrame } = await scrapeNewArrivals(page, browser);
-
-  // Optional: click the first New Arrivals card and compare real vs built URL.
-  if (process.argv.includes('--check-link') && newArrivals[0]) {
-    await newItemsFrame.locator('[data-testid="product-list-item"] a').first().click();
-    await page.waitForTimeout(4000);
-    console.log('\nBuilt url :', newArrivals[0].url);
-    console.log('Real url  :', decodeURIComponent(page.url()), '\n');
-  }
+  const { items: newArrivals } = await scrapeNewArrivals(page, browser);
 
   const carouselItems = await scrapeCarousels(page, browser);
 
   const products = [...newArrivals, ...carouselItems];
+  if (!products.length) {
+    console.error('Scraped 0 products; leaving products.json unchanged.');
+    await browser.close();
+    process.exit(1);
+  }
   fs.writeFileSync(OUT, JSON.stringify(products, null, 2));
   console.log(`Wrote ${products.length} products to ${OUT}`);
   await browser.close();

@@ -4,6 +4,8 @@
  * Optional URL parameters:
  *   ?seconds=15   seconds each product stays on screen (default 15)
  *   ?refresh=30   minutes between checks for a new products.json (default 30)
+ *
+ * Double-click anywhere (or press OK/Enter twice on the remote) to toggle fullscreen.
  */
 (function () {
   'use strict';
@@ -42,6 +44,38 @@
   }
   window.addEventListener('resize', fitStage);
   fitStage();
+
+  /* ---------- Fullscreen ---------- */
+  // Double-click (or double-press OK/Enter on the remote) toggles fullscreen.
+  // Browsers only allow fullscreen from a click or key press, so it can't start on its own.
+  function toggleFullscreen() {
+    var d = document, el = d.documentElement;
+    if (!(d.fullscreenElement || d.webkitFullscreenElement)) {
+      var req = el.requestFullscreen || el.webkitRequestFullscreen;
+      if (req) { var r = req.call(el); if (r && r.catch) r.catch(function () {}); }
+    } else {
+      var exit = d.exitFullscreen || d.webkitExitFullscreen;
+      if (exit) exit.call(d);
+    }
+  }
+  document.addEventListener('dblclick', toggleFullscreen);
+  var lastEnter = 0;
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'f' || e.key === 'F') { toggleFullscreen(); return; }
+    if (e.key !== 'Enter' && e.keyCode !== 13) return;
+    var now = Date.now();
+    if (now - lastEnter < 600) { toggleFullscreen(); lastEnter = 0; } else { lastEnter = now; }
+  });
+
+  // Show the pointer while the remote moves, hide it after 3 seconds.
+  var idleTimer = null;
+  function hidePointerSoon() {
+    document.body.classList.remove('idle');
+    clearTimeout(idleTimer);
+    idleTimer = setTimeout(function () { document.body.classList.add('idle'); }, 3000);
+  }
+  document.addEventListener('mousemove', hidePointerSoon);
+  hidePointerSoon();
 
   /* ---------- Data ---------- */
   function fetchList() {
