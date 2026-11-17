@@ -33,17 +33,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/wana-1-1-1-fast-asleep-grape-thc-cbn-cbg-20pk"
   },
   {
-    "name": "My Dad's Stash | Obama Runtz | 3.5",
-    "brand": "My Dad's Stash",
-    "img": "https://images.dutchie.com/71df51dbc829281f233f46c5e2b42298?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
-    "price": "$23.75",
-    "thc": "19.79%",
-    "strain": "Hybrid",
-    "category": "New Arrivals",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-obama-runtz-3-5",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-obama-runtz-3-5"
-  },
-  {
     "name": "Blue Print | Triple Lindy | 3.5g",
     "brand": "Blueprint Cannabis Co.",
     "img": "https://images.dutchie.com/b1761cae8e1568a30ddaa26004ede28b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
@@ -53,17 +42,6 @@
     "category": "New Arrivals",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fblue-print-triple-lindy-3-5g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/blue-print-triple-lindy-3-5g"
-  },
-  {
-    "name": "Onyx | Jelly Donutz | Live Resin HTE VC 1g",
-    "brand": "ONYX",
-    "img": "https://images.dutchie.com/9003662f34f1b18702808473fcaa73b0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
-    "price": "$56.25",
-    "thc": "83.86%",
-    "strain": "Indica-Hybrid",
-    "category": "New Arrivals",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fonyx-jelly-donutz-live-resin-hte-vc-1g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/onyx-jelly-donutz-live-resin-hte-vc-1g"
   },
   {
     "name": "Onyx | Fruity Snackz 34 | Live Resin Badder 1g",
@@ -77,6 +55,17 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/onyx-fruity-snackz-34-live-resin-badder-1g"
   },
   {
+    "name": "Onyx | Jelly Donutz | Live Resin HTE VC 1g",
+    "brand": "ONYX",
+    "img": "https://images.dutchie.com/9003662f34f1b18702808473fcaa73b0?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
+    "price": "$56.25",
+    "thc": "83.86%",
+    "strain": "Indica-Hybrid",
+    "category": "New Arrivals",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fonyx-jelly-donutz-live-resin-hte-vc-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/onyx-jelly-donutz-live-resin-hte-vc-1g"
+  },
+  {
     "name": "Fernway | Mochi | Live Resin | Traveler Vape | 1g",
     "brand": "Fernway",
     "img": "https://images.dutchie.com/4c4221902dd158393001f30dd47e1dc1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=104&w=104",
@@ -86,6 +75,17 @@
     "category": "New Arrivals",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-mochi-live-resin-traveler-vape-1g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-mochi-live-resin-traveler-vape-1g"
+  },
+  {
+    "name": "Clade9 | Diamond Bar | Disposable Vape 1g",
+    "brand": "Clade9",
+    "img": "https://images.dutchie.com/3c5ae77e30d182fdb234cbafe102a8bb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "87.99%",
+    "strain": "Indica-Hybrid",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-diamond-bar-disposable-vape-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-diamond-bar-disposable-vape-1g"
   },
   {
     "name": "Gillie's Galaxy | Joint Custody",
@@ -99,15 +99,15 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/gillie-s-galaxy-joint-custody"
   },
   {
-    "name": "Clade9 | Diamond Bar | Disposable Vape 1g",
+    "name": "Clade9 | Blue Dream | 1g AIO",
     "brand": "Clade9",
-    "img": "https://images.dutchie.com/3c5ae77e30d182fdb234cbafe102a8bb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$33.75",
-    "thc": "87.99%",
-    "strain": "Indica-Hybrid",
+    "img": "https://images.dutchie.com/a55332d04ec38b6f013feb698da2ad42?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "85.2%",
+    "strain": "Sativa",
     "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-diamond-bar-disposable-vape-1g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-diamond-bar-disposable-vape-1g"
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-blue-dream-1g-aio",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-blue-dream-1g-aio"
   },
   {
     "name": "My Dad's Stash | TangiLand | 3.5g",
@@ -143,6 +143,17 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/doctor-solomon-s-lotion-200mg-rescue-thc-rich"
   },
   {
+    "name": "Cookies Small Batch | Blackberry Caviar | 3.5g",
+    "brand": "Cookies Small Batch",
+    "img": "https://images.dutchie.com/fdb3453d22fcf9990dc0d6491df85e25?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$38.50",
+    "thc": "26.55%",
+    "strain": "Indica",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fcookies-small-batch-blackberry-caviar-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cookies-small-batch-blackberry-caviar-3-5g"
+  },
+  {
     "name": "Turtle Pie | X Rose | 3.5g",
     "brand": "Turtle Pie Co.",
     "img": "https://images.dutchie.com/87e665d43f336231d3ebae7d9c2f3a6e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -165,17 +176,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/lost-farm-strawberry-lemonade-x-hazy-cookies-10pk-100mg"
   },
   {
-    "name": "OGeez! Big Peg's Happy Balance 1:1 THC:CBD Gummies 2x50mg",
-    "brand": "OGeez!",
-    "img": "https://images.dutchie.com/2bcdfd21c6f6c1344f02ff73d02a4862?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$9.00",
-    "thc": "10.42%",
-    "strain": null,
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fogeez-big-peg-s-happy-balance-1-1-thc-cbd-gummies-2x50mg",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ogeez-big-peg-s-happy-balance-1-1-thc-cbd-gummies-2x50mg"
-  },
-  {
     "name": "Shnicks Shnacks | Cinnamon Crunch | Cloud Bar 10mg",
     "brand": "Shnicks Shnacks",
     "img": "https://images.dutchie.com/02e746fc26057cbaf44f1bfcc509f07c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -187,6 +187,17 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/shnicks-shnacks-cinnamon-crunch-cloud-bar-10mg"
   },
   {
+    "name": "OGeez! Big Peg's Happy Balance 1:1 THC:CBD Gummies 2x50mg",
+    "brand": "OGeez!",
+    "img": "https://images.dutchie.com/2bcdfd21c6f6c1344f02ff73d02a4862?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$9.00",
+    "thc": "10.42%",
+    "strain": null,
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fogeez-big-peg-s-happy-balance-1-1-thc-cbd-gummies-2x50mg",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ogeez-big-peg-s-happy-balance-1-1-thc-cbd-gummies-2x50mg"
+  },
+  {
     "name": "Made | Gelonade | 3.5g",
     "brand": "MADE",
     "img": "https://images.dutchie.com/013626ecd623ce5d128dd3fb48b8caf9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -196,17 +207,6 @@
     "category": "Staff Picks",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmade-gelonade-3-5g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/made-gelonade-3-5g"
-  },
-  {
-    "name": "Cookies Small Batch | Blackberry Caviar | 3.5g",
-    "brand": "Cookies Small Batch",
-    "img": "https://images.dutchie.com/fdb3453d22fcf9990dc0d6491df85e25?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$38.50",
-    "thc": "26.55%",
-    "strain": "Indica",
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fcookies-small-batch-blackberry-caviar-3-5g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cookies-small-batch-blackberry-caviar-3-5g"
   },
   {
     "name": "Clade9 | LA Piff | 3.5g",
@@ -222,13 +222,24 @@
   {
     "name": "Harvest Moon Farms | Purple Elephant",
     "brand": "Harvest Moon Farms",
-    "img": "https://images.dutchie.com/642e390b6f905995961667e14730d509?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "img": "https://images.dutchie.com/00bee2874e90f3987dc4c65bd038e654?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "price": "$41.25",
     "thc": "24.5%",
     "strain": "Indica",
     "category": "Top Sellers",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fharvest-moon-farms-purple-elephant-5170",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/harvest-moon-farms-purple-elephant-5170"
+  },
+  {
+    "name": "Onyx | Tree Flip | Live Resin Liquid Diamonds + HTE | 1g AIO",
+    "brand": "ONYX",
+    "img": "https://images.dutchie.com/a2fb8cf311ac31302ec654c91da93e12?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$61.50",
+    "thc": "77.3%",
+    "strain": "Hybrid",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fonyx-tree-flip-live-resin-liquid-diamonds-hte-1g-aio",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/onyx-tree-flip-live-resin-liquid-diamonds-hte-1g-aio"
   },
   {
     "name": "Cheetah | Jersey Boof | Live Resin | AIO",
@@ -251,6 +262,17 @@
     "category": "Top Sellers",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-mochi-live-resin-traveler-vape-1g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-mochi-live-resin-traveler-vape-1g"
+  },
+  {
+    "name": "Clade9 | Diamond Bar | Disposable Vape 1g",
+    "brand": "Clade9",
+    "img": "https://images.dutchie.com/3c5ae77e30d182fdb234cbafe102a8bb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "87.99%",
+    "strain": "Indica-Hybrid",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-diamond-bar-disposable-vape-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-diamond-bar-disposable-vape-1g"
   },
   {
     "name": "Gillie's Galaxy | Joint Custody",
@@ -311,7 +333,7 @@
     "name": "Clade9 | Blue Dream | 1g AIO",
     "brand": "Clade9",
     "img": "https://images.dutchie.com/a55332d04ec38b6f013feb698da2ad42?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$33.75",
+    "price": "$37.50",
     "thc": "85.2%",
     "strain": "Sativa",
     "category": "Top Sellers",
@@ -330,6 +352,28 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/turtle-pie-sidewalk-sunday-flower-3-5g"
   },
   {
+    "name": "Harvest Moon Farms | Fire Fumez | 3.5g",
+    "brand": "Harvest Moon Farms",
+    "img": "https://images.dutchie.com/011dcee9cf0cc35b3c8746f2cbf91c20?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$41.25",
+    "thc": "30.63%",
+    "strain": "Hybrid",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fharvest-moon-farms-fire-fumez-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/harvest-moon-farms-fire-fumez-3-5g"
+  },
+  {
+    "name": "My Dad's Stash | Head Bands | 3.5g",
+    "brand": "My Dad's Stash",
+    "img": "https://images.dutchie.com/c306ca94a19ca8e7aa00cba50c602c5a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "28.76%",
+    "strain": "Sativa-Hybrid",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-head-bands-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-head-bands-3-5g"
+  },
+  {
     "name": "Full Tilt | Orangutan | 10pk",
     "brand": "Full Tilt",
     "img": "https://images.dutchie.com/5d4356d8e6f2b98164f24ab15ead16a4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -341,15 +385,37 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/full-tilt-orangutan-10pk"
   },
   {
-    "name": "Clade9 | Diamond Bar | Disposable Vape 1g",
-    "brand": "Clade9",
-    "img": "https://images.dutchie.com/3c5ae77e30d182fdb234cbafe102a8bb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$33.75",
-    "thc": "87.99%",
+    "name": "Good Green | Snow White (Live) AIO",
+    "brand": "Good Green",
+    "img": "https://images.dutchie.com/f3342a41fcad6d547cdf06ea70181556?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$56.25",
+    "thc": "80%",
     "strain": "Indica-Hybrid",
     "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-diamond-bar-disposable-vape-1g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-diamond-bar-disposable-vape-1g"
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgood-green-snow-white-live-aio",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/good-green-snow-white-live-aio"
+  },
+  {
+    "name": "Clade9 | LA Piff | Disposable Vape 1g",
+    "brand": "Clade9",
+    "img": "https://images.dutchie.com/8c0c07c67fdf6722c0175055ad22bc0b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "85.34%",
+    "strain": "Sativa-Hybrid",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-la-piff-disposable-vape-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-la-piff-disposable-vape-1g"
+  },
+  {
+    "name": "Clade9 | Private Reserve | Disposable Vape 1g",
+    "brand": "Clade9",
+    "img": "https://images.dutchie.com/556ce5a90748ddb347863d87a49a43e6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$37.50",
+    "thc": "78.01%",
+    "strain": "Hybrid",
+    "category": "Top Sellers",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-private-reserve-disposable-vape-1g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-private-reserve-disposable-vape-1g"
   },
   {
     "name": "Cheetah | Chem Dream Live Resin | 1g AIO",
@@ -374,39 +440,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/wana-classic-blueberry-acai-pomegranate-5-1-cbd-thc-10pk-19153"
   },
   {
-    "name": "RYTHM | Animal Face | Premium Flower | Indica | 3.5g",
-    "brand": "RYTHM",
-    "img": "https://images.dutchie.com/0ad9686dd12feeb60e7b353811633388?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$37.50",
-    "thc": "29.73%",
-    "strain": "Indica",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Frythm-animal-face-premium-flower-indica-3-5g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/rythm-animal-face-premium-flower-indica-3-5g"
-  },
-  {
-    "name": "Fernway Cranberry Jam Traveler Pro Vape",
-    "brand": "Fernway",
-    "img": "https://images.dutchie.com/c862c43b20bc960ab24308e74b1fdbfd?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$71.25",
-    "thc": "84.47%",
-    "strain": "Hybrid",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-cranberry-jam-traveler-pro-vape",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-cranberry-jam-traveler-pro-vape"
-  },
-  {
-    "name": "EV | Watermelon Crush | 3.5g",
-    "brand": "EV Family Farms",
-    "img": "https://images.dutchie.com/14b24ae65309ba091d90488f0d04e6d5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$41.25",
-    "thc": "30.16%",
-    "strain": "Hybrid",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fev-watermelon-crush-3-5g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ev-watermelon-crush-3-5g"
-  },
-  {
     "name": "Kind Tree | Nitro Fumez | Live Resin VC 1g",
     "brand": "Kind Tree",
     "img": "https://images.dutchie.com/c9c67bd6f5e1ac28627c949db8efb554?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -416,17 +449,6 @@
     "category": "Top Sellers",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fkind-tree-nitro-fumez-live-resin-vc-1g",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/kind-tree-nitro-fumez-live-resin-vc-1g"
-  },
-  {
-    "name": "Fernway | Lava Cake | Cartridge | 1g",
-    "brand": "Fernway",
-    "img": "https://images.dutchie.com/a389bcec95fc2cb11a4707ed843b4c0e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$45.00",
-    "thc": "88.36%",
-    "strain": "Hybrid",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Ffernway-lava-cake-cartridge-1g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/fernway-lava-cake-cartridge-1g"
   },
   {
     "name": "Cookies Small Batch | Sweet & Sour | 3.5g",
@@ -440,26 +462,15 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/cookies-small-batch-sweet-sour-3-5g"
   },
   {
-    "name": "Ivory | Velvet Smoke - Live Resin | 1g VC",
-    "brand": "Ivory",
-    "img": "https://images.dutchie.com/4bb919b16b6ab9b25c5cf4ad81453eb6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "name": "Blue Print | Triple Lindy | 3.5g",
+    "brand": "Blueprint Cannabis Co.",
+    "img": "https://images.dutchie.com/b1761cae8e1568a30ddaa26004ede28b?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "price": "$41.25",
-    "thc": "77.46%",
-    "strain": "Indica-Hybrid",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fivory-velvet-smoke-live-resin-1g-vc",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ivory-velvet-smoke-live-resin-1g-vc"
-  },
-  {
-    "name": "Harvest Moon Farms | Fire Fumez | 3.5g",
-    "brand": "Harvest Moon Farms",
-    "img": "https://images.dutchie.com/011dcee9cf0cc35b3c8746f2cbf91c20?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$41.25",
-    "thc": "30.63%",
+    "thc": "23.83%",
     "strain": "Hybrid",
     "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fharvest-moon-farms-fire-fumez-3-5g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/harvest-moon-farms-fire-fumez-3-5g"
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fblue-print-triple-lindy-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/blue-print-triple-lindy-3-5g"
   },
   {
     "name": "Cookies | Gary Payton | 3.5g",
@@ -482,16 +493,5 @@
     "category": "Top Sellers",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmellow-melon-gummies-10pk-100mg-thc-hybrid-96583",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/mellow-melon-gummies-10pk-100mg-thc-hybrid-96583"
-  },
-  {
-    "name": "Ivory | Lavender Cookies | Live Resin VC | 1g",
-    "brand": "Ivory",
-    "img": "https://images.dutchie.com/4bb919b16b6ab9b25c5cf4ad81453eb6?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$41.25",
-    "thc": "86.9%",
-    "strain": "Indica-Hybrid",
-    "category": "Top Sellers",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fivory-lavender-cookies-live-resin-vc-1g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ivory-lavender-cookies-live-resin-vc-1g"
   }
 ]
