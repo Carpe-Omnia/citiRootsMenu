@@ -66,17 +66,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/pantheon-vader-og-3-5g"
   },
   {
-    "name": "Good Tide | Grapefruit | 10mg x 10pk | 1:1:1 THC:CBD:CBC | 100mg",
-    "brand": "Good Tide",
-    "img": "https://images.dutchie.com/d7678fd749fba380e998bd9c27e1051f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$30.00",
-    "thc": null,
-    "strain": "Hybrid",
-    "category": "Staff Picks",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg"
-  },
-  {
     "name": "VIBES | King Size Hemp Cones | 800pk",
     "brand": "Vibes",
     "img": "https://images.dutchie.com/685357950a3f7a7e6ea3e94bfc2bbd0e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -108,6 +97,17 @@
     "category": "Staff Picks",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-kiwi-strawberry-10mg-x-10pk-1-1-1-thc-cbd-cbg-100mg",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-kiwi-strawberry-10mg-x-10pk-1-1-1-thc-cbd-cbg-100mg"
+  },
+  {
+    "name": "Good Tide | Grapefruit | 10mg x 10pk | 1:1:1 THC:CBD:CBC | 100mg",
+    "brand": "Good Tide",
+    "img": "https://images.dutchie.com/d7678fd749fba380e998bd9c27e1051f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$30.00",
+    "thc": null,
+    "strain": "Hybrid",
+    "category": "Staff Picks",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg"
   },
   {
     "name": "Canna-Her | Age-Less Beauty | 1:1 THC:CBD | 20pk | 100mg",
@@ -187,17 +187,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/pantheon-vader-og-3-5g"
   },
   {
-    "name": "Good Tide | Grapefruit | 10mg x 10pk | 1:1:1 THC:CBD:CBC | 100mg",
-    "brand": "Good Tide",
-    "img": "https://images.dutchie.com/d7678fd749fba380e998bd9c27e1051f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$30.00",
-    "thc": null,
-    "strain": "Hybrid",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg"
-  },
-  {
     "name": "VIBES | King Size Hemp Cones | 800pk",
     "brand": "Vibes",
     "img": "https://images.dutchie.com/685357950a3f7a7e6ea3e94bfc2bbd0e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -229,6 +218,17 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-kiwi-strawberry-10mg-x-10pk-1-1-1-thc-cbd-cbg-100mg",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-kiwi-strawberry-10mg-x-10pk-1-1-1-thc-cbd-cbg-100mg"
+  },
+  {
+    "name": "Good Tide | Grapefruit | 10mg x 10pk | 1:1:1 THC:CBD:CBC | 100mg",
+    "brand": "Good Tide",
+    "img": "https://images.dutchie.com/d7678fd749fba380e998bd9c27e1051f?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$30.00",
+    "thc": null,
+    "strain": "Hybrid",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-tide-grapefruit-10mg-x-10pk-1-1-1-thc-cbd-cbc-100mg"
   },
   {
     "name": "Canna-Her | Age-Less Beauty | 1:1 THC:CBD | 20pk | 100mg",
@@ -275,17 +275,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/bananaconda-premium-flower-hybrid-7g-84019"
   },
   {
-    "name": "Good Green | Lemon Drip | 7g",
-    "brand": "Good Green",
-    "img": "https://images.dutchie.com/92f82215111d10b691a5be08559dbba8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$65.00",
-    "thc": "21.87%",
-    "strain": "Sativa",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-green-lemon-drip-7g",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-green-lemon-drip-7g"
-  },
-  {
     "name": "Pantheon | Orangutangie | 3.5g",
     "brand": "Pantheon",
     "img": "https://images.dutchie.com/2c4199f73faa044ef192e4f1b421d044?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -297,6 +286,17 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/pantheon-orangutangie-3-5g"
   },
   {
+    "name": "Park's Grove | Sour Diesel | 7g",
+    "brand": "Parks Grove",
+    "img": "https://images.dutchie.com/d54d81a5cd0df460082606a3f56323d9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$70.00",
+    "thc": "21%",
+    "strain": "Sativa",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-sour-diesel-7g",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-sour-diesel-7g"
+  },
+  {
     "name": "Dogwalkers - Mini Dogs | Gazzurple | 5pk x 0.35g | Pre-Rolls",
     "brand": "Dogwalkers",
     "img": "https://images.dutchie.com/92db981ea1a3d2cadf61f0a04e1afadf?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -306,6 +306,28 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-gazzurple-5pk-x-0-35g-pre-rolls",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-gazzurple-5pk-x-0-35g-pre-rolls"
+  },
+  {
+    "name": "Full Tilt | Peanut Butter Breath | 10pk x 0.5g | Pre-Rolls",
+    "brand": "Full Tilt Labs",
+    "img": "https://images.dutchie.com/72d80077e9731c8a7c7aee45528599f2?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$80.00",
+    "thc": "33.27%",
+    "strain": "Indica",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/full-tilt-peanut-butter-breath-10pk-x-0-5g-pre-rolls",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/full-tilt-peanut-butter-breath-10pk-x-0-5g-pre-rolls"
+  },
+  {
+    "name": "Rythm | Strawberry Sour Diesel | 1g | Infused Pre-Roll",
+    "brand": "RYTHM",
+    "img": "https://images.dutchie.com/abd11084491fb33bb260f8601532ae87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$25.00",
+    "thc": "50.41%",
+    "strain": "Sativa",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-strawberry-sour-diesel-1g-infused-pre-roll",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-strawberry-sour-diesel-1g-infused-pre-roll"
   },
   {
     "name": "&Shine | Chicken N Waffles | 1g Pre-Roll",
@@ -330,28 +352,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-sour-diesel-5pk-x-0-35g-pre-rolls"
   },
   {
-    "name": "Dogwalkers - Big Dog | Mystic Mint | 1g | Single Pre-Roll",
-    "brand": "Dogwalkers",
-    "img": "https://images.dutchie.com/c7b1f8f1a3d0ec9f2e2d85ec6e010025?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$15.00",
-    "thc": "30.46%",
-    "strain": "Indica",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-big-dog-mystic-mint-1g-single-pre-roll",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-big-dog-mystic-mint-1g-single-pre-roll"
-  },
-  {
-    "name": "Rythm | Strawberry Sour Diesel | 1g | Infused Pre-Roll",
-    "brand": "RYTHM",
-    "img": "https://images.dutchie.com/abd11084491fb33bb260f8601532ae87?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$25.00",
-    "thc": "50.41%",
-    "strain": "Sativa",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-strawberry-sour-diesel-1g-infused-pre-roll",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-strawberry-sour-diesel-1g-infused-pre-roll"
-  },
-  {
     "name": "Watermelon Z | Infused Pre-Roll | Indica | 1g",
     "brand": "RYTHM",
     "img": "https://images.dutchie.com/58c2695f8130cdde74bf28fa40fd4656?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -374,37 +374,37 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-big-dog-l-orange-1g-single-pre-roll"
   },
   {
-    "name": "WYLD | Kiwi | 1:1 THC:THCV | 10pk | 100mg",
-    "brand": "Wyld",
-    "img": "https://images.dutchie.com/4cbf402ae1867db46e894c90171461f1?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$22.40",
-    "thc": "10.2%",
-    "strain": "Sativa",
+    "name": "Jersey Canna | Stress-Less Canna Cubes | 1:1 THC:CBD | 10pk | 100mg",
+    "brand": "Jersey Canna",
+    "img": "https://images.dutchie.com/d45593b9cddb96e45306da9f44521908?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$27.00",
+    "thc": "100 mg",
+    "strain": "Hybrid",
     "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/wyld-kiwi-1-1-thc-thcv-10pk-100mg",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/wyld-kiwi-1-1-thc-thcv-10pk-100mg"
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/jersey-canna-stress-less-canna-cubes-1-1-thc-cbd-10pk-100mg",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/jersey-canna-stress-less-canna-cubes-1-1-thc-cbd-10pk-100mg"
   },
   {
-    "name": "Fernway | Mochi | Live Resin | 1g | Traveler Pro",
+    "name": "Fernway | Stonefruit | 1g | Vape Cart",
+    "brand": "Fernway",
+    "img": "https://images.dutchie.com/60dda8f0a371c970f361069f48b2d81c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$48.00",
+    "thc": "84.4%",
+    "strain": "Hybrid",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-stonefruit-1g-vape-cart",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-stonefruit-1g-vape-cart"
+  },
+  {
+    "name": "Fernway | Mochi | Live Resin | 1g | Traveler",
     "brand": "Fernway",
     "img": "https://images.dutchie.com/d9a1c7aba93fccc2012f15ee3f61d8ca?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
     "price": "$56.00",
     "thc": "82.29%",
     "strain": "Sativa",
     "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-mochi-live-resin-1g-traveler-pro",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-mochi-live-resin-1g-traveler-pro"
-  },
-  {
-    "name": "Rythm | Durban Poison | Liquid Diamonds | 1g | Disposable",
-    "brand": "RYTHM",
-    "img": "https://images.dutchie.com/f7ed995909d70bc4b2525d3a2192d403?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$70.00",
-    "thc": "95.33%",
-    "strain": "Sativa",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-durban-poison-liquid-diamonds-1g-disposable",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-durban-poison-liquid-diamonds-1g-disposable"
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-mochi-live-resin-1g-traveler",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-mochi-live-resin-1g-traveler"
   },
   {
     "name": "Offshore Oil Co. | Skywalker OG | 1g Disposable",
@@ -416,6 +416,17 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/offshore-oil-co-skywalker-og-1g-disposable",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/offshore-oil-co-skywalker-og-1g-disposable"
+  },
+  {
+    "name": "Rythm | Durban Poison | Liquid Diamonds | 1g | Disposable",
+    "brand": "RYTHM",
+    "img": "https://images.dutchie.com/f7ed995909d70bc4b2525d3a2192d403?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$70.00",
+    "thc": "95.33%",
+    "strain": "Sativa",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-durban-poison-liquid-diamonds-1g-disposable",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-durban-poison-liquid-diamonds-1g-disposable"
   },
   {
     "name": "Rythm | Maui Wowie | Liquid Diamonds | 1g | Disposable",
@@ -438,17 +449,6 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-watermelon-z-liquid-diamonds-1g-disposable",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-watermelon-z-liquid-diamonds-1g-disposable"
-  },
-  {
-    "name": "Offshore Oil Co. | Dragon Fruit | 1g Disposable",
-    "brand": "Offshore Oil Co.",
-    "img": "https://images.dutchie.com/151bac1f0f6ffe3e04351641d5a2e6f5?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$50.00",
-    "thc": "83.53%",
-    "strain": "Sativa",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/offshore-oil-co-dragon-fruit-1g-disposable",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/offshore-oil-co-dragon-fruit-1g-disposable"
   },
   {
     "name": "Jersey Clouds | Beach Daze | FSO Syringe | 1g",
@@ -570,17 +570,6 @@
     "category": "Popular Flower",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/bananaconda-premium-flower-hybrid-7g-84019",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/bananaconda-premium-flower-hybrid-7g-84019"
-  },
-  {
-    "name": "Good Green | Lemon Drip | 7g",
-    "brand": "Good Green",
-    "img": "https://images.dutchie.com/92f82215111d10b691a5be08559dbba8?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$65.00",
-    "thc": "21.87%",
-    "strain": "Sativa",
-    "category": "Popular Flower",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-green-lemon-drip-7g",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/good-green-lemon-drip-7g"
   },
   {
     "name": "Pantheon | Orangutangie | 3.5g",
@@ -790,5 +779,16 @@
     "category": "Popular Flower",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-e85-7g",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-e85-7g"
+  },
+  {
+    "name": "Park's Grove | Death Coast | 3.5g",
+    "brand": "Parks Grove",
+    "img": "https://images.dutchie.com/d54d81a5cd0df460082606a3f56323d9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$55.00",
+    "thc": "21.3%",
+    "strain": "Hybrid",
+    "category": "Popular Flower",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-death-coast-3-5g",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-death-coast-3-5g"
   }
 ]
