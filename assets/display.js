@@ -37,9 +37,22 @@
   var nextReady = null;   // promise: the hidden layer is filled and its image decoded
 
   /* ---------- Fit the 1080x1920 stage to the screen ---------- */
+  // Some stores use an ordinary landscape TV turned on its side. For those the
+  // store config sets display.rotate (degrees clockwise: 90 when the TV's top
+  // edge faces left, -90 when it faces right) and the whole stage is turned to
+  // match. ?rotate=90 / -90 / 0 in the URL overrides it for testing.
+  var rotation = (function () {
+    var q = new URLSearchParams(location.search).get('rotate');
+    var r = parseInt(q !== null ? q : (document.body.dataset.rotate || '0'), 10) || 0;
+    return (r === 90 || r === -90) ? r : 0;
+  })();
   function fitStage() {
-    var s = Math.min(window.innerWidth / 1080, window.innerHeight / 1920);
-    document.getElementById('stage').style.transform = 'scale(' + s + ')';
+    var w = window.innerWidth, h = window.innerHeight;
+    var s = rotation
+      ? Math.min(w / 1920, h / 1080)    // portrait stage laid across a landscape screen
+      : Math.min(w / 1080, h / 1920);
+    document.getElementById('stage').style.transform =
+      (rotation ? 'rotate(' + rotation + 'deg) ' : '') + 'scale(' + s + ')';
   }
   window.addEventListener('resize', fitStage);
   fitStage();

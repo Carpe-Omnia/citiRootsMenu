@@ -43,6 +43,7 @@
   "display": {
     "theme": "citi-roots",
     "wordmark": "assets/stores/citi-roots/wordmark.svg",
-    "emblem": "assets/stores/citi-roots/emblem.svg"
+    "emblem": "assets/stores/citi-roots/emblem.svg",
+    "rotate": 90
   }
 }

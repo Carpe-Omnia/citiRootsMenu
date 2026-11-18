@@ -19,9 +19,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.718,
-      "lng": -74.0754,
-      "geo_precision": "zip"
+      "lat": 40.712757,
+      "lng": -74.064169,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "24-dispensary-west-milford",
@@ -39,9 +40,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.0915,
-      "lng": -74.375,
-      "geo_precision": "zip"
+      "lat": 41.131569,
+      "lng": -74.365602,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "4twenty-somewhere-hewitt",
@@ -58,9 +60,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 41.1709,
-      "lng": -74.3686,
-      "geo_precision": "zip"
+      "lat": 41.154344,
+      "lng": -74.354439,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "a-z-supply-bloomfield",
@@ -77,9 +80,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8035,
-      "lng": -74.1891,
-      "geo_precision": "zip"
+      "lat": 40.834161,
+      "lng": -74.180807,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "a21-wellness-scotch-plains",
@@ -97,9 +101,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.6379,
-      "lng": -74.3682,
-      "geo_precision": "zip"
+      "lat": 40.66486,
+      "lng": -74.387325,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ac-leef-atlantic-city",
@@ -117,9 +122,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.356815,
+      "lng": -74.45936,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "altitude-cannabis-toms-river",
@@ -138,7 +144,8 @@
       "consumption_area": false,
       "lat": 39.9715,
       "lng": -74.2512,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "altius-nj-glassboro",
@@ -155,9 +162,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7068,
-      "lng": -75.1172,
-      "geo_precision": "zip"
+      "lat": 39.704372,
+      "lng": -75.107483,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "andover-cannabis-andover",
@@ -175,9 +183,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9614,
-      "lng": -74.7524,
-      "geo_precision": "zip"
+      "lat": 40.987496,
+      "lng": -74.742186,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "anja-life-highland-park",
@@ -194,9 +203,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.4991,
-      "lng": -74.4266,
-      "geo_precision": "zip"
+      "lat": 40.501199,
+      "lng": -74.411499,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "apothecarium-dispensary-lodi",
@@ -215,9 +225,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8764,
-      "lng": -74.0838,
-      "geo_precision": "zip"
+      "lat": 40.882541,
+      "lng": -74.066701,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "apothecarium-dispensary-maplewood",
@@ -236,9 +247,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7279,
-      "lng": -74.2656,
-      "geo_precision": "zip"
+      "lat": 40.720771,
+      "lng": -74.268735,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "apothecarium-dispensary-phillipsburg",
@@ -257,9 +269,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7079,
-      "lng": -75.1507,
-      "geo_precision": "zip"
+      "lat": 40.690775,
+      "lng": -75.201881,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ascend-fort-lee",
@@ -278,9 +291,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.8503,
-      "lng": -73.9745,
-      "geo_precision": "zip"
+      "lat": 40.859685,
+      "lng": -73.97251,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ascend-rochelle-park",
@@ -299,9 +313,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.9057,
-      "lng": -74.079,
-      "geo_precision": "zip"
+      "lat": 40.903982,
+      "lng": -74.07131,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "ascend-wharton",
@@ -320,9 +335,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9139,
-      "lng": -74.5863,
-      "geo_precision": "zip"
+      "lat": 40.941617,
+      "lng": -74.593738,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "atlantic-flower-egg-harbor-city",
@@ -340,9 +356,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.5331,
-      "lng": -74.6177,
-      "geo_precision": "zip"
+      "lat": 39.532034,
+      "lng": -74.652372,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "aunt-marys-dispensary-flemington",
@@ -361,9 +378,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.518,
-      "lng": -74.8453,
-      "geo_precision": "zip"
+      "lat": 40.498911,
+      "lng": -74.85248,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "aurum-botanics-pemberton",
@@ -380,9 +398,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9712,
-      "lng": -74.6676,
-      "geo_precision": "zip"
+      "lat": 39.977045,
+      "lng": -74.680615,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "authorized-dealer-dispensary-north-bergen",
@@ -399,9 +418,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7939,
-      "lng": -74.0258,
-      "geo_precision": "zip"
+      "lat": 40.773263,
+      "lng": -74.040994,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "authorized-dealer-dispensary-iii-jersey-city",
@@ -418,9 +438,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7221,
-      "lng": -74.0469,
-      "geo_precision": "zip"
+      "lat": 40.720731,
+      "lng": -74.039775,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "authorized-dealer-dispensary-iv-willingboro",
@@ -439,7 +460,8 @@
       "consumption_area": false,
       "lat": 40.029,
       "lng": -74.8835,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "ayr-wellness-eatontown",
@@ -458,9 +480,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3028,
-      "lng": -74.0698,
-      "geo_precision": "zip"
+      "lat": 40.301429,
+      "lng": -74.057717,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ayr-wellness-union",
@@ -479,9 +502,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6952,
-      "lng": -74.2677,
-      "geo_precision": "zip"
+      "lat": 40.689149,
+      "lng": -74.301023,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ayr-wellness-woodbridge",
@@ -500,9 +524,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.556,
-      "lng": -74.2845,
-      "geo_precision": "zip"
+      "lat": 40.567929,
+      "lng": -74.29488,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "b-caf-dispensary-scotch-plains",
@@ -519,9 +544,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6379,
-      "lng": -74.3682,
-      "geo_precision": "zip"
+      "lat": 40.665601,
+      "lng": -74.385232,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "baked-by-the-river-lambertville",
@@ -539,9 +565,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3731,
-      "lng": -74.9266,
-      "geo_precision": "zip"
+      "lat": 40.366846,
+      "lng": -74.944759,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "baked-goodz-east-orange",
@@ -558,9 +585,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7558,
-      "lng": -74.2198,
-      "geo_precision": "zip"
+      "lat": 40.765271,
+      "lng": -74.216068,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bakin-bad-atlantic-city",
@@ -578,9 +606,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.354598,
+      "lng": -74.446491,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "benedicts-supply-jersey-city",
@@ -597,9 +626,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7482,
-      "lng": -74.0498,
-      "geo_precision": "zip"
+      "lat": 40.752177,
+      "lng": -74.053271,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "best-budz-nj-dispensary-saddle-brook",
@@ -616,9 +646,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9031,
-      "lng": -74.0955,
-      "geo_precision": "zip"
+      "lat": 40.890851,
+      "lng": -74.099858,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "bestbuds-woodbury",
@@ -635,9 +666,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.7539,
-      "lng": -74.996,
-      "geo_precision": "zip"
+      "lat": 39.836055,
+      "lng": -75.154806,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "beyond-hello-little-ferry-dispensary-little-ferry",
@@ -654,9 +686,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8493,
-      "lng": -74.0405,
-      "geo_precision": "zip"
+      "lat": 40.856239,
+      "lng": -74.049367,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "blaze-green-paterson",
@@ -673,9 +706,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9248,
-      "lng": -74.1467,
-      "geo_precision": "zip"
+      "lat": 40.9224,
+      "lng": -74.140916,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "blazin-buddiez-bridgeton",
@@ -692,9 +726,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3762,
-      "lng": -75.1617,
-      "geo_precision": "zip"
+      "lat": 39.421768,
+      "lng": -75.190209,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "blkbrn-cannabis-dispensary-highland-park",
@@ -711,9 +746,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4991,
-      "lng": -74.4266,
-      "geo_precision": "zip"
+      "lat": 40.501268,
+      "lng": -74.414394,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bloc-ewing-township",
@@ -732,9 +768,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.251,
-      "lng": -74.7627,
-      "geo_precision": "zip"
+      "lat": 40.247865,
+      "lng": -74.769412,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bloc-somerset",
@@ -753,9 +790,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.515871,
+      "lng": -74.488784,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bloc-waretown",
@@ -774,9 +812,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7896,
-      "lng": -74.1954,
-      "geo_precision": "zip"
+      "lat": 39.799679,
+      "lng": -74.197481,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "blue-oak-nj-1-bloomfield",
@@ -794,9 +833,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.8035,
-      "lng": -74.1891,
-      "geo_precision": "zip"
+      "lat": 40.827121,
+      "lng": -74.187619,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "blue-violets-hoboken",
@@ -814,9 +854,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7445,
-      "lng": -74.0329,
-      "geo_precision": "zip"
+      "lat": 40.743861,
+      "lng": -74.029013,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "blulight-cannabis-woodbury-heights",
@@ -833,9 +874,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.8142,
-      "lng": -75.153,
-      "geo_precision": "zip"
+      "lat": 39.818518,
+      "lng": -75.162666,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "blulight-cannabis-dispensary-gloucester-city-gloucester-city",
@@ -852,9 +894,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8911,
-      "lng": -75.117,
-      "geo_precision": "zip"
+      "lat": 39.902377,
+      "lng": -75.120251,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "boone-town-provisions-boonton",
@@ -871,9 +914,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9115,
-      "lng": -74.414,
-      "geo_precision": "zip"
+      "lat": 40.909565,
+      "lng": -74.393636,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "botera-harrison-harrison",
@@ -890,9 +934,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7445,
-      "lng": -74.1508,
-      "geo_precision": "zip"
+      "lat": 40.751829,
+      "lng": -74.157444,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "botera-union-union",
@@ -909,9 +954,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6952,
-      "lng": -74.2677,
-      "geo_precision": "zip"
+      "lat": 40.690373,
+      "lng": -74.291321,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "breakwater-east-windsor",
@@ -928,9 +974,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3039,
-      "lng": -74.5065,
-      "geo_precision": "zip"
+      "lat": 40.334904,
+      "lng": -74.488433,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "breakwater-roselle-park",
@@ -949,9 +996,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6651,
-      "lng": -74.267,
-      "geo_precision": "zip"
+      "lat": 40.660906,
+      "lng": -74.269099,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "breakwater-dispensary-cranbury-cranbury",
@@ -968,9 +1016,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3039,
-      "lng": -74.5065,
-      "geo_precision": "zip"
+      "lat": 40.334904,
+      "lng": -74.488433,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bridge-city-collective-dispensary-somerset",
@@ -987,9 +1036,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.492026,
+      "lng": -74.471501,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "broad-street-buds-phillipsburg",
@@ -1006,9 +1056,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7079,
-      "lng": -75.1507,
-      "geo_precision": "zip"
+      "lat": 40.696917,
+      "lng": -75.19947,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "brotherly-bud-dispensary-mt-ephraim",
@@ -1025,9 +1076,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.8827,
-      "lng": -75.0929,
-      "geo_precision": "zip"
+      "lat": 39.894047,
+      "lng": -75.091558,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "brutes-roots-egg-harbor-township",
@@ -1046,9 +1098,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.3741,
-      "lng": -74.6118,
-      "geo_precision": "zip"
+      "lat": 39.430631,
+      "lng": -74.603344,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "brutes-roots-paulsboro-paulsboro",
@@ -1067,9 +1120,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8312,
-      "lng": -75.2242,
-      "geo_precision": "zip"
+      "lat": 39.822908,
+      "lng": -75.236193,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bud-2-bloom-netcong",
@@ -1086,9 +1140,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8985,
-      "lng": -74.6985,
-      "geo_precision": "zip"
+      "lat": 40.896234,
+      "lng": -74.697502,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bud-city-nj-newton",
@@ -1105,9 +1160,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.0695,
-      "lng": -74.8069,
-      "geo_precision": "zip"
+      "lat": 41.064011,
+      "lng": -74.748153,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "bud-it-up-englishtown",
@@ -1124,9 +1180,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2825,
-      "lng": -74.3424,
-      "geo_precision": "zip"
+      "lat": 40.296472,
+      "lng": -74.358318,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "buddys-dispensary-andover",
@@ -1143,9 +1200,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9614,
-      "lng": -74.7524,
-      "geo_precision": "zip"
+      "lat": 40.995424,
+      "lng": -74.743582,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "budzooka-weed-dispensary-elizabeth",
@@ -1162,9 +1220,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6717,
-      "lng": -74.2043,
-      "geo_precision": "zip"
+      "lat": 40.666413,
+      "lng": -74.215089,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "camden-apothecary-camden",
@@ -1181,9 +1240,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.9351,
-      "lng": -75.1117,
-      "geo_precision": "zip"
+      "lat": 39.931993,
+      "lng": -75.102701,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "candid-dispensary-jersey-city",
@@ -1200,9 +1260,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7482,
-      "lng": -74.0498,
-      "geo_precision": "zip"
+      "lat": 40.751488,
+      "lng": -74.053711,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "canna-bar-matawan",
@@ -1219,9 +1280,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4109,
-      "lng": -74.238,
-      "geo_precision": "zip"
+      "lat": 40.419062,
+      "lng": -74.227252,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "canna-remedies-trenton",
@@ -1238,9 +1300,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.251,
-      "lng": -74.7627,
-      "geo_precision": "zip"
+      "lat": 40.249777,
+      "lng": -74.757073,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cannabis-city-dispensary-137-roselle",
@@ -1257,9 +1320,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.653,
-      "lng": -74.261,
-      "geo_precision": "zip"
+      "lat": 40.658337,
+      "lng": -74.276132,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cannabis-clubhouse-sussex",
@@ -1276,9 +1340,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 41.2292,
-      "lng": -74.5992,
-      "geo_precision": "zip"
+      "lat": 41.211424,
+      "lng": -74.603219,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cannaboy-treehouse-south-orange-village",
@@ -1296,9 +1361,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7465,
-      "lng": -74.2575,
-      "geo_precision": "zip"
+      "lat": 40.746791,
+      "lng": -74.26111,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cannaverde-dispensary-plainfield",
@@ -1313,9 +1379,10 @@
       "license_types": [],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6152,
-      "lng": -74.415,
-      "geo_precision": "zip"
+      "lat": 40.618605,
+      "lng": -74.423761,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cannavibes-elmwood-park",
@@ -1333,9 +1400,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9069,
-      "lng": -74.1209,
-      "geo_precision": "zip"
+      "lat": 40.916175,
+      "lng": -74.128948,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "canopy-crossroad-red-bank",
@@ -1352,9 +1420,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3584,
-      "lng": -74.0681,
-      "geo_precision": "zip"
+      "lat": 40.350136,
+      "lng": -74.073097,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "carry-on-cannabis-williamstown",
@@ -1371,9 +1440,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.665,
-      "lng": -74.971,
-      "geo_precision": "zip"
+      "lat": 39.651011,
+      "lng": -74.951164,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "casa-verde-wellness-dover",
@@ -1390,9 +1460,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9176,
-      "lng": -74.5467,
-      "geo_precision": "zip"
+      "lat": 40.887475,
+      "lng": -74.541084,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "castaway-cannabis-delran",
@@ -1409,9 +1480,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0293,
-      "lng": -74.9497,
-      "geo_precision": "zip"
+      "lat": 40.019038,
+      "lng": -74.947684,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "central-jersey-dispensary-somerset",
@@ -1428,9 +1500,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.510306,
+      "lng": -74.491875,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "citi-roots-kingston",
@@ -1447,9 +1520,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3828,
-      "lng": -74.6096,
-      "geo_precision": "zip"
+      "lat": 40.375463,
+      "lng": -74.614011,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "city-leaves-egg-harbor-township",
@@ -1466,9 +1540,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3741,
-      "lng": -74.6118,
-      "geo_precision": "zip"
+      "lat": 39.420576,
+      "lng": -74.526496,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cityleaf-dispensary-newark",
@@ -1486,9 +1561,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7664,
-      "lng": -74.1695,
-      "geo_precision": "zip"
+      "lat": 40.768237,
+      "lng": -74.163632,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "clone-canabiss-jersey-city",
@@ -1505,9 +1581,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7321,
-      "lng": -74.066,
-      "geo_precision": "zip"
+      "lat": 40.733792,
+      "lng": -74.058339,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cloud-nine-dispensary-north-plainfield",
@@ -1524,9 +1601,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.6152,
-      "lng": -74.415,
-      "geo_precision": "zip"
+      "lat": 40.630352,
+      "lng": -74.432637,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "collective-beleaf-dispensary-lambertville",
@@ -1543,9 +1621,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3731,
-      "lng": -74.9266,
-      "geo_precision": "zip"
+      "lat": 40.361224,
+      "lng": -74.942644,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "conservatory-cannabis-company-egg-harbor-township",
@@ -1562,9 +1641,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3741,
-      "lng": -74.6118,
-      "geo_precision": "zip"
+      "lat": 39.420576,
+      "lng": -74.526496,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cookies-harrison-harrison",
@@ -1581,9 +1661,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7445,
-      "lng": -74.1508,
-      "geo_precision": "zip"
+      "lat": 40.7408,
+      "lng": -74.15705,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cottonmouth-dispensary-runnemede",
@@ -1600,9 +1681,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8508,
-      "lng": -75.0742,
-      "geo_precision": "zip"
+      "lat": 39.84894,
+      "lng": -75.072543,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "cre8-balance-bloomfield",
@@ -1621,7 +1703,8 @@
       "consumption_area": false,
       "lat": 40.8035,
       "lng": -74.1891,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "cream-cannabis-dispensary-jersey-city",
@@ -1638,9 +1721,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7221,
-      "lng": -74.0469,
-      "geo_precision": "zip"
+      "lat": 40.722045,
+      "lng": -74.046619,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "curaleaf-bellmawr",
@@ -1659,9 +1743,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8689,
-      "lng": -75.0944,
-      "geo_precision": "zip"
+      "lat": 39.86537,
+      "lng": -75.102913,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "curaleaf-bordentown",
@@ -1680,9 +1765,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.1431,
-      "lng": -74.7032,
-      "geo_precision": "zip"
+      "lat": 40.148254,
+      "lng": -74.700724,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "curaleaf-edgewater-park",
@@ -1703,7 +1789,8 @@
       "consumption_area": false,
       "lat": 40.0565,
       "lng": -74.9114,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "cuzzies-camden",
@@ -1721,9 +1808,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.9186,
-      "lng": -75.1078,
-      "geo_precision": "zip"
+      "lat": 39.909774,
+      "lng": -75.098083,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "dank-poet-dispensary-washington",
@@ -1740,9 +1828,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7582,
-      "lng": -74.9914,
-      "geo_precision": "zip"
+      "lat": 40.759603,
+      "lng": -74.973696,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "daylite-cannabis-mt-laurel-township",
@@ -1759,9 +1848,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9478,
-      "lng": -74.9036,
-      "geo_precision": "zip"
+      "lat": 39.927365,
+      "lng": -74.95497,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "dazed-cannabis-somerset-somerset",
@@ -1778,9 +1868,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.48345,
+      "lng": -74.479456,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "design-710-atlantic-city",
@@ -1799,9 +1890,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.357715,
+      "lng": -74.432356,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "dispensary-of-somerset-somerset",
@@ -1818,9 +1910,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.487197,
+      "lng": -74.484507,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "dispensary-of-union-union",
@@ -1837,9 +1930,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6952,
-      "lng": -74.2677,
-      "geo_precision": "zip"
+      "lat": 40.697547,
+      "lng": -74.250694,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "docanna-maplewood",
@@ -1856,9 +1950,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7279,
-      "lng": -74.2656,
-      "geo_precision": "zip"
+      "lat": 40.731448,
+      "lng": -74.244283,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "dogwood-green-west-orange",
@@ -1875,9 +1970,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7859,
-      "lng": -74.2568,
-      "geo_precision": "zip"
+      "lat": 40.762718,
+      "lng": -74.252997,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "doobiez-west-milford",
@@ -1894,9 +1990,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 41.0915,
-      "lng": -74.375,
-      "geo_precision": "zip"
+      "lat": 41.138129,
+      "lng": -74.36715,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "downtown-flwr-jersey-city",
@@ -1915,9 +2012,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7221,
-      "lng": -74.0469,
-      "geo_precision": "zip"
+      "lat": 40.720488,
+      "lng": -74.044055,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "earth-ivy-new-brunswick",
@@ -1934,9 +2032,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.4891,
-      "lng": -74.4482,
-      "geo_precision": "zip"
+      "lat": 40.49472,
+      "lng": -74.443685,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "earth-ivy-lakehurst-lakehurst",
@@ -1953,9 +2052,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.0263,
-      "lng": -74.3254,
-      "geo_precision": "zip"
+      "lat": 40.012368,
+      "lng": -74.310895,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "eastern-green-voorhees-township",
@@ -1974,9 +2074,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8504,
-      "lng": -74.9646,
-      "geo_precision": "zip"
+      "lat": 39.823989,
+      "lng": -74.928304,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "elevated-by-thecannabosslady-maplewood",
@@ -1994,9 +2095,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7279,
-      "lng": -74.2656,
-      "geo_precision": "zip"
+      "lat": 40.731244,
+      "lng": -74.278666,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "elevated-herb-west-milford",
@@ -2013,9 +2115,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.0915,
-      "lng": -74.375,
-      "geo_precision": "zip"
+      "lat": 41.014737,
+      "lng": -74.382161,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "emerald-tea-supply-co-bloomfield",
@@ -2032,9 +2135,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.8035,
-      "lng": -74.1891,
-      "geo_precision": "zip"
+      "lat": 40.806074,
+      "lng": -74.193149,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "enlighten-dispensary-marlton",
@@ -2051,9 +2155,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8845,
-      "lng": -74.9067,
-      "geo_precision": "zip"
+      "lat": 39.895774,
+      "lng": -74.939734,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "everest-dispensary-atlantic-city",
@@ -2070,9 +2175,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.362853,
+      "lng": -74.426269,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "evergreen-natures-remedy-butler",
@@ -2089,9 +2195,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9988,
-      "lng": -74.4261,
-      "geo_precision": "zip"
+      "lat": 40.990939,
+      "lng": -74.341113,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "evolve-cannabis-bordentown",
@@ -2110,7 +2217,8 @@
       "consumption_area": false,
       "lat": 40.1431,
       "lng": -74.7032,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "far-dotter-browns-mills",
@@ -2127,9 +2235,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9597,
-      "lng": -74.5655,
-      "geo_precision": "zip"
+      "lat": 39.96315,
+      "lng": -74.572531,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "feels-of-green-newton",
@@ -2147,9 +2256,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.0695,
-      "lng": -74.8069,
-      "geo_precision": "zip"
+      "lat": 41.020351,
+      "lng": -74.769315,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "fire-and-oak-mt-holly",
@@ -2166,9 +2276,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0086,
-      "lng": -74.7896,
-      "geo_precision": "zip"
+      "lat": 39.99302,
+      "lng": -74.788503,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "flower-flame-dispensary-blackwood",
@@ -2185,9 +2296,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7901,
-      "lng": -75.0367,
-      "geo_precision": "zip"
+      "lat": 39.791208,
+      "lng": -75.03626,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "flowerbomb-dispensary-irvington",
@@ -2204,9 +2316,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7261,
-      "lng": -74.2313,
-      "geo_precision": "zip"
+      "lat": 40.726159,
+      "lng": -74.228026,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "fresh-dispensary-eatontown-eatontown",
@@ -2223,9 +2336,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3028,
-      "lng": -74.0698,
-      "geo_precision": "zip"
+      "lat": 40.280788,
+      "lng": -74.047585,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "fresh-elizabeth-elizabeth",
@@ -2242,9 +2356,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6565,
-      "lng": -74.2215,
-      "geo_precision": "zip"
+      "lat": 40.653686,
+      "lng": -74.214055,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "g2-dispensary-rockaway",
@@ -2263,7 +2378,8 @@
       "consumption_area": false,
       "lat": 40.9229,
       "lng": -74.5094,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "garden-greenz-jersey-city",
@@ -2281,9 +2397,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7221,
-      "lng": -74.0469,
-      "geo_precision": "zip"
+      "lat": 40.721606,
+      "lng": -74.045986,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "garden-state-natural-green-kingston",
@@ -2300,9 +2417,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3828,
-      "lng": -74.6096,
-      "geo_precision": "zip"
+      "lat": 40.375122,
+      "lng": -74.615045,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "garfield-gardens-dispensary-garfield",
@@ -2321,9 +2439,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8789,
-      "lng": -74.1081,
-      "geo_precision": "zip"
+      "lat": 40.875549,
+      "lng": -74.11451,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "gas-grass-cannabis-recreational-dispensary-lake-hopatcong",
@@ -2340,9 +2459,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9506,
-      "lng": -74.6129,
-      "geo_precision": "zip"
+      "lat": 40.963141,
+      "lng": -74.598838,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ginger-hale-oaklyn",
@@ -2360,9 +2480,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.908,
-      "lng": -75.0849,
-      "geo_precision": "zip"
+      "lat": 39.900731,
+      "lng": -75.075871,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "good-karma-dispensary-north-plainfield",
@@ -2379,9 +2500,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6152,
-      "lng": -74.415,
-      "geo_precision": "zip"
+      "lat": 40.629111,
+      "lng": -74.43456,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "got-your-six-dispensary-of-new-jersey-princeton",
@@ -2399,9 +2521,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3666,
-      "lng": -74.6408,
-      "geo_precision": "zip"
+      "lat": 40.379939,
+      "lng": -74.604378,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "green-haven-industries-elizabeth",
@@ -2419,9 +2542,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6501,
-      "lng": -74.1871,
-      "geo_precision": "zip"
+      "lat": 40.652229,
+      "lng": -74.196412,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "green-knight-cannabis-somerset",
@@ -2438,9 +2562,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.489023,
+      "lng": -74.479377,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "green-lightning-cannabis-cinnaminson",
@@ -2457,9 +2582,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.002,
-      "lng": -74.9952,
-      "geo_precision": "zip"
+      "lat": 40.013985,
+      "lng": -74.976689,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "green-oasis-dispensary-atco",
@@ -2477,9 +2603,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.76,
-      "lng": -74.8665,
-      "geo_precision": "zip"
+      "lat": 39.752309,
+      "lng": -74.874431,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "green-wellness-haven-pleasantville",
@@ -2497,9 +2624,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3876,
-      "lng": -74.5149,
-      "geo_precision": "zip"
+      "lat": 39.386157,
+      "lng": -74.53855,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "greenlight-apothecary-lake-hopatcong",
@@ -2516,9 +2644,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9506,
-      "lng": -74.6129,
-      "geo_precision": "zip"
+      "lat": 40.96219,
+      "lng": -74.596753,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "greenstop-dispensary-jersey-city",
@@ -2535,9 +2664,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7482,
-      "lng": -74.0498,
-      "geo_precision": "zip"
+      "lat": 40.749069,
+      "lng": -74.060572,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "gynsyng-merchantville",
@@ -2554,9 +2684,10 @@
       ],
       "delivery": true,
       "consumption_area": true,
-      "lat": 39.9519,
-      "lng": -75.0482,
-      "geo_precision": "zip"
+      "lat": 39.952103,
+      "lng": -75.049072,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "hackettstown-dispensary-hackettstown",
@@ -2574,9 +2705,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8529,
-      "lng": -74.8343,
-      "geo_precision": "zip"
+      "lat": 40.836045,
+      "lng": -74.823059,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "hamm-chaz-cannabis-dispensary-jersey-city",
@@ -2593,9 +2725,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7321,
-      "lng": -74.066,
-      "geo_precision": "zip"
+      "lat": 40.725771,
+      "lng": -74.077321,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "happy-leaf-somerdale",
@@ -2613,9 +2746,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.84,
-      "lng": -75.0309,
-      "geo_precision": "zip"
+      "lat": 39.84944,
+      "lng": -75.022658,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "hashery-hackensack",
@@ -2632,9 +2766,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.8882,
-      "lng": -74.0503,
-      "geo_precision": "zip"
+      "lat": 40.890533,
+      "lng": -74.040902,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "hazy-harvest-dispensary-jersey-city",
@@ -2651,9 +2786,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.718,
-      "lng": -74.0754,
-      "geo_precision": "zip"
+      "lat": 40.71368,
+      "lng": -74.059417,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "hello-high-hammonton",
@@ -2670,9 +2806,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.638,
-      "lng": -74.7728,
-      "geo_precision": "zip"
+      "lat": 39.566175,
+      "lng": -74.818827,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "herb-haus-carlstadt",
@@ -2690,9 +2827,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8403,
-      "lng": -74.0925,
-      "geo_precision": "zip"
+      "lat": 40.818192,
+      "lng": -74.065539,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "herbs-premium-dispensary-somerset",
@@ -2709,9 +2847,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.48345,
+      "lng": -74.479456,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "herbalicity-highland-park",
@@ -2728,9 +2867,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4991,
-      "lng": -74.4266,
-      "geo_precision": "zip"
+      "lat": 40.498786,
+      "lng": -74.428803,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "high-end-dispensary-south-river",
@@ -2747,9 +2887,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4444,
-      "lng": -74.3801,
-      "geo_precision": "zip"
+      "lat": 40.451427,
+      "lng": -74.377533,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "high-end-gardens-sussex",
@@ -2766,9 +2907,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.2292,
-      "lng": -74.5992,
-      "geo_precision": "zip"
+      "lat": 41.205575,
+      "lng": -74.606803,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "high-life-cannabis-dispensary-brooklawn",
@@ -2785,9 +2927,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8911,
-      "lng": -75.117,
-      "geo_precision": "zip"
+      "lat": 39.878189,
+      "lng": -75.11487,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "high-profile-lakehurst-lakehurst",
@@ -2804,9 +2947,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0263,
-      "lng": -74.3254,
-      "geo_precision": "zip"
+      "lat": 40.015375,
+      "lng": -74.315181,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "high-profile-of-somerdale-dispensary-somerdale",
@@ -2823,9 +2967,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.84,
-      "lng": -75.0309,
-      "geo_precision": "zip"
+      "lat": 39.844587,
+      "lng": -75.018642,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "high-rollers-dispensary-atlantic-city",
@@ -2842,9 +2987,10 @@
       ],
       "delivery": true,
       "consumption_area": true,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.35805,
+      "lng": -74.431825,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "high-street-dispensary-hackettstown",
@@ -2861,9 +3007,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.8529,
-      "lng": -74.8343,
-      "geo_precision": "zip"
+      "lat": 40.862646,
+      "lng": -74.827322,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "highway-90-evesham",
@@ -2880,9 +3027,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8845,
-      "lng": -74.9067,
-      "geo_precision": "zip"
+      "lat": 39.8925,
+      "lng": -74.928786,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "holistic-re-leaf-rockaway",
@@ -2899,9 +3047,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9229,
-      "lng": -74.5094,
-      "geo_precision": "zip"
+      "lat": 40.909027,
+      "lng": -74.547198,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "holistic-solutions-atco",
@@ -2920,9 +3069,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.76,
-      "lng": -74.8665,
-      "geo_precision": "zip"
+      "lat": 39.764345,
+      "lng": -74.890445,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "honey-buzz-farms-atlantic-city",
@@ -2939,9 +3089,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.36041,
+      "lng": -74.432164,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "honeygrove-clementon",
@@ -2960,9 +3111,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8036,
-      "lng": -75.0058,
-      "geo_precision": "zip"
+      "lat": 39.803922,
+      "lng": -75.031092,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "honeystash-dispensary-metuchen",
@@ -2979,9 +3131,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5449,
-      "lng": -74.3517,
-      "geo_precision": "zip"
+      "lat": 40.539726,
+      "lng": -74.368781,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "hudhaus-north-bergen",
@@ -2998,9 +3151,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7939,
-      "lng": -74.0258,
-      "geo_precision": "zip"
+      "lat": 40.805129,
+      "lng": -73.993356,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "hudsonica-inc-hoboken",
@@ -3017,9 +3171,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7445,
-      "lng": -74.0329,
-      "geo_precision": "zip"
+      "lat": 40.754553,
+      "lng": -74.031366,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "hzy-goods-east-orange",
@@ -3037,9 +3192,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7696,
-      "lng": -74.2077,
-      "geo_precision": "zip"
+      "lat": 40.767514,
+      "lng": -74.217252,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "illicit-gardens-dispensary-secaucus-secaucus",
@@ -3058,9 +3214,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.791,
-      "lng": -74.0634,
-      "geo_precision": "zip"
+      "lat": 40.796877,
+      "lng": -74.063173,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "indigo-brooklawn",
@@ -3077,9 +3234,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.8911,
-      "lng": -75.117,
-      "geo_precision": "zip"
+      "lat": 39.875758,
+      "lng": -75.121177,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "indoor-treez-fort-lee",
@@ -3096,9 +3254,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8503,
-      "lng": -73.9745,
-      "geo_precision": "zip"
+      "lat": 40.861878,
+      "lng": -73.975473,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "insa-coastline-dispensary-cape-may-court-house",
@@ -3117,7 +3276,8 @@
       "consumption_area": false,
       "lat": 39.1378,
       "lng": -74.7806,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "island-vibez-plainfield",
@@ -3135,9 +3295,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6152,
-      "lng": -74.415,
-      "geo_precision": "zip"
+      "lat": 40.622966,
+      "lng": -74.422663,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "j-j-cannabis-dispensary-oak-ridge",
@@ -3154,9 +3315,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 41.0302,
-      "lng": -74.5198,
-      "geo_precision": "zip"
+      "lat": 41.056274,
+      "lng": -74.467193,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "janes-joint-boutique-dispensary-gibbsboro",
@@ -3173,9 +3335,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8365,
-      "lng": -74.971,
-      "geo_precision": "zip"
+      "lat": 39.833293,
+      "lng": -74.95748,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "jersey-dispensary-jersey-city",
@@ -3193,9 +3356,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.718,
-      "lng": -74.0754,
-      "geo_precision": "zip"
+      "lat": 40.71814,
+      "lng": -74.074535,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "jersey-leaf-jersey-city",
@@ -3213,9 +3377,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.718,
-      "lng": -74.0754,
-      "geo_precision": "zip"
+      "lat": 40.719746,
+      "lng": -74.082195,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "jersey-meds-pennington",
@@ -3232,9 +3397,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.3339,
-      "lng": -74.7944,
-      "geo_precision": "zip"
+      "lat": 40.340062,
+      "lng": -74.796082,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "jersey-roots-west-milford",
@@ -3251,9 +3417,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 41.0915,
-      "lng": -74.375,
-      "geo_precision": "zip"
+      "lat": 41.127799,
+      "lng": -74.372564,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "jesters-joint-new-brunswick",
@@ -3270,9 +3437,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4891,
-      "lng": -74.4482,
-      "geo_precision": "zip"
+      "lat": 40.498088,
+      "lng": -74.449755,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "joy-leaf-roselle-park",
@@ -3289,9 +3457,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.6651,
-      "lng": -74.267,
-      "geo_precision": "zip"
+      "lat": 40.66239,
+      "lng": -74.247063,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "juniper-lane-atlantic-city",
@@ -3308,9 +3477,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.357553,
+      "lng": -74.439527,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "kind-kush-rockaway",
@@ -3327,9 +3497,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.9229,
-      "lng": -74.5094,
-      "geo_precision": "zip"
+      "lat": 40.891063,
+      "lng": -74.521315,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "kine-buds-maywood-maywood",
@@ -3346,9 +3517,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9024,
-      "lng": -74.0629,
-      "geo_precision": "zip"
+      "lat": 40.900294,
+      "lng": -74.057717,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "kota-canna-plainfield",
@@ -3366,9 +3538,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6152,
-      "lng": -74.415,
-      "geo_precision": "zip"
+      "lat": 40.61932,
+      "lng": -74.420575,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "la-vida-gardens-belleville",
@@ -3385,9 +3558,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7946,
-      "lng": -74.1631,
-      "geo_precision": "zip"
+      "lat": 40.797481,
+      "lng": -74.148429,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "lady-l-cannabis-jersey-city",
@@ -3405,9 +3579,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.718,
-      "lng": -74.0754,
-      "geo_precision": "zip"
+      "lat": 40.719499,
+      "lng": -74.082598,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "leaf-haus-somerset",
@@ -3424,9 +3599,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.511876,
+      "lng": -74.484429,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "leaf-joint-jersey-city",
@@ -3443,9 +3619,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7482,
-      "lng": -74.0498,
-      "geo_precision": "zip"
+      "lat": 40.748299,
+      "lng": -74.047841,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "legacy-to-lifted-jersey-city",
@@ -3462,9 +3639,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.718,
-      "lng": -74.0754,
-      "geo_precision": "zip"
+      "lat": 40.717773,
+      "lng": -74.084167,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "legal-distribution-atlantic-city",
@@ -3482,9 +3660,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.353556,
+      "lng": -74.449064,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "lemon-22-scotch-plains",
@@ -3501,9 +3680,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.6379,
-      "lng": -74.3682,
-      "geo_precision": "zip"
+      "lat": 40.657202,
+      "lng": -74.399753,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "liberty-cannabis-dispensary-north-brunswick-north-brunswick-township",
@@ -3520,9 +3700,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4538,
-      "lng": -74.4823,
-      "geo_precision": "zip"
+      "lat": 40.443101,
+      "lng": -74.500411,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "lilac-dispensary-newark",
@@ -3539,9 +3720,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.732,
-      "lng": -74.1765,
-      "geo_precision": "zip"
+      "lat": 40.739776,
+      "lng": -74.171685,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "loud-house-camden",
@@ -3559,9 +3741,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9512,
-      "lng": -75.1186,
-      "geo_precision": "zip"
+      "lat": 39.946362,
+      "lng": -75.123647,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mad-hatter-dispensary-avenel",
@@ -3578,9 +3761,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5826,
-      "lng": -74.2785,
-      "geo_precision": "zip"
+      "lat": 40.592548,
+      "lng": -74.274416,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "main-street-dispensary-highland-park",
@@ -3597,9 +3781,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4991,
-      "lng": -74.4266,
-      "geo_precision": "zip"
+      "lat": 40.499247,
+      "lng": -74.427749,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "marvins-gardens-atlantic-city",
@@ -3616,9 +3801,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.358987,
+      "lng": -74.431145,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mass-grown-mt-holly",
@@ -3635,9 +3821,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0086,
-      "lng": -74.7896,
-      "geo_precision": "zip"
+      "lat": 39.993059,
+      "lng": -74.786845,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "med-leaf-egg-harbor-city",
@@ -3654,9 +3841,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.5331,
-      "lng": -74.6177,
-      "geo_precision": "zip"
+      "lat": 39.530211,
+      "lng": -74.646042,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "memes-danckk-world-jersey-city",
@@ -3673,9 +3861,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.702,
-      "lng": -74.089,
-      "geo_precision": "zip"
+      "lat": 40.699236,
+      "lng": -74.095389,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "midnight-greens-blackwood",
@@ -3692,9 +3881,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7901,
-      "lng": -75.0367,
-      "geo_precision": "zip"
+      "lat": 39.75122,
+      "lng": -75.04583,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "milligrams-mt-laurel-township",
@@ -3711,9 +3901,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9478,
-      "lng": -74.9036,
-      "geo_precision": "zip"
+      "lat": 39.942632,
+      "lng": -74.951655,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mindlift-dispensary-plainfield",
@@ -3731,9 +3922,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6152,
-      "lng": -74.415,
-      "geo_precision": "zip"
+      "lat": 40.616182,
+      "lng": -74.419235,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mister-jones-little-falls-township",
@@ -3750,9 +3942,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8835,
-      "lng": -74.2144,
-      "geo_precision": "zip"
+      "lat": 40.880126,
+      "lng": -74.206635,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mmd-nj-jersey-city",
@@ -3769,9 +3962,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7321,
-      "lng": -74.066,
-      "geo_precision": "zip"
+      "lat": 40.734471,
+      "lng": -74.059049,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "moja-life-trenton",
@@ -3789,9 +3983,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2204,
-      "lng": -74.7622,
-      "geo_precision": "zip"
+      "lat": 40.220017,
+      "lng": -74.765865,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "molly-ann-farms-haledon",
@@ -3808,9 +4003,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9457,
-      "lng": -74.1826,
-      "geo_precision": "zip"
+      "lat": 40.931827,
+      "lng": -74.183825,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "monteverde-nj-red-bank",
@@ -3829,9 +4025,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3584,
-      "lng": -74.0681,
-      "geo_precision": "zip"
+      "lat": 40.349904,
+      "lng": -74.075147,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mountain-dispensary-vernon-township",
@@ -3848,9 +4045,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 41.185,
-      "lng": -74.5332,
-      "geo_precision": "zip"
+      "lat": 41.17541,
+      "lng": -74.545746,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mountain-view-farmacy-oak-ridge",
@@ -3868,9 +4066,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.0302,
-      "lng": -74.5198,
-      "geo_precision": "zip"
+      "lat": 41.038834,
+      "lng": -74.516381,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mpx-nj-atlantic-city",
@@ -3889,9 +4088,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.359469,
+      "lng": -74.427856,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mpx-nj-pennsauken-township",
@@ -3910,9 +4110,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9519,
-      "lng": -75.0482,
-      "geo_precision": "zip"
+      "lat": 39.929516,
+      "lng": -75.072056,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "mpx-nj-sicklerville",
@@ -3931,9 +4132,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7354,
-      "lng": -74.9864,
-      "geo_precision": "zip"
+      "lat": 39.738999,
+      "lng": -75.001011,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nar-cannabis-mt-laurel-township",
@@ -3950,9 +4152,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9478,
-      "lng": -74.9036,
-      "geo_precision": "zip"
+      "lat": 39.926267,
+      "lng": -74.96285,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "natural-apothecary-belleville",
@@ -3969,9 +4172,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7946,
-      "lng": -74.1631,
-      "geo_precision": "zip"
+      "lat": 40.781569,
+      "lng": -74.15439,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "natures-motivation-irvington",
@@ -3989,9 +4193,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7261,
-      "lng": -74.2313,
-      "geo_precision": "zip"
+      "lat": 40.73057,
+      "lng": -74.243866,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nevaeh-verde-dispensary-belleville",
@@ -4008,9 +4213,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7946,
-      "lng": -74.1631,
-      "geo_precision": "zip"
+      "lat": 40.779845,
+      "lng": -74.181844,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "new-era-dispensary-south-bound-brook",
@@ -4027,9 +4233,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5523,
-      "lng": -74.5311,
-      "geo_precision": "zip"
+      "lat": 40.554169,
+      "lng": -74.525172,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "new-frontier-solutions-salem",
@@ -4046,9 +4253,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.5591,
-      "lng": -75.4521,
-      "geo_precision": "zip"
+      "lat": 39.562514,
+      "lng": -75.456102,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nightjar-bloomfield",
@@ -4065,9 +4273,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.8035,
-      "lng": -74.1891,
-      "geo_precision": "zip"
+      "lat": 40.792857,
+      "lng": -74.197305,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nile-of-nj-west-new-york",
@@ -4084,9 +4293,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7888,
-      "lng": -74.0115,
-      "geo_precision": "zip"
+      "lat": 40.785176,
+      "lng": -74.019165,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nirvana-mt-laurel-township",
@@ -4104,9 +4314,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9478,
-      "lng": -74.9036,
-      "geo_precision": "zip"
+      "lat": 39.925794,
+      "lng": -74.952613,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nirvana-dispensary-saddle-brook-saddle-brook",
@@ -4123,9 +4334,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9031,
-      "lng": -74.0955,
-      "geo_precision": "zip"
+      "lat": 40.890851,
+      "lng": -74.099858,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "nj-leaf-aberdeen-cliffwood",
@@ -4140,9 +4352,10 @@
       "license_types": [],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4353,
-      "lng": -74.2358,
-      "geo_precision": "zip"
+      "lat": 40.438177,
+      "lng": -74.224083,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nj-leaf-aberdeen-cliffwood-2",
@@ -4161,9 +4374,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4353,
-      "lng": -74.2358,
-      "geo_precision": "zip"
+      "lat": 40.438177,
+      "lng": -74.224083,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nj-leaf-freehold-freehold",
@@ -4182,9 +4396,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2458,
-      "lng": -74.2768,
-      "geo_precision": "zip"
+      "lat": 40.249963,
+      "lng": -74.272777,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nj-leaf-keansburg-keansburg",
@@ -4201,9 +4416,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4414,
-      "lng": -74.1306,
-      "geo_precision": "zip"
+      "lat": 40.43589,
+      "lng": -74.134173,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nj-leaf-north-brunswick-north-brunswick-township",
@@ -4222,9 +4438,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4538,
-      "lng": -74.4823,
-      "geo_precision": "zip"
+      "lat": 40.458916,
+      "lng": -74.472667,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "nj-pure-edgewater-park",
@@ -4242,9 +4459,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.0565,
-      "lng": -74.9114,
-      "geo_precision": "zip"
+      "lat": 40.04817,
+      "lng": -74.901314,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "noire-dispensary-maplewood",
@@ -4262,9 +4480,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7279,
-      "lng": -74.2656,
-      "geo_precision": "zip"
+      "lat": 40.730878,
+      "lng": -74.27803,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "northeast-alternatives-dispensary-hamilton-township",
@@ -4281,9 +4500,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2197,
-      "lng": -74.5939,
-      "geo_precision": "zip"
+      "lat": 40.196443,
+      "lng": -74.641723,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "nova-farms-woodbury",
@@ -4300,9 +4520,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7539,
-      "lng": -74.996,
-      "geo_precision": "zip"
+      "lat": 39.825913,
+      "lng": -75.159809,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ohm-theory-elmwood-park",
@@ -4319,9 +4540,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9069,
-      "lng": -74.1209,
-      "geo_precision": "zip"
+      "lat": 40.893355,
+      "lng": -74.116706,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "one-green-leaf-gibbsboro",
@@ -4338,9 +4560,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8365,
-      "lng": -74.971,
-      "geo_precision": "zip"
+      "lat": 39.84317,
+      "lng": -74.967848,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "organic-farms-camden",
@@ -4358,9 +4581,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9186,
-      "lng": -75.1078,
-      "geo_precision": "zip"
+      "lat": 39.907852,
+      "lng": -75.0975,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "organic-fusion-dispensary-irvington",
@@ -4377,9 +4601,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7261,
-      "lng": -74.2313,
-      "geo_precision": "zip"
+      "lat": 40.725629,
+      "lng": -74.234556,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "otc-jersey-absecon",
@@ -4396,9 +4621,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.4218,
-      "lng": -74.4949,
-      "geo_precision": "zip"
+      "lat": 39.426137,
+      "lng": -74.502081,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "phasal-runnemede",
@@ -4417,7 +4643,8 @@
       "consumption_area": false,
       "lat": 39.8508,
       "lng": -75.0742,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "phula-mt-holly",
@@ -4434,9 +4661,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0086,
-      "lng": -74.7896,
-      "geo_precision": "zip"
+      "lat": 39.994638,
+      "lng": -74.787986,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "plant-base-plainfield",
@@ -4453,9 +4681,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6152,
-      "lng": -74.415,
-      "geo_precision": "zip"
+      "lat": 40.619117,
+      "lng": -74.421438,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "plantabis-rahway",
@@ -4472,9 +4701,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6087,
-      "lng": -74.2819,
-      "geo_precision": "zip"
+      "lat": 40.608176,
+      "lng": -74.259866,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "plantopia-englishtown",
@@ -4492,9 +4722,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2825,
-      "lng": -74.3424,
-      "geo_precision": "zip"
+      "lat": 40.297147,
+      "lng": -74.358479,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ppp-dispensary-atlantic-city",
@@ -4511,9 +4742,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.354096,
+      "lng": -74.448063,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "premo-keyport",
@@ -4530,9 +4762,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.4332,
-      "lng": -74.1996,
-      "geo_precision": "zip"
+      "lat": 40.43758,
+      "lng": -74.201928,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "premo-dover-dover",
@@ -4549,9 +4782,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9176,
-      "lng": -74.5467,
-      "geo_precision": "zip"
+      "lat": 40.885224,
+      "lng": -74.546999,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "public-absecon-absecon",
@@ -4568,9 +4802,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.4218,
-      "lng": -74.4949,
-      "geo_precision": "zip"
+      "lat": 39.438483,
+      "lng": -74.517849,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "puffin-store-new-brunswick",
@@ -4587,9 +4822,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.4891,
-      "lng": -74.4482,
-      "geo_precision": "zip"
+      "lat": 40.495691,
+      "lng": -74.44405,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "pure-blossom-pennington",
@@ -4607,9 +4843,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.3339,
-      "lng": -74.7944,
-      "geo_precision": "zip"
+      "lat": 40.307555,
+      "lng": -74.785542,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "pure-natural-vibes-west-orange",
@@ -4627,9 +4864,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7859,
-      "lng": -74.2568,
-      "geo_precision": "zip"
+      "lat": 40.790793,
+      "lng": -74.254855,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "quality-cannabliss-blackwood",
@@ -4647,9 +4885,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7901,
-      "lng": -75.0367,
-      "geo_precision": "zip"
+      "lat": 39.828196,
+      "lng": -75.064113,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "quality-roots-marlton",
@@ -4666,9 +4905,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8845,
-      "lng": -74.9067,
-      "geo_precision": "zip"
+      "lat": 39.895704,
+      "lng": -74.942164,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "queen-city-remedies-plainfield",
@@ -4685,9 +4925,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6323,
-      "lng": -74.3997,
-      "geo_precision": "zip"
+      "lat": 40.632849,
+      "lng": -74.396451,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "red-oak-dispensary-absecon",
@@ -4704,9 +4945,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.4218,
-      "lng": -74.4949,
-      "geo_precision": "zip"
+      "lat": 39.428088,
+      "lng": -74.505593,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "releaf-cannabis-williamstown",
@@ -4723,9 +4965,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.665,
-      "lng": -74.971,
-      "geo_precision": "zip"
+      "lat": 39.675745,
+      "lng": -74.980508,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "releaf-newton-newton",
@@ -4742,9 +4985,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.0695,
-      "lng": -74.8069,
-      "geo_precision": "zip"
+      "lat": 41.063116,
+      "lng": -74.755751,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "restore-nj-glassboro",
@@ -4763,9 +5007,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7068,
-      "lng": -75.1172,
-      "geo_precision": "zip"
+      "lat": 39.720109,
+      "lng": -75.106226,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "ript-jersey-city",
@@ -4784,9 +5029,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7321,
-      "lng": -74.066,
-      "geo_precision": "zip"
+      "lat": 40.737929,
+      "lng": -74.077929,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "rise-bloomfield",
@@ -4805,9 +5051,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.8035,
-      "lng": -74.1891,
-      "geo_precision": "zip"
+      "lat": 40.782828,
+      "lng": -74.1918,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "rise-paramus",
@@ -4826,9 +5073,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.9477,
-      "lng": -74.0672,
-      "geo_precision": "zip"
+      "lat": 40.917387,
+      "lng": -74.059289,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "rise-paterson",
@@ -4847,9 +5095,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.9248,
-      "lng": -74.1467,
-      "geo_precision": "zip"
+      "lat": 40.936527,
+      "lng": -74.143059,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "roll-models-roselle",
@@ -4864,9 +5113,10 @@
       "license_types": [],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.653,
-      "lng": -74.261,
-      "geo_precision": "zip"
+      "lat": 40.644441,
+      "lng": -74.255482,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "rollin-green-atlantic-city",
@@ -4883,9 +5133,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.365673,
+      "lng": -74.424259,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "roots-dispensary-willingboro",
@@ -4904,9 +5155,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.029,
-      "lng": -74.8835,
-      "geo_precision": "zip"
+      "lat": 40.056581,
+      "lng": -74.887887,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "rushbudz-dispensary-south-bound-brook",
@@ -4923,9 +5175,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.5523,
-      "lng": -74.5311,
-      "geo_precision": "zip"
+      "lat": 40.554213,
+      "lng": -74.525032,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "ruuted-englishtown",
@@ -4942,9 +5195,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.2825,
-      "lng": -74.3424,
-      "geo_precision": "zip"
+      "lat": 40.295408,
+      "lng": -74.358282,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sage-dispensary-mt-laurel-township",
@@ -4961,9 +5215,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9478,
-      "lng": -74.9036,
-      "geo_precision": "zip"
+      "lat": 39.924524,
+      "lng": -74.951479,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "salt-air-botanicals-atlantic-city",
@@ -4981,9 +5236,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.364928,
+      "lng": -74.426097,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sanctuary-cannabis-scotch-plains",
@@ -5002,9 +5258,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.6379,
-      "lng": -74.3682,
-      "geo_precision": "zip"
+      "lat": 40.665815,
+      "lng": -74.385022,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "scarlet-reserve-room-englishtown",
@@ -5021,9 +5278,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.2825,
-      "lng": -74.3424,
-      "geo_precision": "zip"
+      "lat": 40.296343,
+      "lng": -74.357825,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sea-leaf-north-cape-may",
@@ -5040,9 +5298,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 38.9711,
-      "lng": -74.9214,
-      "geo_precision": "zip"
+      "lat": 38.974905,
+      "lng": -74.942683,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "shipwreckd-neptune-city",
@@ -5059,9 +5318,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2096,
-      "lng": -74.0714,
-      "geo_precision": "zip"
+      "lat": 40.205675,
+      "lng": -74.046301,
+      "geo_precision": "address",
+      "geo_source": "osm"
     },
     {
       "id": "shore-house-canna-cape-may",
@@ -5078,9 +5338,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 38.9711,
-      "lng": -74.9214,
-      "geo_precision": "zip"
+      "lat": 38.935415,
+      "lng": -74.932251,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "silverleaf-wellness-somerset",
@@ -5101,7 +5362,8 @@
       "consumption_area": false,
       "lat": 40.5007,
       "lng": -74.5013,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "simply-pure-trenton-ewing-township",
@@ -5118,9 +5380,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.251,
-      "lng": -74.7627,
-      "geo_precision": "zip"
+      "lat": 40.240875,
+      "lng": -74.754363,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sky-cannabis-hopewell",
@@ -5137,9 +5400,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3902,
-      "lng": -74.771,
-      "geo_precision": "zip"
+      "lat": 40.390559,
+      "lng": -74.75729,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "social-dispensary-bridgeton",
@@ -5157,9 +5421,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3762,
-      "lng": -75.1617,
-      "geo_precision": "zip"
+      "lat": 39.444714,
+      "lng": -75.221388,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "somerset-green-somerset",
@@ -5176,9 +5441,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.484657,
+      "lng": -74.476076,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "soulflora-newfoundland",
@@ -5195,9 +5461,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 41.0647,
-      "lng": -74.4359,
-      "geo_precision": "zip"
+      "lat": 41.047872,
+      "lng": -74.440935,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sparkology-franklin-park",
@@ -5214,9 +5481,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4421,
-      "lng": -74.5369,
-      "geo_precision": "zip"
+      "lat": 40.432846,
+      "lng": -74.548451,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "spot-23-llc-newfoundland",
@@ -5234,9 +5502,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.0647,
-      "lng": -74.4359,
-      "geo_precision": "zip"
+      "lat": 41.048257,
+      "lng": -74.440578,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "springfield-ave-dispensary-irvington",
@@ -5253,9 +5522,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7261,
-      "lng": -74.2313,
-      "geo_precision": "zip"
+      "lat": 40.725964,
+      "lng": -74.232276,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "star-leaf-dispensary-wrightstown",
@@ -5272,9 +5542,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.072,
-      "lng": -74.5731,
-      "geo_precision": "zip"
+      "lat": 40.03663,
+      "lng": -74.605591,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "story-dispensary-of-springfield-springfield",
@@ -5291,9 +5562,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7015,
-      "lng": -74.3227,
-      "geo_precision": "zip"
+      "lat": 40.687376,
+      "lng": -74.316346,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sunnytien-atlantic-city",
@@ -5310,9 +5582,10 @@
       ],
       "delivery": true,
       "consumption_area": true,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.353651,
+      "lng": -74.448829,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sussex-pharms-sussex",
@@ -5330,9 +5603,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 41.2292,
-      "lng": -74.5992,
-      "geo_precision": "zip"
+      "lat": 41.209076,
+      "lng": -74.607869,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sweet-leafs-llc-atlantic-city",
@@ -5349,9 +5623,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.361541,
+      "lng": -74.427602,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sweet-spot-voorhees-township",
@@ -5370,9 +5645,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8504,
-      "lng": -74.9646,
-      "geo_precision": "zip"
+      "lat": 39.848373,
+      "lng": -74.988325,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sweetspot-dispensary-hamilton-hamilton-township",
@@ -5389,9 +5665,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2418,
-      "lng": -74.6962,
-      "geo_precision": "zip"
+      "lat": 40.249795,
+      "lng": -74.688581,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "sweetspot-river-edge-river-edge",
@@ -5410,7 +5687,8 @@
       "consumption_area": false,
       "lat": 40.9265,
       "lng": -74.0392,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "taste-of-earth-buena",
@@ -5428,9 +5706,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.537,
-      "lng": -74.8895,
-      "geo_precision": "zip"
+      "lat": 39.512739,
+      "lng": -74.929931,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-botanist-collingswood",
@@ -5449,9 +5728,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9157,
-      "lng": -75.0634,
-      "geo_precision": "zip"
+      "lat": 39.921759,
+      "lng": -75.087018,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-botanist-egg-harbor-township",
@@ -5470,9 +5750,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3741,
-      "lng": -74.6118,
-      "geo_precision": "zip"
+      "lat": 39.418612,
+      "lng": -74.555271,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-botanist-williamstown",
@@ -5491,9 +5772,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.665,
-      "lng": -74.971,
-      "geo_precision": "zip"
+      "lat": 39.719096,
+      "lng": -75.022341,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-cannabis-place-jersey-city",
@@ -5510,9 +5792,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.702,
-      "lng": -74.089,
-      "geo_precision": "zip"
+      "lat": 40.69414,
+      "lng": -74.100382,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-cannabist-deptford",
@@ -5531,9 +5814,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7539,
-      "lng": -74.996,
-      "geo_precision": "zip"
+      "lat": 39.833089,
+      "lng": -75.101409,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-cannabist-mays-landing",
@@ -5552,9 +5836,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.432,
-      "lng": -74.6962,
-      "geo_precision": "zip"
+      "lat": 39.45234,
+      "lng": -74.64715,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-cannabist-vineland",
@@ -5573,9 +5858,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.4818,
-      "lng": -75.0091,
-      "geo_precision": "zip"
+      "lat": 39.502528,
+      "lng": -75.04197,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-frosted-nug-at-red-bank-red-bank",
@@ -5592,9 +5878,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3584,
-      "lng": -74.0681,
-      "geo_precision": "zip"
+      "lat": 40.349328,
+      "lng": -74.075235,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-g-factory-recreational-dispensary-camden",
@@ -5611,9 +5898,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9351,
-      "lng": -75.1117,
-      "geo_precision": "zip"
+      "lat": 39.923345,
+      "lng": -75.09035,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "the-grass-cab-maywood",
@@ -5630,9 +5918,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9024,
-      "lng": -74.0629,
-      "geo_precision": "zip"
+      "lat": 40.91614,
+      "lng": -74.063649,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-green-initiative-wenonah",
@@ -5649,9 +5938,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7993,
-      "lng": -75.1536,
-      "geo_precision": "zip"
+      "lat": 39.806164,
+      "lng": -75.167489,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-happy-farmer-lumberton-township",
@@ -5668,9 +5958,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.9651,
-      "lng": -74.8067,
-      "geo_precision": "zip"
+      "lat": 39.936984,
+      "lng": -74.852466,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-healing-side-atlantic-city",
@@ -5688,9 +5979,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.355462,
+      "lng": -74.439852,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-honorable-plant-highlands",
@@ -5707,9 +5999,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.4037,
-      "lng": -73.9915,
-      "geo_precision": "zip"
+      "lat": 40.400629,
+      "lng": -73.985538,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-jersey-joint-dispensary-glassboro",
@@ -5726,9 +6019,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7068,
-      "lng": -75.1172,
-      "geo_precision": "zip"
+      "lat": 39.702358,
+      "lng": -75.10693,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-leaf-and-seed-dispensary-clementon",
@@ -5746,9 +6040,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.8036,
-      "lng": -75.0058,
-      "geo_precision": "zip"
+      "lat": 39.806633,
+      "lng": -74.969284,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-library-of-new-jersey-west-orange",
@@ -5766,9 +6061,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7859,
-      "lng": -74.2568,
-      "geo_precision": "zip"
+      "lat": 40.784714,
+      "lng": -74.226688,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-medicine-woman-jersey-city",
@@ -5785,9 +6081,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7482,
-      "lng": -74.0498,
-      "geo_precision": "zip"
+      "lat": 40.752833,
+      "lng": -74.057228,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-next-chapter-market-ocean-township",
@@ -5804,9 +6101,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2507,
-      "lng": -74.0486,
-      "geo_precision": "zip"
+      "lat": 40.237004,
+      "lng": -74.046402,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-other-side-dispensary-jersey-city",
@@ -5824,9 +6122,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7482,
-      "lng": -74.0498,
-      "geo_precision": "zip"
+      "lat": 40.749174,
+      "lng": -74.04145,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-retreat-jersey-city-dispensary-jersey-city",
@@ -5843,9 +6142,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.718,
-      "lng": -74.0754,
-      "geo_precision": "zip"
+      "lat": 40.716467,
+      "lng": -74.064391,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-social-leaf-toms-river",
@@ -5865,7 +6165,8 @@
       "consumption_area": false,
       "lat": 39.9715,
       "lng": -74.2512,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "the-station-hoboken",
@@ -5884,9 +6185,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7445,
-      "lng": -74.0329,
-      "geo_precision": "zip"
+      "lat": 40.736463,
+      "lng": -74.029104,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-station-dispensary-newark",
@@ -5904,9 +6206,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7082,
-      "lng": -74.1891,
-      "geo_precision": "zip"
+      "lat": 40.718674,
+      "lng": -74.177937,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-thc-shop-atlantic-city",
@@ -5924,9 +6227,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.3664,
-      "lng": -74.4317,
-      "geo_precision": "zip"
+      "lat": 39.36034,
+      "lng": -74.432339,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "the-wildflower-market-eatontown",
@@ -5944,9 +6248,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3028,
-      "lng": -74.0698,
-      "geo_precision": "zip"
+      "lat": 40.283987,
+      "lng": -74.092637,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "theo-a-cannabis-franklin-park",
@@ -5965,9 +6270,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4421,
-      "lng": -74.5369,
-      "geo_precision": "zip"
+      "lat": 40.438211,
+      "lng": -74.536591,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "theory-wellness-trenton",
@@ -5986,9 +6292,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.251,
-      "lng": -74.7627,
-      "geo_precision": "zip"
+      "lat": 40.23406,
+      "lng": -74.750897,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "timber-5-somerset",
@@ -6006,9 +6313,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.491525,
+      "lng": -74.472837,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "toke-lane-trenton-trenton",
@@ -6027,9 +6335,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2204,
-      "lng": -74.7622,
-      "geo_precision": "zip"
+      "lat": 40.21651,
+      "lng": -74.762718,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "township-green-riverside",
@@ -6047,9 +6356,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0293,
-      "lng": -74.9497,
-      "geo_precision": "zip"
+      "lat": 40.037989,
+      "lng": -74.959245,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "tree-house-co-op-dispensary-voorhees-township",
@@ -6069,7 +6379,8 @@
       "consumption_area": false,
       "lat": 39.8504,
       "lng": -74.9646,
-      "geo_precision": "zip"
+      "geo_precision": "zip",
+      "geo_source": "zipcodes"
     },
     {
       "id": "treeotics-newark",
@@ -6087,9 +6398,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7107,
-      "lng": -74.2131,
-      "geo_precision": "zip"
+      "lat": 40.715273,
+      "lng": -74.224117,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "twisted-hat-cannabis-carneys-point",
@@ -6107,9 +6419,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.6994,
-      "lng": -75.4495,
-      "geo_precision": "zip"
+      "lat": 39.692417,
+      "lng": -75.48406,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "uforia-dispensary-jersey-city",
@@ -6127,9 +6440,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7482,
-      "lng": -74.0498,
-      "geo_precision": "zip"
+      "lat": 40.745663,
+      "lng": -74.048985,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "uma-flowers-morristown",
@@ -6147,9 +6461,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7952,
-      "lng": -74.4873,
-      "geo_precision": "zip"
+      "lat": 40.795972,
+      "lng": -74.471623,
+      "geo_precision": "street",
+      "geo_source": "osm"
     },
     {
       "id": "uncle-beez-greeneryz-penns-grove",
@@ -6166,9 +6481,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.6994,
-      "lng": -75.4495,
-      "geo_precision": "zip"
+      "lat": 39.724198,
+      "lng": -75.465257,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "union-chill-lambertville",
@@ -6185,9 +6501,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.3731,
-      "lng": -74.9266,
-      "geo_precision": "zip"
+      "lat": 40.37374,
+      "lng": -74.947438,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "unity-rd-cannabis-shop-maywood",
@@ -6204,9 +6521,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.9024,
-      "lng": -74.0629,
-      "geo_precision": "zip"
+      "lat": 40.887267,
+      "lng": -74.064787,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "unity-rd-cannabis-shop-somerset",
@@ -6223,9 +6541,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.5007,
-      "lng": -74.5013,
-      "geo_precision": "zip"
+      "lat": 40.529786,
+      "lng": -74.539943,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "urbn-dispensary-newark",
@@ -6244,9 +6563,10 @@
       ],
       "delivery": true,
       "consumption_area": true,
-      "lat": 40.7271,
-      "lng": -74.1563,
-      "geo_precision": "zip"
+      "lat": 40.718913,
+      "lng": -74.16221,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "urge-elizabeth",
@@ -6264,9 +6584,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.6717,
-      "lng": -74.2043,
-      "geo_precision": "zip"
+      "lat": 40.660146,
+      "lng": -74.206488,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "valley-wellness-raritan",
@@ -6285,9 +6606,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.5711,
-      "lng": -74.6377,
-      "geo_precision": "zip"
+      "lat": 40.574073,
+      "lng": -74.634301,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "vigor-dispensary-matawan",
@@ -6304,9 +6626,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.4109,
-      "lng": -74.238,
-      "geo_precision": "zip"
+      "lat": 40.399485,
+      "lng": -74.228344,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "vigor-dispensary-tinton-falls-tinton-falls",
@@ -6323,9 +6646,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.2096,
-      "lng": -74.0714,
-      "geo_precision": "zip"
+      "lat": 40.23444,
+      "lng": -74.110096,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "village-hoboken-hoboken",
@@ -6342,9 +6666,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.7445,
-      "lng": -74.0329,
-      "geo_precision": "zip"
+      "lat": 40.742453,
+      "lng": -74.029448,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "voltaire-nj-mt-holly",
@@ -6361,9 +6686,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0086,
-      "lng": -74.7896,
-      "geo_precision": "zip"
+      "lat": 39.99315,
+      "lng": -74.785804,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "west-orange-wellness-west-orange",
@@ -6380,9 +6706,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.7859,
-      "lng": -74.2568,
-      "geo_precision": "zip"
+      "lat": 40.765857,
+      "lng": -74.251424,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "woodbury-wellness-woodbury",
@@ -6399,9 +6726,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 39.7539,
-      "lng": -74.996,
-      "geo_precision": "zip"
+      "lat": 39.847909,
+      "lng": -75.145183,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "xena-nj-jersey-city",
@@ -6418,9 +6746,10 @@
       ],
       "delivery": false,
       "consumption_area": true,
-      "lat": 40.702,
-      "lng": -74.089,
-      "geo_precision": "zip"
+      "lat": 40.725322,
+      "lng": -74.068226,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "zacate-delran",
@@ -6437,9 +6766,10 @@
       ],
       "delivery": false,
       "consumption_area": false,
-      "lat": 40.0293,
-      "lng": -74.9497,
-      "geo_precision": "zip"
+      "lat": 40.013914,
+      "lng": -74.958463,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "zen-leaf-elizabeth",
@@ -6458,9 +6788,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.6717,
-      "lng": -74.2043,
-      "geo_precision": "zip"
+      "lat": 40.662995,
+      "lng": -74.206389,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "zen-leaf-lawrence-township",
@@ -6479,9 +6810,10 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.2171,
-      "lng": -74.7429,
-      "geo_precision": "zip"
+      "lat": 40.289768,
+      "lng": -74.688241,
+      "geo_precision": "address",
+      "geo_source": "census"
     },
     {
       "id": "zen-leaf-neptune-township",
@@ -6502,7 +6834,8 @@
       "consumption_area": false,
       "lat": 40.2096,
       "lng": -74.0714,
-      "geo_precision": "city"
+      "geo_precision": "city",
+      "geo_source": "zipcodes"
     },
     {
       "id": "zen-leaf-mount-holly-mt-holly",
@@ -6519,10 +6852,11 @@
       ],
       "delivery": true,
       "consumption_area": false,
-      "lat": 40.0086,
-      "lng": -74.7896,
-      "geo_precision": "zip"
+      "lat": 40.007652,
+      "lng": -74.797586,
+      "geo_precision": "address",
+      "geo_source": "census"
     }
   ],
-  "geo_note": "lat/lng are ZIP-code centre points (rough, usually within ~1-2 miles), not exact addresses"
+  "geo_note": "lat/lng from the US Census geocoder or OpenStreetMap (geo_precision \"address\" = the address itself, \"street\" = on the right street), otherwise the ZIP code or town centre (\"zip\"/\"city\")"
 }

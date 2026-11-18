@@ -47,7 +47,7 @@ function page(store, section, repo) {
 <link rel="stylesheet" href="../assets/display.css">
 </head>
 <body data-store="${esc(store.id)}" data-store-theme="${esc(d.theme || store.id)}"
-      data-category="${esc(section.title)}" data-sources="${esc(sources)}"
+      data-category="${esc(section.title)}" data-sources="${esc(sources)}"${d.rotate ? ` data-rotate="${Number(d.rotate)}"` : ''}
       style="--accent: ${esc(a1)}; --accent-2: ${esc(a2)};${d.background ? ` --pattern: url(../${esc(d.background)});` : ''}"${d.background ? ' class="has-pattern"' : ''}>
 <div id="stage">
   <div class="glow one"></div>
