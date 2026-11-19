@@ -1,0 +1,26 @@
+{
+  "id": "gsng",
+  "name": "GSNG",
+  "listing": "garden-state-natural-green-kingston",
+  "platform": "dispense",
+  "menuUrl": "https://gsngdispensary.com/",
+  "productUrl": null,
+  "sections": [
+    {
+      "id": "on-the-go",
+      "title": "On The Go",
+      "type": "list",
+      "path": "shop/categories/on-the-go",
+      "tagline": "Marked way down. Grab it while it lasts.",
+      "accent": [
+        "#7fd34a",
+        "#f4c96b"
+      ]
+    }
+  ],
+  "display": {
+    "theme": "gsng",
+    "emblem": "assets/stores/gsng/emblem.svg",
+    "wordmarkText": "GSNG"
+  }
+}

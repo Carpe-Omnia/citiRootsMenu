@@ -6,9 +6,12 @@
 //   node scrape.js got-your-six     scrape one store (or several, space-separated)
 //   node scrape.js --headed         show the browser while it runs
 //
-// Section types (all Dutchie menus share these building blocks):
-//   "list"      a product list page, e.g. path "collections/new-items"
-//   "carousel"  a carousel on the menu home page, by its Dutchie id, e.g. "staff-picks"
+// Menu platforms ("platform" in the store config):
+//   "dutchie" (default)
+//     "list"      a product list page, e.g. path "collections/new-items"
+//     "carousel"  a carousel on the menu home page, by its Dutchie id, e.g. "staff-picks"
+//   "dispense"
+//     "list"      a category page, e.g. path "shop/categories/on-the-go"
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
@@ -119,6 +122,67 @@ function extractCards(cards, ctx) {
   });
 }
 
+// Dispense menus (cards marked data-testid="card-inner"). Runs in the page.
+function extractDispenseCards(cards, ctx) {
+  return cards.map(card => {
+    const q = sel => card.querySelector(sel);
+    const text = sel => q(sel)?.textContent.trim() || '';
+    let name = text('[data-testid^="product-name-"]');
+    // "Brand | Strain | Type | 1g" is the norm; some use " - " instead, so match it
+    if (!name.includes(' | ') && name.split(' - ').length > 2) name = name.split(' - ').join(' | ');
+    // Brand is sometimes left blank; then it is the first part of the name
+    let brand = text('[data-testid^="product-card-brand-name-"]');
+    if (!brand && name.includes(' | ')) brand = name.split(' | ')[0];
+    const strainText = text('[data-testid^="product-card-cannabis-type-tag-"]');
+    const line = q('[data-testid="product-card-cannabinoid-line"]')?.innerText || '';
+    const m = line.match(/\b(THCa?)\s*([\d.]+\s*%)/i);
+    const thc = m ? (m[1].toUpperCase() === 'THC' ? m[2] : 'THCa ' + m[2]) : null;
+    // Price row: "1g · $60.00 $24.00" when on sale (original, then sale), else one price
+    const priceRow = q('[data-testid^="variant-weight-"]')?.parentElement?.innerText || '';
+    const amounts = priceRow.match(/\$[\d,]+(\.\d+)?/g) || [];
+    const price = amounts.length ? amounts[amounts.length - 1] : null;
+    const was = amounts.length > 1 ? amounts[0] : null;
+    const num = s => parseFloat(String(s).replace(/[$,]/g, ''));
+    let deal = null;
+    if (was && price && num(was) > num(price)) {
+      const badge = q('a[data-testid="product-card-menu-link-body"] > div')?.textContent.trim() || '';
+      deal = /off/i.test(badge) ? badge.replace(/off/i, 'off') : Math.round((1 - num(price) / num(was)) * 100) + '% off';
+    }
+    const link = q('a[data-testid="product-card-menu-link-body"]') || q('a[href]');
+    const img = q('img');
+    return {
+      name: name || null,
+      brand: brand || null,
+      img: img ? (img.currentSrc || img.src) : null,
+      price,
+      was: deal ? was : null,
+      deal,
+      thc,
+      strain: /indica|sativa|hybrid/i.test(strainText) ? strainText : null,
+      category: ctx.category,
+      url: link ? link.href : null,
+    };
+  });
+}
+
+async function scrapeDispenseList(page, store, section) {
+  const CARD = '[data-testid="card-inner"]';
+  const frame = await openWithRetry(page, store, joinUrl(store.menuUrl, section.path), CARD, section.title);
+  // Cards render as you scroll: wheel down until the count stops growing.
+  await page.mouse.move(640, 450);
+  let last = -1, stable = 0;
+  for (let i = 0; i < 40 && stable < 3; i++) {
+    await page.mouse.wheel(0, 900);
+    await page.waitForTimeout(800);
+    const n = await frame.locator(CARD).count();
+    stable = n === last ? stable + 1 : 0;
+    last = n;
+  }
+  await frame.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+  await page.waitForTimeout(1500);
+  return frame.$$eval(CARD, extractDispenseCards, { category: section.title });
+}
+
 // Carousels can loop around and show the same product twice.
 function dedupe(items) {
   const seen = new Set();
@@ -226,11 +290,17 @@ async function scrapeStore(browser, store) {
 
   try {
     const bySection = {};
-    for (const section of store.sections.filter(s => s.type === 'list')) {
-      bySection[section.id] = await scrapeList(page, store, section);
+    if (store.platform === 'dispense') {
+      for (const section of store.sections) {
+        bySection[section.id] = await scrapeDispenseList(page, store, section);
+      }
+    } else {
+      for (const section of store.sections.filter(s => s.type === 'list')) {
+        bySection[section.id] = await scrapeList(page, store, section);
+      }
+      Object.assign(bySection,
+        await scrapeCarousels(page, store, store.sections.filter(s => s.type === 'carousel')));
     }
-    Object.assign(bySection,
-      await scrapeCarousels(page, store, store.sections.filter(s => s.type === 'carousel')));
 
     const products = [];
     let fresh = 0;

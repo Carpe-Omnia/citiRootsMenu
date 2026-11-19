@@ -223,6 +223,7 @@
         '<div class="photo">' +
           '<img alt="' + esc(n.title) + '" data-src="' + esc(bigImage(p.img)) + '" data-fallback="' + esc(p.img || '') + '">' +
           (strain ? '<span class="strain" data-strain="' + kind + '">' + esc(strain) + '</span>' : '') +
+          (p.deal ? '<span class="deal">' + esc(p.deal) + '</span>' : '') +
         '</div>' +
         '<div class="panel">' +
           (p.brand ? '<div class="brand">' + esc(p.brand) + '</div>' : '') +
@@ -230,7 +231,8 @@
           (n.details ? '<div class="details">' + esc(n.details) + '</div>' : '') +
           '<div class="price-row">' +
             (p.price ? '<span class="price">' + esc(p.price) + '</span>' : '') +
-            (p.thc ? '<span class="thc">THC ' + esc(p.thc) + '</span>' : '') +
+            (p.was ? '<s class="was">' + esc(p.was) + '</s>' : '') +
+            (p.thc ? '<span class="thc">' + esc(/^[a-z]/i.test(p.thc) ? p.thc : 'THC ' + p.thc) + '</span>' : '') +
           '</div>' +
           (link ? '<a class="cta" href="' + esc(link) + '" target="_blank" rel="noopener">View product at ' + esc(s.name) +
             ' <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.4l-9.3 9.3-1.4-1.4L17.6 5H14V3zM5 5h6v2H7v10h10v-4h2v6H5V5z"/></svg></a>' : '') +

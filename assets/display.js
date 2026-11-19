@@ -151,6 +151,9 @@
     return { title: parts[0] || p.name, details: parts.slice(1).join('  ·  ') };
   }
 
+  // "88%" -> "THC 88%"; values that already say what they are ("THCa 61%") stay as they are
+  function thcLabel(t) { return !t ? '' : /^[a-z]/i.test(t) ? t : 'THC ' + t; }
+
   function qrSvg(url) {
     if (!url || typeof qrcode === 'undefined') return '';
     var qr = qrcode(0, 'M');
@@ -168,7 +171,7 @@
       '<div class="panel">' +
         '<div class="info"><div class="brand"></div><div class="name"></div><div class="details"></div></div>' +
         '<div class="bottom">' +
-          '<div class="price-block"><div class="price"></div><div class="thc"></div></div>' +
+          '<div class="price-block"><div class="deal"><s class="was"></s><span class="off"></span></div><div class="price"></div><div class="thc"></div></div>' +
           '<div class="qr-block"><div class="qr"></div><div class="qr-label">Scan to shop</div></div>' +
         '</div>' +
       '</div>';
@@ -195,7 +198,11 @@
     layer.querySelector('.name').textContent = n.title;
     layer.querySelector('.details').textContent = n.details;
     layer.querySelector('.price').textContent = p.price || '';
-    layer.querySelector('.thc').textContent = p.thc ? 'THC ' + p.thc : '';
+    layer.querySelector('.thc').textContent = thcLabel(p.thc);
+    // Sale: "was $60  ·  60% off" above the price
+    layer.querySelector('.was').textContent = p.was || '';
+    layer.querySelector('.off').textContent = p.deal || '';
+    layer.querySelector('.deal').style.display = (p.was || p.deal) ? '' : 'none';
     // Strain pill only for Indica / Sativa / Hybrid; hidden for everything else
     var strainEl = layer.querySelector('.strain');
     var strain = /indica|sativa|hybrid/i.test(p.strain || '') ? p.strain : '';

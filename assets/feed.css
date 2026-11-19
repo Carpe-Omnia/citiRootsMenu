@@ -188,6 +188,19 @@ a { color: inherit; }
   background: #1c2a22;
   color: #c9f7d9;
 }
+.photo .deal {
+  position: absolute;
+  top: 12px; right: 12px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #e5484d;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.price-row .was { color: rgba(246, 241, 228, 0.55); font-size: 18px; font-weight: 600; }
 .strain[data-strain="indica"] { background: #4b2a7a; color: #e6d6ff; }
 .strain[data-strain="sativa"] { background: #8a4a12; color: #ffe2bf; }
 .strain[data-strain="hybrid"] { background: #145c3a; color: #c9f7d9; }
@@ -254,6 +267,15 @@ a { color: inherit; }
     radial-gradient(90% 60% at 100% 10%, rgba(47, 192, 196, 0.18), transparent 60%),
     linear-gradient(170deg, #123426, #0b2218 55%, #071a12);
 }
+
+/* ===== Store theme: GSNG (navy and leaf green) ===== */
+.card[data-theme="gsng"] {
+  background:
+    radial-gradient(120% 70% at 15% 0%, rgba(255, 255, 255, 0.07), transparent 60%),
+    radial-gradient(90% 60% at 100% 10%, rgba(90, 182, 47, 0.2), transparent 60%),
+    linear-gradient(170deg, #17284d, #0e1a35 55%, #0a1228);
+}
+.card[data-theme="gsng"] .store-name { font-family: "Outfit", sans-serif; letter-spacing: 0.24em; font-weight: 700; }
 
 /* ===== Store theme: Got Your Six (army jacket) ===== */
 .card[data-theme="got-your-six"] {

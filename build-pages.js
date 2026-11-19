@@ -35,6 +35,10 @@ function page(store, section, repo) {
   const [a1, a2] = section.accent || ['#c8f169', '#8fd14f'];
   const emblem = d.emblem
     ? `\n    <div class="emblem"><img src="../${esc(d.emblem)}" alt=""></div>` : '';
+  // Logo image, or the store's name set in type when there is no logo file
+  const wordmark = d.wordmark
+    ? `<img class="wordmark" src="../${esc(d.wordmark)}" alt="${esc(store.name)}">`
+    : `<span class="wordmark-text">${esc(d.wordmarkText || store.name)}</span>`;
   // Optional large, faint brand mark behind everything
   const watermark = d.watermark
     ? `\n  <div class="watermark"><img src="../${esc(d.watermark)}" alt=""></div>` : '';
@@ -53,7 +57,7 @@ function page(store, section, repo) {
   <div class="glow one"></div>
   <div class="glow two"></div>${watermark}
   <header>
-    <div class="eyebrow"><img class="wordmark" src="../${esc(d.wordmark)}" alt="${esc(store.name)}"><span class="rule"></span><span class="count"></span></div>${emblem}
+    <div class="eyebrow">${wordmark}<span class="rule"></span><span class="count"></span></div>${emblem}
     <h1>${titleHtml(section.title)}</h1>
     <p class="tagline">${esc(section.tagline || '')}</p>
   </header>

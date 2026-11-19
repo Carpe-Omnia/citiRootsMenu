@@ -13,7 +13,8 @@
       "display": {
         "theme": "citi-roots",
         "wordmark": "assets/stores/citi-roots/wordmark.svg",
-        "emblem": "assets/stores/citi-roots/emblem.svg"
+        "emblem": "assets/stores/citi-roots/emblem.svg",
+        "rotate": 90
       },
       "sections": [
         {
@@ -86,6 +87,33 @@
         }
       ],
       "products": "data/got-your-six/products.json"
+    },
+    {
+      "id": "gsng",
+      "name": "GSNG",
+      "listing": "garden-state-natural-green-kingston",
+      "address": "4597 NJ-27, Kingston, NJ 08528",
+      "city": "Kingston",
+      "lat": 40.375122,
+      "lng": -74.615045,
+      "website": "https://gstate.co/",
+      "phone": "(609) 580-8522",
+      "display": {
+        "theme": "gsng",
+        "emblem": "assets/stores/gsng/emblem.svg",
+        "wordmarkText": "GSNG"
+      },
+      "sections": [
+        {
+          "id": "on-the-go",
+          "title": "On The Go",
+          "accent": [
+            "#7fd34a",
+            "#f4c96b"
+          ]
+        }
+      ],
+      "products": "data/gsng/products.json"
     }
   ]
 }
