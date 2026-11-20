@@ -88,17 +88,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-diamond-bar-disposable-vape-1g"
   },
   {
-    "name": "Gillie's Galaxy | Joint Custody",
-    "brand": "Harvest Moon Farms",
-    "img": "https://images.dutchie.com/dd2f6b237bc3ea3069db9666d1f35362?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$38.50",
-    "thc": "27.24%",
-    "strain": "Hybrid",
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgillie-s-galaxy-joint-custody",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/gillie-s-galaxy-joint-custody"
-  },
-  {
     "name": "Clade9 | Blue Dream | 1g AIO",
     "brand": "Clade9",
     "img": "https://images.dutchie.com/a55332d04ec38b6f013feb698da2ad42?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -110,17 +99,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-blue-dream-1g-aio"
   },
   {
-    "name": "My Dad's Stash | TangiLand | 3.5g",
-    "brand": "My Dad's Stash",
-    "img": "https://images.dutchie.com/377be5b5a5f186e3377ab9850e99d932?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$35.00",
-    "thc": "27.86%",
-    "strain": "Sativa-Hybrid",
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-tangiland-3-5g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-tangiland-3-5g"
-  },
-  {
     "name": "Lost Farm | Live Resin Gummies | Juicy Peach  x GSC Sherbet | 10pk",
     "brand": "Lost Farm",
     "img": "https://images.dutchie.com/7ca908b9698171672e100e6e171d2705?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -130,6 +108,17 @@
     "category": "Staff Picks",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Flost-farm-live-resin-gummies-juicy-peach-x-gsc-sherbet-10pk",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/lost-farm-live-resin-gummies-juicy-peach-x-gsc-sherbet-10pk"
+  },
+  {
+    "name": "My Dad's Stash | TangiLand | 3.5g",
+    "brand": "My Dad's Stash",
+    "img": "https://images.dutchie.com/377be5b5a5f186e3377ab9850e99d932?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$35.00",
+    "thc": "27.86%",
+    "strain": "Sativa-Hybrid",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-tangiland-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-tangiland-3-5g"
   },
   {
     "name": "Lost Farm | Strawberry Lemonade x Hazy Cookies [10pk] (100mg)",
@@ -176,26 +165,15 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/turtle-pie-x-rose-3-5g"
   },
   {
-    "name": "OGeez! Big Peg's Happy Balance 1:1 THC:CBD Gummies 2x50mg",
-    "brand": "OGeez!",
-    "img": "https://images.dutchie.com/2bcdfd21c6f6c1344f02ff73d02a4862?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$8.40",
-    "thc": "10.42%",
-    "strain": null,
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fogeez-big-peg-s-happy-balance-1-1-thc-cbd-gummies-2x50mg",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/ogeez-big-peg-s-happy-balance-1-1-thc-cbd-gummies-2x50mg"
-  },
-  {
-    "name": "Shnicks Shnacks | Cinnamon Crunch | Cloud Bar 10mg",
-    "brand": "Shnicks Shnacks",
-    "img": "https://images.dutchie.com/02e746fc26057cbaf44f1bfcc509f07c?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$5.00",
-    "thc": "10 mg",
+    "name": "Gillie's Galaxy | Joint Custody",
+    "brand": "Harvest Moon Farms",
+    "img": "https://images.dutchie.com/dd2f6b237bc3ea3069db9666d1f35362?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$38.50",
+    "thc": "27.24%",
     "strain": "Hybrid",
     "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fshnicks-shnacks-cinnamon-crunch-cloud-bar-10mg",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/shnicks-shnacks-cinnamon-crunch-cloud-bar-10mg"
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgillie-s-galaxy-joint-custody",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/gillie-s-galaxy-joint-custody"
   },
   {
     "name": "Made | Gelonade | 3.5g",
