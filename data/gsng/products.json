@@ -84,6 +84,18 @@
     "url": "https://gsngdispensary.com/shop/select/select-flavor-series-briq-2-unicorn-piss-aio-1g"
   },
   {
+    "name": "Select Legacy Series Briq 2 | Amnesia Haze | AIO | 1g",
+    "brand": "Select",
+    "img": "https://dispense-images.imgix.net/0aaba19a525a5f415714a00c778e8084?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
+    "price": "$24.00",
+    "was": "$60.00",
+    "deal": "60% off",
+    "thc": "87%",
+    "strain": "Sativa",
+    "category": "On The Go",
+    "url": "https://gsngdispensary.com/shop/select/select-legacy-series-briq-2-amnesia-haze-aio-1g"
+  },
+  {
     "name": "Dr. Zodiak's Snowballz | Lynwood Lemonade | Infused Flower | 2g",
     "brand": "Dr. Zodiak",
     "img": "https://dispense-images.imgix.net/eb435d60f3689e31_b601d1a4-2fbb-412d-a6b6-b12ab8ad3646?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
@@ -94,17 +106,5 @@
     "strain": "Indica",
     "category": "On The Go",
     "url": "https://gsngdispensary.com/shop/dr-zodiak/dr-zodiak-lynwood-lemonade-snowball-infused-flower-2g"
-  },
-  {
-    "name": "Clade9 | Orange Push Pop | 5pk Pre-Rolls | 3.5g",
-    "brand": "Clade9",
-    "img": "https://dispense-images.imgix.net/e2075dbd8d4324f9_07fa35a7-7766-4616-baae-e1f60eb1ee2e?ixlib=js-2.3.2&fit=fill&h=300&w=300&quality=100&auto=format%2Ccompress&q=50&cs=tinysrgb",
-    "price": "$19.20",
-    "was": "$48.00",
-    "deal": "60% off",
-    "thc": "THCa 25.25%",
-    "strain": "Sativa",
-    "category": "On The Go",
-    "url": "https://gsngdispensary.com/shop/clade9/clade9-orange-push-pop-5pk-pre-rolls-35g"
   }
 ]
