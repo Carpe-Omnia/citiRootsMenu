@@ -88,6 +88,17 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-diamond-bar-disposable-vape-1g"
   },
   {
+    "name": "Lost Farm | Live Resin Gummies | Juicy Peach  x GSC Sherbet | 10pk",
+    "brand": "Lost Farm",
+    "img": "https://images.dutchie.com/7ca908b9698171672e100e6e171d2705?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$21.00",
+    "thc": "10 mg",
+    "strain": "Hybrid",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Flost-farm-live-resin-gummies-juicy-peach-x-gsc-sherbet-10pk",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/lost-farm-live-resin-gummies-juicy-peach-x-gsc-sherbet-10pk"
+  },
+  {
     "name": "Clade9 | Blue Dream | 1g AIO",
     "brand": "Clade9",
     "img": "https://images.dutchie.com/a55332d04ec38b6f013feb698da2ad42?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -99,28 +110,6 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-blue-dream-1g-aio"
   },
   {
-    "name": "Lost Farm | Live Resin Gummies | Juicy Peach  x GSC Sherbet | 10pk",
-    "brand": "Lost Farm",
-    "img": "https://images.dutchie.com/7ca908b9698171672e100e6e171d2705?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$21.00",
-    "thc": "9.9%",
-    "strain": "Hybrid",
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Flost-farm-live-resin-gummies-juicy-peach-x-gsc-sherbet-10pk",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/lost-farm-live-resin-gummies-juicy-peach-x-gsc-sherbet-10pk"
-  },
-  {
-    "name": "My Dad's Stash | TangiLand | 3.5g",
-    "brand": "My Dad's Stash",
-    "img": "https://images.dutchie.com/377be5b5a5f186e3377ab9850e99d932?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$35.00",
-    "thc": "27.86%",
-    "strain": "Sativa-Hybrid",
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-tangiland-3-5g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-tangiland-3-5g"
-  },
-  {
     "name": "Lost Farm | Strawberry Lemonade x Hazy Cookies [10pk] (100mg)",
     "brand": "Lost Farm",
     "img": "https://dutchie-images.s3.amazonaws.com/6434db01af20b7bebe8246fb7075f2a3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -130,17 +119,6 @@
     "category": "Staff Picks",
     "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Flost-farm-strawberry-lemonade-x-hazy-cookies-10pk-100mg",
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/lost-farm-strawberry-lemonade-x-hazy-cookies-10pk-100mg"
-  },
-  {
-    "name": "Doctor Solomon's Lotion 200mg | Rescue (THC Rich)",
-    "brand": "Doctor Solomon's",
-    "img": "https://images.dutchie.com/a08673c49ecb55d8e031c0f0766e33ba?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$42.00",
-    "thc": "0.03%",
-    "strain": null,
-    "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fdoctor-solomon-s-lotion-200mg-rescue-thc-rich",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/doctor-solomon-s-lotion-200mg-rescue-thc-rich"
   },
   {
     "name": "Cookies Small Batch | Blackberry Caviar | 3.5g",
@@ -165,15 +143,15 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/turtle-pie-x-rose-3-5g"
   },
   {
-    "name": "Gillie's Galaxy | Joint Custody",
-    "brand": "Harvest Moon Farms",
-    "img": "https://images.dutchie.com/dd2f6b237bc3ea3069db9666d1f35362?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$38.50",
-    "thc": "27.24%",
-    "strain": "Hybrid",
+    "name": "My Dad's Stash | TangiLand | 3.5g",
+    "brand": "My Dad's Stash",
+    "img": "https://images.dutchie.com/377be5b5a5f186e3377ab9850e99d932?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$35.00",
+    "thc": "27.86%",
+    "strain": "Sativa-Hybrid",
     "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgillie-s-galaxy-joint-custody",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/gillie-s-galaxy-joint-custody"
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fmy-dad-s-stash-tangiland-3-5g",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/my-dad-s-stash-tangiland-3-5g"
   },
   {
     "name": "Made | Gelonade | 3.5g",
@@ -187,15 +165,37 @@
     "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/made-gelonade-3-5g"
   },
   {
-    "name": "Clade9 | LA Piff | 3.5g",
-    "brand": "Clade9",
-    "img": "https://images.dutchie.com/5c139f5f987ea95c48670dea4bf6f51d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$42.00",
-    "thc": "28.64%",
-    "strain": "Sativa-Hybrid",
+    "name": "HIGH ROLLER CLUB | ESPRESSO MARTINI | 5mg",
+    "brand": "The High Roller Club",
+    "img": "https://images.dutchie.com/aea1efb83b81595a2593b5593c2a5164?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$5.60",
+    "thc": "0.01 mg",
+    "strain": null,
     "category": "Staff Picks",
-    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fclade9-la-piff-3-5g",
-    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/clade9-la-piff-3-5g"
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fhigh-roller-club-espresso-martini-5mg",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/high-roller-club-espresso-martini-5mg"
+  },
+  {
+    "name": "Gillie's Galaxy | Joint Custody",
+    "brand": "Harvest Moon Farms",
+    "img": "https://images.dutchie.com/dd2f6b237bc3ea3069db9666d1f35362?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$38.50",
+    "thc": "27.24%",
+    "strain": "Hybrid",
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fgillie-s-galaxy-joint-custody",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/gillie-s-galaxy-joint-custody"
+  },
+  {
+    "name": "Doctor Solomon's Lotion 200mg | Rescue (THC Rich)",
+    "brand": "Doctor Solomon's",
+    "img": "https://images.dutchie.com/a08673c49ecb55d8e031c0f0766e33ba?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$42.00",
+    "thc": "0.03%",
+    "strain": null,
+    "category": "Staff Picks",
+    "url": "https://citirootsdispensarynj.com/menu/?dtche%5Bpath%5D=product%2Fdoctor-solomon-s-lotion-200mg-rescue-thc-rich",
+    "embeddedUrl": "https://dutchie.com/embedded-menu/citi-roots/product/doctor-solomon-s-lotion-200mg-rescue-thc-rich"
   },
   {
     "name": "Harvest Moon Farms | Purple Elephant",
