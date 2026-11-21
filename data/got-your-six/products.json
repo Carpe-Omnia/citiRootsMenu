@@ -352,17 +352,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/full-tilt-peanut-butter-breath-10pk-x-0-5g-pre-rolls"
   },
   {
-    "name": "&Shine | Chicken N Waffles | 1g Pre-Roll",
-    "brand": "&Shine",
-    "img": "https://images.dutchie.com/f9f0afc3005324865a21f2005392c97d?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$12.00",
-    "thc": "25.81%",
-    "strain": "Sativa",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/shine-chicken-n-waffles-1g-pre-roll",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/shine-chicken-n-waffles-1g-pre-roll"
-  },
-  {
     "name": "Full Tilt | Zabubu | 2pk x 0.5g | Pre-Rolls",
     "brand": "Full Tilt Labs",
     "img": "https://images.dutchie.com/2003278db35f6d598937cf6171802421?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -394,6 +383,17 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-sour-diesel-5pk-x-0-35g-pre-rolls",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-sour-diesel-5pk-x-0-35g-pre-rolls"
+  },
+  {
+    "name": "Dogwalkers - Mini Dogs | Cherry Maui Wowie | 5pk x 0.35g | Pre-Rolls",
+    "brand": "Dogwalkers",
+    "img": "https://images.dutchie.com/039070a0c87bd448da5a1d990d1a82dc?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$30.00",
+    "thc": "28.26%",
+    "strain": "Sativa",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-cherry-maui-wowie-5pk-x-0-35g-pre-rolls",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-cherry-maui-wowie-5pk-x-0-35g-pre-rolls"
   },
   {
     "name": "Rythm | Pineapple | Live Rosin | 10mg x 10pk | 100mg",
@@ -715,17 +715,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/springtime-sub-zero-3-5g"
   },
   {
-    "name": "Springtime | Jet Fuel OG | 3.5g",
-    "brand": "Springtime",
-    "img": "https://images.dutchie.com/708a9fe8e7e4d4571678d17d835f9ad4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$45.00",
-    "thc": "28.96%",
-    "strain": "Hybrid",
-    "category": "Popular Flower",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/springtime-jet-fuel-og-3-5g",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/springtime-jet-fuel-og-3-5g"
-  },
-  {
     "name": "Springtime | Hifi 4G #9 | 3.5g",
     "brand": "Springtime",
     "img": "https://images.dutchie.com/75aa64a3bc946d2faaa55054a996f8fe?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -812,5 +801,16 @@
     "category": "Popular Flower",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-e85-7g",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-e85-7g"
+  },
+  {
+    "name": "Park's Grove | Blue Cookies | 3.5g",
+    "brand": "Parks Grove",
+    "img": "https://images.dutchie.com/d54d81a5cd0df460082606a3f56323d9?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$49.50",
+    "thc": "22.8%",
+    "strain": "Hybrid",
+    "category": "Popular Flower",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-blue-cookies-3-5g",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/park-s-grove-blue-cookies-3-5g"
   }
 ]
