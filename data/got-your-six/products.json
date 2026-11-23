@@ -484,17 +484,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/12-beaker-clear-with-blue-accent-98897"
   },
   {
-    "name": "Softglass | Cerulean | Core Water Pipe",
-    "brand": "Softglass",
-    "img": "https://images.dutchie.com/2cffea632f789a39b70cc648fabb6df4?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$50.00",
-    "thc": null,
-    "strain": null,
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/softglass-cerulean-core-water-pipe",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/softglass-cerulean-core-water-pipe"
-  },
-  {
     "name": "Clipper | Classic | Metallic Gradient",
     "brand": "Clipper",
     "img": "https://images.dutchie.com/704cbc8a0096d82ed95cd0e9222ae0e3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -526,6 +515,17 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/zig-zag-ultra-thin-papers-1-1-4",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/zig-zag-ultra-thin-papers-1-1-4"
+  },
+  {
+    "name": "Zig Zag | Original Papers | 1 1/4",
+    "brand": "Zig-Zag",
+    "img": "https://images.dutchie.com/f10ed79f2a0b472c0383b7b314482115?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$1.50",
+    "thc": null,
+    "strain": null,
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/zig-zag-original-papers-1-1-4",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/zig-zag-original-papers-1-1-4"
   },
   {
     "name": "Rythm | Animal Face | 3.5g",
