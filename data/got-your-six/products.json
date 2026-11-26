@@ -429,17 +429,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-maui-wowie-liquid-diamonds-1g-disposable"
   },
   {
-    "name": "Fernway | Mochi | Live Resin | 1g | Traveler",
-    "brand": "Fernway",
-    "img": "https://images.dutchie.com/d9a1c7aba93fccc2012f15ee3f61d8ca?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$46.90",
-    "thc": "82.29%",
-    "strain": "Sativa",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-mochi-live-resin-1g-traveler",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-mochi-live-resin-1g-traveler"
-  },
-  {
     "name": "Fernway | Alpine Strawberry | 1g | Traveler",
     "brand": "Fernway",
     "img": "https://images.dutchie.com/df1ae7fa3e61951e2d08115485787146?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -460,6 +449,17 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-watermelon-z-liquid-diamonds-1g-disposable",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-watermelon-z-liquid-diamonds-1g-disposable"
+  },
+  {
+    "name": "Pantheon x GOTTA | Strain #34 | Live Resin | 1g | Disposable",
+    "brand": "Pantheon",
+    "img": "https://images.dutchie.com/e2e77da54254ba838588e2b30148cd9e?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$46.90",
+    "thc": "94.07%",
+    "strain": "Sativa-Hybrid",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/pantheon-x-gotta-strain-34-live-resin-1g-disposable",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/pantheon-x-gotta-strain-34-live-resin-1g-disposable"
   },
   {
     "name": "Jersey Clouds | Beach Daze | FSO Syringe | 1g",
