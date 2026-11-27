@@ -1,16 +1,5 @@
 [
   {
-    "name": "Fernway | Purple Sunset | Live Resin | 1g | Traveler Pro",
-    "brand": "Fernway",
-    "img": "https://images.dutchie.com/3f7efe8c16f88e7edb4237cc441fcc97?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$56.00",
-    "thc": "80.45%",
-    "strain": "Indica",
-    "category": "Staff Picks",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro"
-  },
-  {
     "name": "Rythm | Animal Face | 3.5g",
     "brand": "RYTHM",
     "img": "https://images.dutchie.com/0ad9686dd12feeb60e7b353811633388?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -20,6 +9,17 @@
     "category": "Staff Picks",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-animal-face-3-5g",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-animal-face-3-5g"
+  },
+  {
+    "name": "Fernway | Purple Sunset | Live Resin | 1g | Traveler Pro",
+    "brand": "Fernway",
+    "img": "https://images.dutchie.com/3f7efe8c16f88e7edb4237cc441fcc97?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$56.00",
+    "thc": "80.45%",
+    "strain": "Indica",
+    "category": "Staff Picks",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro"
   },
   {
     "name": "Core Value | Cookies & Cream Bar | 10pc | 100mg",
@@ -132,17 +132,6 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/canna-her-age-less-beauty-1-1-thc-cbd-20pk-100mg"
   },
   {
-    "name": "Fernway | Purple Sunset | Live Resin | 1g | Traveler Pro",
-    "brand": "Fernway",
-    "img": "https://images.dutchie.com/3f7efe8c16f88e7edb4237cc441fcc97?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$56.00",
-    "thc": "80.45%",
-    "strain": "Indica",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro"
-  },
-  {
     "name": "Rythm | Animal Face | 3.5g",
     "brand": "RYTHM",
     "img": "https://images.dutchie.com/0ad9686dd12feeb60e7b353811633388?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -152,6 +141,17 @@
     "category": "Specials",
     "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-animal-face-3-5g",
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-animal-face-3-5g"
+  },
+  {
+    "name": "Fernway | Purple Sunset | Live Resin | 1g | Traveler Pro",
+    "brand": "Fernway",
+    "img": "https://images.dutchie.com/3f7efe8c16f88e7edb4237cc441fcc97?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$56.00",
+    "thc": "80.45%",
+    "strain": "Indica",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/fernway-purple-sunset-live-resin-1g-traveler-pro"
   },
   {
     "name": "Core Value | Cookies & Cream Bar | 10pc | 100mg",
@@ -341,6 +341,17 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-cherry-maui-wowie-5pk-x-0-35g-pre-rolls"
   },
   {
+    "name": "Dogwalkers - Mini Dogs | Afternoon Delight #4 | 5pk x 0.35g | Pre-Rolls",
+    "brand": "Dogwalkers",
+    "img": "https://images.dutchie.com/284ed2fe91798ae8c554f7c26d466a30?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$30.00",
+    "thc": "31.72%",
+    "strain": "Hybrid",
+    "category": "Specials",
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-afternoon-delight-4-5pk-x-0-35g-pre-rolls",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-afternoon-delight-4-5pk-x-0-35g-pre-rolls"
+  },
+  {
     "name": "Dogwalkers - Big Dog | Afternoon Delight #4 | 1g | Single",
     "brand": "Dogwalkers",
     "img": "https://images.dutchie.com/2bbba573f7002950660b9d7fe99658a3?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
@@ -352,26 +363,15 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-big-dog-afternoon-delight-4-1g-single"
   },
   {
-    "name": "Dogwalkers - Mini Dogs | Cheddar Cheeze | 5 x 0.35g  Pre-Rolls",
-    "brand": "Dogwalkers",
-    "img": "https://images.dutchie.com/63266d9d6abf79c236f07130c340c9fb?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$27.00",
-    "thc": "26.07%",
+    "name": "Strawberry Shortcake | Infused Pre-Roll | Indica | 1g",
+    "brand": "RYTHM",
+    "img": "https://images.dutchie.com/386591eeab5e4a58fd4a82e2e5db3678?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$25.00",
+    "thc": "48.69%",
     "strain": "Indica",
     "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-cheddar-cheeze-5-x-0-35g-pre-rolls",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-cheddar-cheeze-5-x-0-35g-pre-rolls"
-  },
-  {
-    "name": "Dogwalkers - Mini Dogs | Afternoon Delight #4 | 5pk x 0.35g | Pre-Rolls",
-    "brand": "Dogwalkers",
-    "img": "https://images.dutchie.com/284ed2fe91798ae8c554f7c26d466a30?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$30.00",
-    "thc": "31.72%",
-    "strain": "Hybrid",
-    "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-afternoon-delight-4-5pk-x-0-35g-pre-rolls",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/dogwalkers-mini-dogs-afternoon-delight-4-5pk-x-0-35g-pre-rolls"
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/strawberry-shortcake-infused-pre-roll-indica-1g-53128",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/strawberry-shortcake-infused-pre-roll-indica-1g-53128"
   },
   {
     "name": "Rythm | Watermelon | Live Rosin | 10mg x 10pk | 100mg",
@@ -385,15 +385,15 @@
     "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-watermelon-live-rosin-10mg-x-10pk-100mg"
   },
   {
-    "name": "Rythm | Pineapple | Live Rosin | 10mg x 10pk | 100mg",
-    "brand": "RYTHM",
-    "img": "https://images.dutchie.com/8726b29ff1f5655f7d9675b1d9b19b92?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
-    "price": "$25.00",
-    "thc": "100 mg",
-    "strain": "Sativa",
+    "name": "Beboe | Sparkling Pear | 1:1 THC:CBG | 5mg x 20pk | 100mg",
+    "brand": "Beboe",
+    "img": "https://images.dutchie.com/61db6c2b29fb1efc669fca848ce0d23a?auto=format%2Ccompress&cs=srgb&fit=max&fill=solid&fillColor=%23fff&ixlib=react-9.8.1&h=188&w=188",
+    "price": "$16.00",
+    "thc": "0.09%",
+    "strain": "Hybrid",
     "category": "Specials",
-    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-pineapple-live-rosin-10mg-x-10pk-100mg",
-    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/rythm-pineapple-live-rosin-10mg-x-10pk-100mg"
+    "url": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/beboe-sparkling-pear-1-1-thc-cbg-5mg-x-20pk-100mg",
+    "embeddedUrl": "https://gotyoursixdispensary.com/stores/got-your-six-llc/product/beboe-sparkling-pear-1-1-thc-cbg-5mg-x-20pk-100mg"
   },
   {
     "name": "Rythm | Durban Poison | Liquid Diamonds | 1g | Disposable",
